@@ -1,0 +1,6 @@
+
+š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯8µî¡•ñ1J$6d49c15d-346b-4fb3-bc5f-e35ac71e5d32
+r	java:S106"+Replace this use of System.out by a logger.(¨•¨œüÿÿÿÿ8¾Ç‡•ñ1J$8e15cd72-a82e-47e7-880e-7a4f5aaedb5c
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8êåˆ•ñ1J$23f14fc8-111c-4d43-be1f-2e5983f9f043
+k	java:S108")Either remove or fill this block of code.(Úîø›8êåˆ•ñ1J$ae24fec4-aa9c-4d48-a28c-e1514f8587a1

@@ -1,0 +1,14 @@
+
+r
+java:S3740
+"/Provide the parametrized type for this generic.(ΧΙη³8΅€†ζο1J$6aa81f56-cb48-489d-8d13-fac3a8ca2162
+
+java:S1598"ΜThis file "ClassExample.java" should be located in "com\multi\practice\class1" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\class1".(ΏΠζώ8΅€†ζο1J$8b63464a-6ca8-4bca-821b-356402953242
+΄
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΩΨ¤ήύÿÿÿÿ8Όάζο1J$465db7b6-100b-48d1-8906-d298709e0022
+~	java:S125"<This block of commented-out lines of code should be removed.(ψ™8¥€†ζο1J$f1455170-17cc-4b54-aff0-09bad8f4c6f5
+€
+java:S2133	"=Remove this object instantiation and use "Car.class" instead.(”‘ά¬8Ύάζο1J$9dd816a9-ca21-448b-a0e9-372b7742bded
+r	java:S106"+Replace this use of System.out by a logger.(’µ³ύÿÿÿÿ8¦€†ζο1J$115161a1-d185-4769-a2ce-37a477db2222
+m	java:S106"+Replace this use of System.out by a logger.(›¦ομ8¦€†ζο1J$ae5f5412-160d-45bf-aad2-ae17e63ab5fb
+r	java:S106"+Replace this use of System.out by a logger.(‘·¨Òώÿÿÿÿ8¦€†ζο1J$9d0f9cfb-dcf6-44ed-befd-5cbc05acad7b

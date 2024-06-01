@@ -1,0 +1,13 @@
+
+
+java:S1598"ÆThis file "Boxing.java" should be located in "com\multi\practice\exam20" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\exam20".(Œú£øÿÿÿÿ8¡Ôçï1J$7ffc5f92-b259-4b56-bd8f-ad9c93fd4ddb
+i
+java:S2129"!Remove this "Integer" constructor(î®ì§ûÿÿÿÿ8¦Ôçï1J$4996e195-07e8-4d8c-ae79-88c41404be78
+
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(î®ì§ûÿÿÿÿ8¦Ôçï1J$c24cb648-f31f-4fd2-8bab-81e922ba0c7f
+‹
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ìî“Ÿ8¦Ôçï1J$5161cf79-147b-4ed9-bbf5-74db887bb8b2
+
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(È•„Šûÿÿÿÿ8§Ôçï1J$67ed93ff-44c3-433f-a031-bdd2dad9f1a6
+r	java:S106"+Replace this use of System.out by a logger.(­ÎºÊüÿÿÿÿ8§Ôçï1J$3f99c61f-0913-4736-b396-2d65202f17d4
+G	java:S106"+Replace this use of System.out by a logger.(·ôí·8–˜Õçï1

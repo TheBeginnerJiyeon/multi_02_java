@@ -1,0 +1,12 @@
+
+š
+java:S1104"RMake wallet a static final constant or non-public and provide accessors if needed.(¢ëÉ§ûÿÿÿÿ8¶†íÍğ1J$031be726-a430-473e-a778-426dba62a94b
+”
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š8ÀåìÍğ1J$838946b7-af94-4947-9e74-be02b72da115
+t
+java:S1444",Make this "public static wallet" field final(¢ëÉ§ûÿÿÿÿ8¶†íÍğ1J$834a3a1a-7f99-4318-89e4-fecb3a251448
+n
+java:S1444"+Make this "public static count" field final(ëª™Š8ÀåìÍğ1J$885665aa-383c-47b5-8cbd-e633f9888c25
+@
+java:S3010"#Remove this assignment of "wallet".(°ë®´8£òÍğ1
+m	java:S106"+Replace this use of System.out by a logger.(éÀºÆ8‘‡æÍğ1J$3a29ba7a-3ff2-4678-abd6-211397b85411

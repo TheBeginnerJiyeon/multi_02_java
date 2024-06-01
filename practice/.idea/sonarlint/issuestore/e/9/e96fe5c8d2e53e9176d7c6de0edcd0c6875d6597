@@ -1,0 +1,7 @@
+
+
+java:S1598"ÄThis file "Example2.java" should be located in "com\multi\practice\beep" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\beep".(ÓñÇåúÿÿÿÿ8àÉ©êï1J$935b0e96-c8bb-40aa-8963-0f36e8463d34
+r	java:S106"+Replace this use of System.out by a logger.(ùé½îüÿÿÿÿ8åÉ©êï1J$f257813d-bc82-47af-b63c-8ca832955756
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8åÉ©êï1J$7a6f93a5-3b85-46fc-9c1c-5eeebc0c34dd
+k	java:S108")Either remove or fill this block of code.(”ı¾8åÉ©êï1J$680be881-098f-40ea-a96e-4b26731d2f1c

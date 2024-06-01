@@ -1,0 +1,29 @@
+
+™	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÑÖ¹ÿÿÿÿÿ8ŞÙ¦âö1J$00cf398d-d860-4758-9bc6-064a3db266c5
+™	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åü§÷úÿÿÿÿ8ŞÙ¦âö1J$32e54caf-2667-481c-b2e9-82d7b98c2023
+p
+java:S1604X"(Make this anonymous inner class a lambda(½Ÿûºùÿÿÿÿ8ŞÙ¦âö1J$788365fa-3742-4666-8fdb-c3b5c03e51f1
+p
+java:S1604m"(Make this anonymous inner class a lambda(¯šæØøÿÿÿÿ8ŞÙ¦âö1J$9f604ad5-aa4a-4b01-8596-91ead21a2d63
+l
+java:S1604‡"(Make this anonymous inner class a lambda(§Ùšá8ŞÙ¦âö1J$627e04e1-7e2b-47d9-afed-da0fdcd7f560
+k
+java:S1604¼"(Make this anonymous inner class a lambda(ÄÏ”98ŞÙ¦âö1J$26a7cdff-9dfe-48d7-baa6-30e89e821ced
+l
+java:S1604î"(Make this anonymous inner class a lambda(é«¬ª8ŞÙ¦âö1J$be454198-85b8-4085-9e45-4893a4ec763b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‘™Á8àÙ¦âö1J$923c75f8-1802-45b5-a468-711d527c993f
+‘
+java:S3252,"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8ïÙ¦âö1J$0cf794d6-58eb-41f2-b9a9-62f3c3a1b7da
+€
+java:S1854ó"7Remove this useless assignment to local variable "gbc".(Ø‰¬çøÿÿÿÿ8õÙ¦âö1J$d8f42efa-c364-4bd3-89ee-8303cf169fdd
+q
+java:S1481ó"(Remove this unused "gbc" local variable.(Ø‰¬çøÿÿÿÿ8öÙ¦âö1J$78a1f872-3e2f-495f-a4df-9b0fdd3ab8dd
+y
+java:S2209«"5Change this instance-reference to a static reference.(âùâŒ8÷Ù¦âö1J$94138c9f-aa86-4a61-878e-cc32d44a479a
+~
+java:S2209¸"5Change this instance-reference to a static reference.(Íˆ¸ëşÿÿÿÿ8–äö1J$601058fe-a927-408a-a6c4-ed1b693c089e
+|
+java:S1854Í"8Remove this useless assignment to local variable "home".(¿ÓÜê8øÙ¦âö1J$2f134ac6-9646-4e7b-ad6f-6b0e2434bfec
+s	java:S106Ê"+Replace this use of System.out by a logger.(şü“¡ûÿÿÿÿ8øÙ¦âö1J$4400abab-ad05-4460-bb12-7c00cf76d94c
+m
+java:S1481Í")Remove this unused "home" local variable.(¿ÓÜê8øÙ¦âö1J$1831f14c-fc4d-4fed-8261-84944f514e43

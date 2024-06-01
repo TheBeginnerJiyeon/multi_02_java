@@ -1,0 +1,33 @@
+
+Š
+java:S2259q"BA "NullPointerException" could be thrown; "str1" is nullable here.(¿ïÁ‡ùÿÿÿÿ8ÂÈÏœñ1J$9793a4b8-4cb1-4df2-8de5-52c3803141b5
+m	java:S106$"+Replace this use of System.out by a logger.(åÃÆÎ8ÆÈÏœñ1J$4382e12e-db22-43db-8c89-5b2f1bf1873f
+m	java:S106'"+Replace this use of System.out by a logger.(ñ¢ìÆ8ÆÈÏœñ1J$05fcdbec-2a76-4dd2-8a12-35fd01a6d9b7
+~	java:S125/"<This block of commented-out lines of code should be removed.(í•†î8ÆÈÏœñ1J$6e14deb0-b4f1-476b-9e10-1212f2972c4a
+~	java:S1258"<This block of commented-out lines of code should be removed.(½‘Ñ³8ÆÈÏœñ1J$b187b62f-e489-4997-847a-7407bbb1d5ee
+r	java:S106D"+Replace this use of System.out by a logger.(Ñ‡·Æüÿÿÿÿ8ÆÈÏœñ1J$a229cbf5-71fe-4eb1-98dc-1fb5e00e3b76
+r	java:S106G"+Replace this use of System.out by a logger.(Š•éùÿÿÿÿ8ÇÈÏœñ1J$46b9250c-2479-4adc-820c-89d2452875fe
+y
+java:S1854["7Remove this useless assignment to local variable "arr".(¬×¶(8ÇÈÏœñ1J$e1ece477-dc76-440c-81d7-4f665245ee11
+r	java:S106N"+Replace this use of System.out by a logger.(ÑïÈıÿÿÿÿ8ÇÈÏœñ1J$aa38e6c1-8b46-4545-b1d1-101e275e99c4
+~	java:S125Q"<This block of commented-out lines of code should be removed.(½‘Ñ³8ÇÈÏœñ1J$fcf6dad8-93fb-43d9-836e-7caa0c718d1c
+r	java:S106Y"+Replace this use of System.out by a logger.(‘ŒöÁøÿÿÿÿ8ÇÈÏœñ1J$bbe0ebed-15f5-47d7-82fd-550de2ae417c
+j
+java:S1481["(Remove this unused "arr" local variable.(¬×¶(8ÇÈÏœñ1J$724fb318-b57b-4622-9f39-e3097d04817e
+z
+java:S1854c"7Remove this useless assignment to local variable "obj".(¼‰á8ÈÈÏœñ1J$15b07b2f-e110-4d54-9745-799a9ab67a47
+
+java:S1854q"7Remove this useless assignment to local variable "len".(¿ïÁ‡ùÿÿÿÿ8ÈÈÏœñ1J$6c5882f4-52cb-4926-ae40-a00681497cce
+k
+java:S1481c"(Remove this unused "obj" local variable.(¼‰á8ÈÈÏœñ1J$df414d30-ba5c-49ba-bd36-911d5dc36856
+ƒ	java:S125i"<This block of commented-out lines of code should be removed.(Û”“ÿÿÿÿÿ8ÈÈÏœñ1J$9572b5d1-98dc-473f-a25d-b1101f892294
+~	java:S125n"<This block of commented-out lines of code should be removed.(²ßŞÓ8ÈÈÏœñ1J$b059fd4e-3d67-409c-800d-91864a170a05
+p
+java:S1481q"(Remove this unused "len" local variable.(¿ïÁ‡ùÿÿÿÿ8ÈÈÏœñ1J$a050c0ae-b20d-4604-a7c4-ba36a1ef2bd9
+ƒ	java:S125t"<This block of commented-out lines of code should be removed.(öôÛ®ùÿÿÿÿ8ÈÈÏœñ1J$22767f65-db5b-4db4-8d67-0d7e70f5dc0e
+r	java:S106"+Replace this use of System.out by a logger.(ç‘ë®üÿÿÿÿ8ÈÈÏœñ1J$590be7c5-c70f-4a31-8465-08b7a4ba3fc5
+n	java:S106€"+Replace this use of System.out by a logger.(û ¸8ÈÈÏœñ1J$a02f6d80-852f-4650-b107-4320d1f7a17c
+s	java:S106"+Replace this use of System.out by a logger.(–ûëŞøÿÿÿÿ8ÈÈÏœñ1J$2217406b-da93-4a52-a467-2524fac8dfb7
+	java:S125†"<This block of commented-out lines of code should be removed.(Êşÿò8ÈÈÏœñ1J$42eb7130-b759-4add-892d-977b9129acd6
+s	java:S106‹"+Replace this use of System.out by a logger.(ÈÜêÉùÿÿÿÿ8ÊÈÏœñ1J$3f844766-2ea1-4511-8be7-25f814eb613f
+s	java:S106"+Replace this use of System.out by a logger.(ˆÂÖ®ÿÿÿÿÿ8ÊÈÏœñ1J$35361917-7a65-459f-ba85-79d1b8704239

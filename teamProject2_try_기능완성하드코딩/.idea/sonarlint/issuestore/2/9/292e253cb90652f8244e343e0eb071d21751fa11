@@ -1,0 +1,12 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ¯ô8»åÄíö1J$0cc74e28-6f8c-47f9-93be-9a1c8dc4a2e8
+’	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ®ªu8¼åÄíö1J$72966166-9fb4-4864-bd15-4635e671d7a1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëˆ‘€úÿÿÿÿ8ä©Âíö1J$645ec75f-040b-4a4b-8b5e-692d4c47dd35
+”	java:S116"RRename this field "user_Id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•“»ï8å©Âíö1J$ff8d3f95-7e3c-4252-b0a3-2c98a25ef62e
+—	java:S116	"URename this field "write_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àêçî8æ©Âíö1J$6f0a9dfb-e115-4934-ae1a-92823b3e3ba9
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îŞªÓüÿÿÿÿ8Ê±Äíö1J$1ee83f11-12d5-4976-872f-feccaa1da5cb
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ú¶ğÿÿÿÿÿ8ÃåÄíö1J$1932d92c-cdcf-4181-ab9f-089a28826fa9
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èğ¯ô8ÄåÄíö1J$8713d5c7-8ef5-49ae-9b2f-df604174f057
+	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùñ—8ÅåÄíö1J$168daf33-1094-41bd-8637-50bdf57bf0cd
+	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ®ªu8ÆåÄíö1J$f4c5bc26-bb00-45c6-97e9-bcd089ff677b

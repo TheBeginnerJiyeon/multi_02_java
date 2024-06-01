@@ -1,0 +1,19 @@
+
+k
+java:S16040"(Make this anonymous inner class a lambda(ÙÒí¼8ËÛğÌò1J$1e1b90ac-c722-434d-bdc6-1f4ec89c83c4
+p
+java:S1604["(Make this anonymous inner class a lambda(¦Üö²ÿÿÿÿÿ8ËÛğÌò1J$8f0178df-5e21-4e77-b44b-a8581bb97bbb
+k
+java:S1604n"(Make this anonymous inner class a lambda(×š¨Å8ÌÛğÌò1J$5e61369c-d917-430e-b8a4-a0deb093e038
+—
+java:S1450"URemove the "addBtn" field and declare it as a local variable in the relevant methods.(ŞÚ¥$8™ÜğÌò1J$de63fdee-1a87-4f13-ae5d-dd8f8cac8021
+œ
+java:S1450"ZRemove the "completeBtn" field and declare it as a local variable in the relevant methods.(¼À8™ÜğÌò1J$289ffb72-d344-46d8-bfd8-d2b06f0d9276
+ 
+java:S1450"XRemove the "deleteBtn" field and declare it as a local variable in the relevant methods.(ÄûƒÉüÿÿÿÿ8™ÜğÌò1J$966a4058-a6f5-4839-9e33-364daf630edf
+ 
+java:S1450"XRemove the "taskField" field and declare it as a local variable in the relevant methods.(éùË°şÿÿÿÿ8šÜğÌò1J$33c772a4-874d-4e0b-85e9-db321396bc40
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8£ÜğÌò1J$8bfb35ff-992f-4465-89e9-bfbc93672529
+~	java:S125a"<This block of commented-out lines of code should be removed.(Å¨ù»8Ãú½Ïò1J$4b243900-3e9d-4bb4-b955-77b7b41ef439
+~	java:S125f"<This block of commented-out lines of code should be removed.(Å¨ù»8³•¾Ïò1J$11c39d80-7300-42dd-9645-393fc1510a61

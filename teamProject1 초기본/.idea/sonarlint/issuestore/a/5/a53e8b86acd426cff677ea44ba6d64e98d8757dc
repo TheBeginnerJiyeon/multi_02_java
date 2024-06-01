@@ -1,0 +1,28 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‘™Á8îÁ…Ñö1J$b4f0bdbe-6094-4ed6-94d6-ec36bf7021d5
+‘
+java:S3252."IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8õÁ…Ñö1J$31d3b430-73aa-43a5-866b-ab358b8cb152
+n
+java:S1068"+Remove this unused "editBtn" private field.(öŸ®Ó8øÁ…Ñö1J$e77c9633-7304-4c04-a77e-e46f4b5d4537
+p
+java:S1068"-Remove this unused "deleteBtn" private field.(‚Ú’³8øÁ…Ñö1J$8e806029-970f-4308-8e0b-496e7cbc1f10
+t
+java:S1068",Remove this unused "writeBtn" private field.(ÎôùÎıÿÿÿÿ8øÁ…Ñö1J$1c035418-3318-4c78-ad40-213cf461cfaa
+t
+java:S1068"1Remove this unused "selectByIdBtn" private field.(Ùü–ƒ8¹Â†Ñö1J$a7a9b029-e4ef-4829-8a82-c93c7c30d885
+t
+java:S1068",Remove this unused "edit2Btn" private field.(ìöùçÿÿÿÿÿ8ªë‰Ñö1J$9d89eab8-e299-4f8a-9a5d-86c89fb405f0
+n
+java:S1068",Remove this unused "homeBtn2" private field.(Æ»á8İ¿•Ñö1J$3e690a49-4465-443b-a4e3-e49096f23a04
+l
+java:S1068#")Remove this unused "midP2" private field.(ïĞÅÌ8øÁ…Ñö1J$e960b190-f827-4d50-b704-4a2a2b252a06
+q
+java:S1068$")Remove this unused "midP3" private field.(¬‡°ìøÿÿÿÿ8øÁ…Ñö1J$ed33ed0a-3b0a-4ceb-8fdf-99508a13c4eb
+l
+java:S1068%")Remove this unused "midP4" private field.(èœÜ8øÁ…Ñö1J$5c4eac01-d39a-4f91-8a08-36af3c1041cd
+l
+java:S1068&")Remove this unused "midP5" private field.(É¿Ï8øÁ…Ñö1J$c9f42444-771f-4888-8538-07560a5bc672
+q
+java:S1068'")Remove this unused "midP6" private field.(‡áƒîûÿÿÿÿ8øÁ…Ñö1J$456b811c-d73a-47fb-8269-82e68b462890
+l
+java:S1068(")Remove this unused "midP7" private field.(©æùë8øÁ…Ñö1J$5f92728d-5d1c-4cdf-ae8e-e461b9ce5653

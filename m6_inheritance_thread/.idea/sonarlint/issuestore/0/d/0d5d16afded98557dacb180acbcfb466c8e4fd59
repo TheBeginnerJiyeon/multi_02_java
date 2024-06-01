@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÂ–8èı®­ñ1J$64319faf-b71e-441e-9e5a-d7bf3dfe0714
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÅê¬8éı®­ñ1J$1c360813-d362-4323-b381-5d7ad4860134
+g
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ8îı®­ñ1J$9beb3eeb-960e-464c-aa01-5dc7c0d77456
+a
+java:S3010"Remove this assignment of "f".(¥¹°’8ïı®­ñ1J$62ee21ad-4348-40ae-ac09-119f03531b64
+x
+java:S2209"5Change this instance-reference to a static reference.(¥¹°’8ğı®­ñ1J$7cd7a129-2d9b-4e6f-9d19-c24ce314c693
+q
+java:S2140")Use "java.util.Random.nextInt()" instead.(ü‹úÛùÿÿÿÿ8ñı®­ñ1J$0a3c75ef-a990-46c6-89d5-740f2fc9b84d
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ñı®­ñ1J$b3260f22-8ceb-4964-843c-b0fca232ffc6

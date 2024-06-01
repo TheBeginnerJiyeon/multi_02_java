@@ -1,0 +1,9 @@
+
+¡
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åá€‘ýÿÿÿÿ8‚ª‡‹ð1J$e9fa48f0-254f-4393-8cdf-ebde886f7826
+¤
+java:S1598"àThis file "Vector.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8ƒª‡‹ð1J$852f9641-a2ee-4e88-828f-ba402189ba33
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8„ª‡‹ð1J$3e5f57f7-a560-4729-a011-3b545520982c
+­
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Åá€‘ýÿÿÿÿ8†ª‡‹ð1J$7edda39f-075b-492c-9453-f3f543dc0668
+r	java:S106"+Replace this use of System.out by a logger.(ËÂ¦Ùûÿÿÿÿ8Šª‡‹ð1J$d97715d2-67f4-4a2a-8c66-0dc4031aaefd

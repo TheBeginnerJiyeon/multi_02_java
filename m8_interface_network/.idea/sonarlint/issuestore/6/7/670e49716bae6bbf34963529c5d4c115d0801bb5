@@ -1,0 +1,9 @@
+
+l	java:S106"+Replace this use of System.out by a logger.(Õ¤«8”ñ×Îñ1J$e8cb73ef-6ddb-4920-8fa7-a3ef3d2e537d
+r	java:S106"+Replace this use of System.out by a logger.(×ÊìÍþÿÿÿÿ8”ñ×Îñ1J$e0f560f0-e5ad-420b-865b-168e48cdbad4
+ 
+java:S3038"X"act" is defined in the "KSingerInterface" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8•ñ×Îñ1J$ba9c55fe-0570-4bcc-b893-d07908fd7ef4
+¡
+java:S3038"Y"spicy" is defined in the "KoreanInterface" interface and can be removed from this class.(òº‘ïûÿÿÿÿ8•ñ×Îñ1J$906df052-f174-4101-b761-b282608950a2
+r	java:S106"+Replace this use of System.out by a logger.(øØþÌúÿÿÿÿ8•ñ×Îñ1J$e87b007f-a5c3-4c2f-9c42-3f9c44a5a32f
+m	java:S106""+Replace this use of System.out by a logger.(ç¤§Ó8•ñ×Îñ1J$99750fdb-f435-4c98-b613-2a1a59b767b2

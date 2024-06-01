@@ -1,0 +1,19 @@
+
+“	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õñÑø8áØúÈğ1J$b024471d-1ff2-4240-a50f-4c2f0d95959d
+“	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºôî¸8áØúÈğ1J$0f8cf2e0-0e85-45f1-a41b-8167a68e45e6
+p
+java:S1604K"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ8ãØúÈğ1J$ebc811d3-189f-47e6-b3fc-284a0e7887f4
+p
+java:S1604e"(Make this anonymous inner class a lambda(ûæªÕøÿÿÿÿ8ãØúÈğ1J$fc447165-4d17-4212-ad6d-6b8aa5e8fde1
+p
+java:S1604{"(Make this anonymous inner class a lambda(ŞîàÄıÿÿÿÿ8ãØúÈğ1J$1ef0d5d2-7fc1-4ee4-96b2-fcb30c0b5064
+˜
+java:S1450"VRemove the "result1" field and declare it as a local variable in the relevant methods.(¸ßÿ)8íØúÈğ1J$f21683ef-dd28-427e-af3e-23d290edcd41
+‘
+java:S3252 "IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8ğØúÈğ1J$726019af-1cba-417e-ad12-f6873d5fb28e
+ƒ	java:S125N"<This block of commented-out lines of code should be removed.(Ä™÷°ÿÿÿÿÿ8óØúÈğ1J$ac5f6064-48a8-439d-8d21-97e22d2e6aa9
+ƒ	java:S125V"<This block of commented-out lines of code should be removed.(ÒŠÆ›úÿÿÿÿ8êŠÂÉğ1J$9fae0017-fb47-4c0c-8580-83148b8c44d1
+ƒ	java:S125h"<This block of commented-out lines of code should be removed.(èã¾½ûÿÿÿÿ8ôØúÈğ1J$3a49babf-ed53-4be0-8318-2f16455e3ba1
+ƒ	java:S125~"<This block of commented-out lines of code should be removed.(…µìÿûÿÿÿÿ8õØúÈğ1J$b06e1131-2cd1-443b-a007-273316f21468
+i
+java:S1068"'Remove this unused "img" private field.(•ßó8öØúÈğ1J$135fbef1-62fc-4aa3-bd71-b178853d37f3

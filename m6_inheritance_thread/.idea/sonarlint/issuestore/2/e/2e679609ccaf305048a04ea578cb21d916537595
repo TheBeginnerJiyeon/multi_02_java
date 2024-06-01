@@ -1,0 +1,71 @@
+
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ÿû¿‡ñ1J$a78158f4-9d35-4321-b947-f6051b241c69
+	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ÿû¿‡ñ1J$bbe09973-1c18-4c71-966b-2906a4b5a079
+	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ÿû¿‡ñ1J$089a2583-d92a-4216-bb37-6a2282766c5a
+	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ÿû¿‡ñ1J$423c2cda-44ef-4ef9-8976-8a900a01418c
+	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ÿû¿‡ñ1J$a96a6ae8-6d2b-4983-8620-c29a56540f79
+	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ÿû¿‡ñ1J$7e5430aa-0b91-42bd-a0de-31d962aa9cbd
+w
+java:S3740"/Provide the parametrized type for this generic.(×ƒÁøşÿÿÿÿ8Ÿû¿‡ñ1J$cda2897f-b0c2-47ff-a17c-5f82842d3896
+w
+java:S3740"/Provide the parametrized type for this generic.(×ƒÁøşÿÿÿÿ8 û¿‡ñ1J$c882d286-6a5a-40f0-9596-5919948a099e
+r
+java:S3740Y"/Provide the parametrized type for this generic.(€ëÈ8 û¿‡ñ1J$cc4607f9-d6a1-4134-a067-da3826004bc4
+Û
+java:S1192v"—Define a constant instead of duplicating this literal "ì˜ ì„ íƒì§€ ì¤‘ í•˜ë‚˜ì˜ ìˆ«ìë¥¼ ì…ë ¥í•˜ì„¸ìš”!!! ì²˜ìŒìœ¼ë¡œ ëŒì•„ê°‘ë‹ˆë‹¤." 3 times.(²ã‘8 û¿‡ñ1J$caedb2ea-e046-4a79-99cc-d4a1688bb21e
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8 û¿‡ñ1J$0579e73d-fcfe-4b7f-be61-85df64115de6
+ 	java:S135k"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¡û¿‡ñ1J$0e33a59f-9aa2-48cf-930d-fe6f7f07f195
+¡	java:S135²"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¡û¿‡ñ1J$7c6e84f0-438c-45e9-84e1-7dfe459f89bb
+³
+java:S1319Y"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(€ëÈ8¡û¿‡ñ1J$d707d8bb-118d-494a-b818-e9974923f037
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹©›¡8Ãû¿‡ñ1J$c88bfe44-699c-4480-8664-50e500edd98b
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¹íÛîşÿÿÿÿ8Æû¿‡ñ1J$09cefb4b-2353-403b-81e5-28db2699cd1b
+m	java:S106"+Replace this use of System.out by a logger.(ò¿ùÕ8Æû¿‡ñ1J$09df271b-c510-4195-aae7-5072187319ee
+¡
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Èû¿‡ñ1J$5abfe4d5-0f0f-4aa7-8cff-addfd0bba3b5
+¡
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Èû¿‡ñ1J$c2ccf3c7-86fa-4dd3-b20b-4bb24d941009
+~
+java:S2696/"6Make the enclosing method "static" or remove this set.(ëæûÿÿÿÿÿ8Èû¿‡ñ1J$d82aa9fd-a073-4efe-a246-b5a009ae6d29
+m	java:S1061"+Replace this use of System.out by a logger.(ğ·”’8Èû¿‡ñ1J$2c07ff66-e760-4287-99db-853a057955e5
+¡
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Èû¿‡ñ1J$cbb39622-15e8-468f-afa3-e94eb80fef8e
+¡
+java:S2142A"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Éû¿‡ñ1J$1dee636d-79a9-45e6-ad46-6e01c75e2bcf
+l	java:S106I"+Replace this use of System.out by a logger.(»‚ˆ
+8Éû¿‡ñ1J$fbbe3765-9c3a-4b3d-a96d-e67c72dae6d6
+m	java:S106M"+Replace this use of System.out by a logger.(¤Â®Ü8Éû¿‡ñ1J$302ce305-6fb0-4f20-b1da-a4f2649cbce8
+m	java:S106U"+Replace this use of System.out by a logger.(Á Üé8Éû¿‡ñ1J$b035c4a3-172f-4441-9c60-7598630b7996
+•
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(€ëÈ8Éû¿‡ñ1J$b0af88fc-93b5-477a-9930-1dc2d2b5de2c
+r	java:S106\"+Replace this use of System.out by a logger.(‚ÛÍŞùÿÿÿÿ8Éû¿‡ñ1J$4a3b39ff-252c-4fff-9f89-864e261940f7
+r	java:S106`"+Replace this use of System.out by a logger.(Ç¯íúÿÿÿÿ8Êû¿‡ñ1J$bc332d65-6629-44b2-a8a5-8e191f8bb8e0
+~
+java:S1751b"6Remove this "return" statement or make it conditional.(„îµ„ûÿÿÿÿ8Êû¿‡ñ1J$8436a8f2-2786-4547-8f71-22a21dc42343
+m	java:S106g"+Replace this use of System.out by a logger.(£ŸŒ´8Êû¿‡ñ1J$906b5896-2157-4254-ba48-7e84cd92e45b
+r	java:S106l"+Replace this use of System.out by a logger.(¤ÁĞÄûÿÿÿÿ8Êû¿‡ñ1J$b9297519-4d3d-4eb8-a481-3e6064878463
+r	java:S106t"+Replace this use of System.out by a logger.(˜É„üÿÿÿÿ8Êû¿‡ñ1J$97f8d22d-66cf-466c-abc0-5080db63de51
+m	java:S106v"+Replace this use of System.out by a logger.(²ã‘8Êû¿‡ñ1J$c570cae2-7edf-46a8-a01e-bcff5872cfbc
+m	java:S106{"+Replace this use of System.out by a logger.(²ã‘8Êû¿‡ñ1J$9ffc1625-569a-4439-a868-6dfffe480c23
+m	java:S106"+Replace this use of System.out by a logger.(éşĞê8Êû¿‡ñ1J$1536f1d4-20f1-42e2-b0c6-b6d950ca3df9
+n	java:S106‚"+Replace this use of System.out by a logger.(œ±Ó¯8Êû¿‡ñ1J$3a999309-8848-489a-980a-6857f2adccd4
+m	java:S106†"+Replace this use of System.out by a logger.(—’­8Ëû¿‡ñ1J$95322bfa-dbb1-4c63-b302-df0c1b7bfd37
+s	java:S106"+Replace this use of System.out by a logger.(æ±Üêøÿÿÿÿ8Ëû¿‡ñ1J$aa717340-c1bc-4653-87f1-accb9586f303
+s	java:S106”"+Replace this use of System.out by a logger.(°Äüóüÿÿÿÿ8Ëû¿‡ñ1J$96b944e4-b49f-4cd6-ac6b-441aff781360
+¢
+java:S2142—"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ëû¿‡ñ1J$15b0531c-d9ce-408e-9fbb-fc9a9b5ff216
+¢
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ëû¿‡ñ1J$24279019-9868-4139-ab7a-1fe02a995713
+n	java:S106§"+Replace this use of System.out by a logger.(ÛİÍ¢8Ëû¿‡ñ1J$3aedf247-dc62-48ba-b7a9-ed95f690e999
+s	java:S106´"+Replace this use of System.out by a logger.(‚ÛÍŞùÿÿÿÿ8Ìû¿‡ñ1J$edc053b5-ca6b-4e9b-a7c6-b28fba180080
+n	java:S106¹"+Replace this use of System.out by a logger.(¼±’Û8Ìû¿‡ñ1J$f3d103e7-d850-4808-a595-578a0afe67df
+s	java:S106Á"+Replace this use of System.out by a logger.(˜É„üÿÿÿÿ8Ìû¿‡ñ1J$e8e0c5eb-8491-4e5d-bc83-68f3fcece09e
+n	java:S106Â"+Replace this use of System.out by a logger.(²ã‘8Ìû¿‡ñ1J$f0d08f52-bf74-4fef-b977-7fc68c60e6da
+n	java:S106Ç"+Replace this use of System.out by a logger.(²ã‘8Ìû¿‡ñ1J$496aae31-152a-48cd-925f-b67ee4c62c61
+s	java:S106Ë"+Replace this use of System.out by a logger.(£»Âáüÿÿÿÿ8Ìû¿‡ñ1J$c989ab58-c4c8-4fc3-af9d-ba789e1b00ce
+z
+java:S2696Ì"6Make the enclosing method "static" or remove this set.( §8Ìû¿‡ñ1J$3092da72-96bf-4b3b-bb17-cfa9c392b311
+n	java:S106Ğ"+Replace this use of System.out by a logger.(ó®²´8Ìû¿‡ñ1J$14f496ce-a40a-4ce0-9013-3c0bd470f177
+n	java:S106Õ"+Replace this use of System.out by a logger.(¡ù‹²8Ìû¿‡ñ1J$6ce6df3c-235a-46b3-84b0-26e35e6c27a0

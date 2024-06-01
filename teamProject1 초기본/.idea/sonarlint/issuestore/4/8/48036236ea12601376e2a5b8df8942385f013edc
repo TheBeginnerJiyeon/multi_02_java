@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŞÑÎƒøÿÿÿÿ8ß¯Ğ¼õ1
+‚
+java:S18543"?Remove this useless assignment to local variable "logOutPanel".(„Š‰8¦Ü¸¼õ1J$619574f2-f9c4-4de5-b176-0364c7e9479b
+‚
+java:S1854."?Remove this useless assignment to local variable "logOutPanel".(„Š‰8¦Ü¸¼õ1J$359815f8-4fdc-40bb-9d20-9974c0ebd9ad
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8§Ü¸¼õ1J$0ba1d3b7-e5de-49b1-a742-0b0c6277d128
+s
+java:S1481."0Remove this unused "logOutPanel" local variable.(„Š‰8«Ü¸¼õ1J$5c61f5e1-9699-42a3-a4fc-264200e99321
+s
+java:S14813"0Remove this unused "logOutPanel" local variable.(„Š‰8«Ü¸¼õ1J$00e6a10f-e577-488e-989f-bbe429debd4a

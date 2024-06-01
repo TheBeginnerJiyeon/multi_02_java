@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‘™Á8ù®üÍö1J$ceaea0d3-1a32-4aa2-af9d-ad44b7a11be2
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8‚¯üÍö1J$0c4335ac-3bdd-4f68-b260-a455bc5a128f
+
+java:S1854<"7Remove this useless assignment to local variable "gbc".(Ø‰¬çøÿÿÿÿ8ƒ¯üÍö1J$cca37ae0-64c3-4e6a-8de9-94925c3c1f82
+p
+java:S1481<"(Remove this unused "gbc" local variable.(Ø‰¬çøÿÿÿÿ8„¯üÍö1J$0f7cb269-0a10-47a4-80fa-cca7d5d30f74
+x
+java:S2209r"5Change this instance-reference to a static reference.(âùâŒ8…¯üÍö1J$25195c53-df8f-49bd-bb5a-0b51f3957c2a
+}
+java:S2209~"5Change this instance-reference to a static reference.(Íˆ¸ëþÿÿÿÿ8…¯üÍö1J$27064cfe-043d-49df-807d-45aeb5144f47

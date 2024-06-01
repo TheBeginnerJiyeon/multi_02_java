@@ -1,0 +1,20 @@
+
+	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ú´Ş†ñ1J$3d9c9723-7ccf-4fac-a8db-ea8012d639ff
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8…Îú…ñ1J$e388cc31-776b-43ca-b8de-fca5ea18d8f8
+r	java:S106"+Replace this use of System.out by a logger.(Ş‘›ïøÿÿÿÿ8®Îú…ñ1J$31935293-68d7-42d1-a243-c86becbdc50e
+m	java:S106"+Replace this use of System.out by a logger.(©‹ºÁ8®Îú…ñ1J$ab07fd36-2ec3-49ab-874a-4b24e0aa3a54
+m	java:S106"+Replace this use of System.out by a logger.(ÚÃûÈ8®Îú…ñ1J$4dfcefb3-e133-4f17-b3a4-e40da36df085
+m	java:S106"+Replace this use of System.out by a logger.(ä«Ø²8®Îú…ñ1J$d402b814-4e37-477d-bb87-17a941468ee3
+r	java:S106"+Replace this use of System.out by a logger.(šñåÓøÿÿÿÿ8®Îú…ñ1J$90b00687-0d99-4db3-90d5-c8e85afccd1f
+r	java:S106"+Replace this use of System.out by a logger.(µÀØÎùÿÿÿÿ8®Îú…ñ1J$e8607801-2dc6-45be-8cb2-42d32dd63f27
+m	java:S106"+Replace this use of System.out by a logger.(©‹ºÁ8®Îú…ñ1J$2f7a3da4-888c-438a-897d-fe8be5a793ae
+r	java:S106"+Replace this use of System.out by a logger.(Ş‘›ïøÿÿÿÿ8®Îú…ñ1J$7c5b803c-7cb5-43a9-b9ee-37087bffd39a
+r	java:S106"+Replace this use of System.out by a logger.(ÓüÖïıÿÿÿÿ8®Îú…ñ1J$ca2d8db1-2e52-4e5f-a584-5d2c56bf5d35
+r	java:S106"+Replace this use of System.out by a logger.(˜É„üÿÿÿÿ8¯Îú…ñ1J$04f98792-24d0-4c31-aaa7-7738b285c5c5
+m	java:S106"+Replace this use of System.out by a logger.(µäÈ´8¯Îú…ñ1J$e8e8f8ed-918b-44e8-9c70-e75ac721f8f0
+r	java:S106$"+Replace this use of System.out by a logger.(éú°Íÿÿÿÿÿ8¯Îú…ñ1J$866639c7-109c-4ba2-a06d-7ae57a22e11f
+d	java:S131+""Add a default case to this switch.(’ÎÁÄ8°Îú…ñ1J$e09a457c-a51f-4720-b90f-ea98cfc77510
+m	java:S1066"+Replace this use of System.out by a logger.(¢Úÿ‡8Ï­ß†ñ1J$06c05c78-5a8d-4ccc-84a5-9840f2ea67a9
+¡
+java:S2142="^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8…µŞ†ñ1J$f77c3d09-6ff7-4d63-9b72-61326b30a625
+m	java:S106A"+Replace this use of System.out by a logger.(É¦·«8Ò¡ã†ñ1J$85bc6505-3a2b-464f-8249-0ae7b9906544

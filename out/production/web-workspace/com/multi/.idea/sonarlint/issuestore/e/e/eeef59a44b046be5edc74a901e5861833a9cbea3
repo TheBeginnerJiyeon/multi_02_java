@@ -1,0 +1,13 @@
+
+€
+java:S1598"âThis file "MyClassExample.java" should be located in "com\multi\practice\typeconversion21" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\typeconversion21".(şÅô8Ù¸¢ï1
+^
+java:S1854"<Remove this useless assignment to local variable "myClass2".(îß¸ûÿÿÿÿ8Ü¸¢ï1
+L	java:S106	"+Replace this use of System.out by a logger.(šœ¢¦ùÿÿÿÿ8Ü¸¢ï1
+>
+java:S1116"Remove this empty statement.(­¶şËøÿÿÿÿ8İ¸¢ï1
+G	java:S106"+Replace this use of System.out by a logger.(ëÚÎ¾8İ¸¢ï1
+O
+java:S1481"-Remove this unused "myClass2" local variable.(îß¸ûÿÿÿÿ8İ¸¢ï1
+L	java:S106"+Replace this use of System.out by a logger.(–ûÏäÿÿÿÿÿ8İ¸¢ï1
+G	java:S106"+Replace this use of System.out by a logger.(ä½¯Ù8İ¸¢ï1

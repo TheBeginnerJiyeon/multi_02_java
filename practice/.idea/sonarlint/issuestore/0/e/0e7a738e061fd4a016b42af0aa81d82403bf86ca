@@ -1,0 +1,33 @@
+
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Èä‹–øÿÿÿÿ8ìÚŒ°ğ1
+ı
+java:S1598"ßThis file "NonBufferVsBufferedOutputStream.java" should be located in "com\multi\practice\stream" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\stream".(‰€­ä8îÚŒ°ğ1
+s
+java:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(Ö¨Ùşÿÿÿÿ8òÚŒ°ğ1
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¤‡©¢úÿÿÿÿ8òÚŒ°ğ1
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ä»ÆÂ8òÚŒ°ğ1
+o
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(¹–ş8òÚŒ°ğ1
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ìò°±ıÿÿÿÿ8òÚŒ°ğ1
+`
+java:S1854"CRemove this useless assignment to local variable "targetFilePath2".(é‚€³8ôÚŒ°ğ1
+g
+java:S1854"ERemove this useless assignment to local variable "originalFilePath2".(ˆ–çÑıÿÿÿÿ8ôÚŒ°ğ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÏÈ8ôÚŒ°ğ1
+^
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(´˜¢·8ôÚŒ°ğ1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ˆ–çÑıÿÿÿÿ8õÚŒ°ğ1
+X
+java:S1481"6Remove this unused "originalFilePath2" local variable.(ˆ–çÑıÿÿÿÿ8õÚŒ°ğ1
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(é‚€³8õÚŒ°ğ1
+Q
+java:S1481"4Remove this unused "targetFilePath2" local variable.(é‚€³8õÚŒ°ğ1
+L	java:S106"+Replace this use of System.out by a logger.(·Ï÷çûÿÿÿÿ8öÚŒ°ğ1
+L	java:S106"+Replace this use of System.out by a logger.(ËêûÜşÿÿÿÿ8öÚŒ°ğ1

@@ -1,0 +1,10 @@
+
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ÒË‘Œð1J$1a1ee6b5-08a6-441a-aea6-a1f0428a62cd
+’
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8ÓË‘Œð1J$f66a1d50-f56d-48cf-b274-6f848eeffec4
+¤
+java:S1598"àThis file "Member.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8ÓË‘Œð1J$967cef5b-1f1f-4a49-a0fa-98fe2db5e756
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8ÓË‘Œð1J$0a24fe7d-8742-45fd-8096-c2b356afa78c
+Ž
+java:S6201"FReplace this instanceof check and cast with 'instanceof Member member'(Æ••îþÿÿÿÿ8ØË‘Œð1J$956ec26a-786f-4fa3-aa14-ab57155c2c97

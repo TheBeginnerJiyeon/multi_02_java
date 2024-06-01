@@ -1,0 +1,29 @@
+
+
+java:S1598"ÉThis file "FileExample.java" should be located in "com\multi\practice\files" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\files".(ÙéØ8ö¹È³ğ1J$44604895-dd9c-442d-b2d5-d5aa9ec5d6f0
+‰
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(»”­şÿÿÿÿ8ºÈ³ğ1J$0666e42f-05ae-4fdc-9f47-520be2386871
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(•À­Æøÿÿÿÿ8ºÈ³ğ1J$5969b119-0ff3-4d7a-92ca-c4a0aeb7f2c6
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(•×‡–ùÿÿÿÿ8ºÈ³ğ1J$09482a4d-4649-4dd7-8dc5-6d9c6f01c19c
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(†ƒÑ”8ºÈ³ğ1J$c1fa5978-3109-4d13-88c6-c7d92137566f
+o
+java:S1125"'Remove the unnecessary boolean literal.(œŸÏîıÿÿÿÿ8ºÈ³ğ1J$9a316448-da6a-4b03-8bea-1db2dbd6af32
+o
+java:S1125"'Remove the unnecessary boolean literal.(÷»•üÿÿÿÿ8‚ºÈ³ğ1J$3229fa8b-d055-4021-a162-27ef876a30e5
+„	java:S899"BDo something with the "boolean" value returned by "createNewFile".(á‡³8‚ºÈ³ğ1J$c2331af6-d34b-4b2e-a2a8-c97ed3c9765b
+o
+java:S1125"'Remove the unnecessary boolean literal.(Ú‰™Óúÿÿÿÿ8‚ºÈ³ğ1J$f83d255a-317e-4d6e-97fa-0356564d15c4
+„	java:S899"BDo something with the "boolean" value returned by "createNewFile".(×êì8‚ºÈ³ğ1J$f354f550-a8af-4b69-9d47-2c785fefd546
+o
+java:S1125"'Remove the unnecessary boolean literal.(’Á³Çùÿÿÿÿ8‚ºÈ³ğ1J$01f44d0e-1a5e-4930-b589-078f0c351b7b
+„	java:S899"BDo something with the "boolean" value returned by "createNewFile".(¡°ø“8‚ºÈ³ğ1J$b99a93f4-a2ce-4b58-a9f1-0c1d8d9d207b
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(É¸¸ˆùÿÿÿÿ8‚ºÈ³ğ1J$4cb3c474-e71f-4c23-b3ea-c9ab8f740a4f
+m	java:S106""+Replace this use of System.out by a logger.(§ÅˆÚ8‚ºÈ³ğ1J$06dabfbd-8722-418b-ac5d-7c4068f7fc8c
+r	java:S106&"+Replace this use of System.out by a logger.(‰Ã‹ºûÿÿÿÿ8ƒºÈ³ğ1J$29ca8035-b60d-405f-a5cf-ccc969bc1331
+m	java:S106)"+Replace this use of System.out by a logger.(ÉÒ§©8ƒºÈ³ğ1J$c8af4955-999c-46d5-8498-6cd69ca155e4
+r	java:S106+"+Replace this use of System.out by a logger.(õ¾§Àùÿÿÿÿ8ƒºÈ³ğ1J$9814d3de-d7ab-47a3-8b8e-ba8e46d8319c
+r	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÒßÈ³ğ1J$33615415-15f8-481d-8754-c08bd4c66875

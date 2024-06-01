@@ -1,0 +1,67 @@
+
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óí€æÿÿÿÿÿ8õµ©íö1J$6e5ab5dd-f94d-47cc-9a68-edfafbc3501c
+™	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÑÖ¹ÿÿÿÿÿ8õµ©íö1J$ea8dff65-1760-4167-8b4a-be90434ee520
+™	java:S117Ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åü§÷úÿÿÿÿ8õµ©íö1J$140ad4ac-6904-417e-90d8-39cf810958b7
+“	java:S117Ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ¿–<8õµ©íö1J$430ff0fc-c06b-45f5-80c3-577dd032aab1
+q
+java:S1604Œ"(Make this anonymous inner class a lambda(øë°Áüÿÿÿÿ8õµ©íö1J$ab77aed5-979a-4045-a03a-1d6dbe7e4fa4
+l
+java:S1604´"(Make this anonymous inner class a lambda(´¯¸ı8õµ©íö1J$0b364360-a997-4f63-be17-359b7b491d4b
+q
+java:S1604Ó"(Make this anonymous inner class a lambda(¬ÄÅ×úÿÿÿÿ8õµ©íö1J$b15149c6-fd3c-44bd-a37a-e06075877cc6
+l
+java:S1604†"(Make this anonymous inner class a lambda(×š¨Å8õµ©íö1J$485395d6-6663-480e-a116-fc12034d5cb1
+q
+java:S1604Ø"(Make this anonymous inner class a lambda(ü÷¨¯úÿÿÿÿ8õµ©íö1J$f7c9df42-f6cc-4715-8b49-268ffbacb83a
+k
+java:S1604ğ"(Make this anonymous inner class a lambda(¡ÖŠK8õµ©íö1J$5ff4697b-f392-49fe-909e-d7437ec5cc49
+q
+java:S1604ş"(Make this anonymous inner class a lambda(îûôùÿÿÿÿ8õµ©íö1J$d63070eb-3c62-4966-b578-f1d692bb78b4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‘™Á8÷µ©íö1J$ce614fcf-b2fc-4fab-b42c-8b782e80b7a1
+	java:S116"WRename this field "BoardListBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­™¬üÿÿÿÿ8ƒ¶©íö1J$3b9047bf-c66d-45b8-8b2a-8f7495e168cf
+œ	java:S116"ZRename this field "BoardRankingBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È´›8ƒ¶©íö1J$26371dd4-1298-4a00-87c6-4a701463cb8e
+œ	java:S116#"ZRename this field "coin_CountField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÁÁ×8ƒ¶©íö1J$7516fdcb-9337-44f0-bea7-8004351dbc95
+Ê
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«ğøúşÿÿÿÿ8ƒ¶©íö1J$a4c3b82c-fca5-4ee5-a694-54d25269bf24
+Ê
+java:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½àŒüşÿÿÿÿ8ƒ¶©íö1J$f6a0f575-4124-416f-bfa1-60b022e696d5
+Å
+java:S1186Ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õµš8ƒ¶©íö1J$ae2c26ef-8288-49c4-82eb-bc53bef020d7
+r
+java:S1197H"*Move the array designators [] to the type.(Ãä…Éşÿÿÿÿ8‡¶©íö1J$6a7d8eb2-fca2-4bef-8ccc-b7db10c8ddd9
+‘
+java:S3252R"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8‡¶©íö1J$d0a26dc1-b582-4536-b8d1-61489293576b
+„	java:S125ƒ"<This block of commented-out lines of code should be removed.(àåŞÛúÿÿÿÿ8‰¶©íö1J$95056ca5-83d2-47fb-9d21-eec6f327eb4a
+s	java:S106˜"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8Š¶©íö1J$44bfd1f7-f9ad-4d37-b8e5-4faf8b90d868
+}	java:S125¯"<This block of commented-out lines of code should be removed.(ıî38‹¶©íö1J$d6e1ce22-2e4f-4773-a287-f5c8138145e0
+	java:S125Ê"<This block of commented-out lines of code should be removed.(å¾ÌÖ8Œ¶©íö1J$e9191fdf-755e-4bb7-bb5b-3ffc8e4e49d8
+s	java:S106á"+Replace this use of System.out by a logger.(Ôúôûÿÿÿÿ8¶©íö1J$8ec70e46-1240-4f45-af93-d5819c3b9b11
+s	java:S106÷"+Replace this use of System.out by a logger.(Š•éùÿÿÿÿ8‘¶©íö1J$21dbb29f-f697-4331-9ba9-e77156c5c4c5
+
+java:S1854“"8Remove this useless assignment to local variable "home".(»×Ûşÿÿÿÿ8‘¶©íö1J$9009847a-2119-4d1c-ba9f-d0914e42fafa
+k
+java:S1125‹"'Remove the unnecessary boolean literal.(ò˜¦ó8’¶©íö1J$1e756d1e-d64e-4600-8cfd-afc737451da2
+r
+java:S1481“")Remove this unused "home" local variable.(»×Ûşÿÿÿÿ8’¶©íö1J$726b65fa-ce5d-42ca-aa85-861d01480e6f
+„	java:S125§"<This block of commented-out lines of code should be removed.(ûĞ–ÿÿÿÿÿÿ8’¶©íö1J$e9841ce4-23d0-425b-8666-1c9868e6c924
+„	java:S125³"<This block of commented-out lines of code should be removed.(­¿ãûüÿÿÿÿ8“¶©íö1J$94947a62-6cd5-48ac-aaa1-5309bf681e44
+‚
+java:S1854à"9Remove this useless assignment to local variable "login".(õõ«»øÿÿÿÿ8“¶©íö1J$34d6cfe9-dc8b-468b-a7ea-375c053feac7
+k
+java:S1125Ü"'Remove the unnecessary boolean literal.(ò˜¦ó8“¶©íö1J$70f20208-8f8b-46bc-a981-df10bce61059
+s
+java:S1481à"*Remove this unused "login" local variable.(õõ«»øÿÿÿÿ8“¶©íö1J$a7fa74a4-bc41-49bc-a32a-c2d30010ee0d
+z
+java:S1068F"2Remove this unused "boardListTable" private field.( ¼­øùÿÿÿÿ8•¶©íö1J$d5d46336-65a4-4a0c-a3b5-dc8679ad2b67
+
+java:S1068G"7Remove this unused "boardListScrollPane" private field.(ËŒ†Üûÿÿÿÿ8•¶©íö1J$187727fd-cee3-4ec7-a972-24cd636b7179
+r
+java:S1068H"*Remove this unused "header" private field.(Ãä…Éşÿÿÿÿ8•¶©íö1J$66671c29-f3d2-4f8b-acb6-00749d28741c
+z
+java:S1144­"6Remove this unused private "initMidBoardListP" method.(ˆ¾€¤8•¶©íö1J$5636bb9e-8579-4f4e-b072-e26664aaa9ca
+€
+java:S1144¿"7Remove this unused private "initMidBoardWriteP" method.(«ğøúşÿÿÿÿ8•¶©íö1J$2308dc9a-0880-447d-88bf-19eecbf379cd
+
+java:S1144Ã"6Remove this unused private "initMidBoardEditP" method.(½àŒüşÿÿÿÿ8•¶©íö1J$e59637b0-0a3f-4ebf-9bad-3e2f420e62f5
+}
+java:S1144Ç"9Remove this unused private "initMidBoardRankingP" method.(Õµš8•¶©íö1J$86ee7bb7-08bd-40fa-b996-9302d709ba31

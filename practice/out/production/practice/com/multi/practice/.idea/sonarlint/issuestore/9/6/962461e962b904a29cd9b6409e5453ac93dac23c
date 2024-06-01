@@ -1,0 +1,7 @@
+
+“
+java:S1598"ÊThis file "RunExample.java" should be located in "com\multi\practice\exam10" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\exam10".(©·È÷úÿÿÿÿ8·­§âï1J$5584e0a9-dd0c-4ae5-87d9-7ac2198f860a
+~	java:S125	"<This block of commented-out lines of code should be removed.(½‘Ñ³8Ï²­âï1J$229e0f7e-ee55-42e2-813e-9e7d92baae6c
+r	java:S106"+Replace this use of System.out by a logger.(ôüÏßùÿÿÿÿ8¿­§âï1J$512c6e45-b07a-4513-9fac-025b64fd550c
+r	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ8Ä‰­âï1J$58fd280f-52d4-4a2d-ba49-22f15dc4f45e
+m	java:S106"+Replace this use of System.out by a logger.(ÑÆœö8Ä‰­âï1J$3add6a73-ad23-4cb7-be5d-a21a8ae078ce

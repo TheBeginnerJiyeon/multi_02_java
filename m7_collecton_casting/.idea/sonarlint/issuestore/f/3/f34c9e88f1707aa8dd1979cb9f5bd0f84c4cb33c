@@ -1,0 +1,29 @@
+
+r
+java:S3740 "/Provide the parametrized type for this generic.(Á³öÆ8ş”Ÿñ1J$abe42fe9-5f04-4fbb-aef1-ed7e394b0d2a
+r
+java:S3740 "/Provide the parametrized type for this generic.(Á³öÆ8ş”Ÿñ1J$68acd0be-dbe6-4328-a557-f508e768c164
+z
+java:S18548"7Remove this useless assignment to local variable "num".(ÉÇüµ8ƒ‘”Ÿñ1J$a99230fa-1956-4432-a619-8c777bf90565
+x
+java:S1854"5Remove this useless assignment to local variable "e".(Õí‹ú8ƒ‘”Ÿñ1J$6fe510c2-795c-4c69-8f60-1a1f14f65939
+x
+java:S1854"5Remove this useless assignment to local variable "d".(†ş¨—8ƒ‘”Ÿñ1J$5f74aa47-c88b-4cf7-8f25-fc360191024d
+}
+java:S1854"5Remove this useless assignment to local variable "b".(Š—Ó´şÿÿÿÿ8ƒ‘”Ÿñ1J$da6ea4ce-d68b-443a-a9a7-42e0079362d0
+n
+java:S1481"&Remove this unused "b" local variable.(Š—Ó´şÿÿÿÿ8ƒ‘”Ÿñ1J$b9b16c5d-935e-4fa7-8b1e-2408ce0f246f
+i
+java:S1481"&Remove this unused "d" local variable.(†ş¨—8…‘”Ÿñ1J$8885900a-b41a-4230-97ee-79074da31d30
+i
+java:S1481"&Remove this unused "e" local variable.(Õí‹ú8…‘”Ÿñ1J$c0aa6cd6-078e-49a6-97b5-33de2951f92b
+r	java:S106)"+Replace this use of System.out by a logger.(”äÙóıÿÿÿÿ8†‘”Ÿñ1J$6d289bb1-398a-4c44-a18b-126463595386
+l	java:S106,"+Replace this use of System.out by a logger.(ƒÚáB8†‘”Ÿñ1J$80a9a455-00ad-45d4-98a3-36c401b935f0
+r	java:S106-"+Replace this use of System.out by a logger.(¨¤¼˜ûÿÿÿÿ8†‘”Ÿñ1J$f760fedf-90cd-41b6-ba71-c25d6b124f6b
+r	java:S1060"+Replace this use of System.out by a logger.(“Ÿ÷Ÿüÿÿÿÿ8†‘”Ÿñ1J$efcba359-dea9-4e1f-89a4-93c36bf1e027
+r	java:S1063"+Replace this use of System.out by a logger.(¥´ïöøÿÿÿÿ8†‘”Ÿñ1J$fbcf2699-83af-45c7-9a4a-11122ee1fb84
+l	java:S1066"+Replace this use of System.out by a logger.(‚Ãê8†‘”Ÿñ1J$f3c57dec-f820-45fd-a386-cead1000c49f
+k
+java:S14818"(Remove this unused "num" local variable.(ÉÇüµ8†‘”Ÿñ1J$4d70f59b-ada3-4cb4-812e-22d0e1b410e0
+m	java:S106;"+Replace this use of System.out by a logger.(õ­äş8«Ô”Ÿñ1J$a9428bf7-edab-4d05-bc69-cd87a5e6272b
+m	java:S106?"+Replace this use of System.out by a logger.(õ­äş8‹ş–Ÿñ1J$88736fb1-25f4-4399-9bca-2b7710f40ff8

@@ -1,0 +1,30 @@
+
+	java:S112f"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô„²Ñò1J$d403fcec-3465-46b9-97b7-32794a73ea34
+	java:S112w"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô„²Ñò1J$079fa173-17e0-4109-9c09-564a165f1db9
+	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô„²Ñò1J$f2ae6345-86e0-45a0-ad0d-b20e8d4e0a9a
+	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ô„²Ñò1J$65a8a6a5-2dfb-4d1e-b2c2-bd9e3cf24702
+w
+java:S3740/"/Provide the parametrized type for this generic.(¨™è·ıÿÿÿÿ8õ„²Ñò1J$f7335889-91fd-48ce-ad0d-bc017929b5f5
+w
+java:S3740/"/Provide the parametrized type for this generic.(¨™è·ıÿÿÿÿ8õ„²Ñò1J$39679138-5f23-455e-9c9c-2236a3a65f91
+r
+java:S3740H"/Provide the parametrized type for this generic.(âï“¨8õ„²Ñò1J$19946473-0c9f-401f-9ef3-c7cc1a90b649
+r
+java:S3740H"/Provide the parametrized type for this generic.(âï“¨8õ„²Ñò1J$54bf9c7f-e43f-4979-870f-5789c1c2dbb5
+‹
+java:S1226n"CIntroduce a new variable instead of reusing the parameter "label4".(Üø¶›ÿÿÿÿÿ8÷„²Ñò1J$24aa9919-b157-43ea-9e2f-d70b4457a905
+€
+java:S1854G"8Remove this useless assignment to local variable "cols".(Ë¼’–ûÿÿÿÿ8“…²Ñò1J$369df5bf-e08f-40d6-b7b1-230d7758844c
+f
+java:S2119'"Save and re-use this "Random".(íàĞìøÿÿÿÿ8•…²Ñò1J$71bbdae6-4e39-40dc-bdc0-1f0fbc6e0a31
+~
+java:S2696D"6Make the enclosing method "static" or remove this set.(Òá˜Ãøÿÿÿÿ8…²Ñò1J$0cf13ba1-8a2a-4bdc-af4a-741760cffbd7
+l
+java:S1481F")Remove this unused "rows" local variable.(²ˆÁ²8…²Ñò1J$505b1060-f605-4fe1-921d-16f75e97d750
+q
+java:S1481G")Remove this unused "cols" local variable.(Ë¼’–ûÿÿÿÿ8…²Ñò1J$fb0e30aa-38aa-46af-a16c-182eaab1322b
+m	java:S106L"+Replace this use of System.out by a logger.(ÙÜ¤8…²Ñò1J$2da1fefa-6ef4-4f92-bd8f-c31fe1af7b4b
+m	java:S106M"+Replace this use of System.out by a logger.(íÊŠ8…²Ñò1J$8c0831d5-5d5a-42cc-9085-9bbc76d3c029
+r	java:S106N"+Replace this use of System.out by a logger.(·ª‡Öÿÿÿÿÿ8…²Ñò1J$812eb2fe-b1a7-42f6-8d85-fc4f08b56347
+n
+java:S1874{"+Remove this use of "URL"; it is deprecated.(¦ÄÔ‘8¡…²Ñò1J$86c9c356-8297-421f-afca-0bf3e040fbe3

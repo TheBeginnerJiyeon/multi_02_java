@@ -1,0 +1,13 @@
+
+	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(¨‰Øéÿÿÿÿÿ8§şø¤ğ1J$dbd77a16-e895-4a2e-88a7-ac808cfb4338
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôªáş8‹Õô¤ğ1J$4d57c5f8-6c6c-44c3-9853-228e8b874c67
+˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÅîÎøÿÿÿÿ8‹Õô¤ğ1J$b431e6d8-39cf-41fa-855b-4e6bcb859bb2
+p
+java:S16049"(Make this anonymous inner class a lambda(ŸÄñÿÿÿÿÿ8ŒÕô¤ğ1J$852ab385-a88a-45bd-914b-9374327e8d9f
+…
+java:S1163U"=Refactor this code to not throw exceptions in finally blocks.(¨‰Øéÿÿÿÿÿ8©şø¤ğ1J$2f984709-8faf-4a51-aebe-c518bbc9af28
+|
+java:S1143U"4Remove this throw statement from this finally block.(¨‰Øéÿÿÿÿÿ8©şø¤ğ1J$84d2b0f6-c0ac-4d9c-9f16-7e9b70677fea
+r	java:S106O"+Replace this use of System.out by a logger.(¢–˜íûÿÿÿÿ8¶şø¤ğ1J$847a60b0-6d90-433b-8421-7b22ad905433
+r
+java:S2093E"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8·şø¤ğ1J$87c6f8c9-a427-4820-bd52-2fd597c64207

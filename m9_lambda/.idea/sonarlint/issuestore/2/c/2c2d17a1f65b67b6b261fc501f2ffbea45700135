@@ -1,0 +1,17 @@
+
+i
+java:S1604""(Make this anonymous inner class a lambda(–ÕÜÁıÿÿÿÿJ$24b6f831-82a7-4c7f-899f-5e81abff45cb
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”Õ×ºüÿÿÿÿJ$d70d8b9c-8395-4b7b-8129-f35ee1ea0e67
+€
+java:S3358&"DExtract this nested ternary operation into an independent statement.(ùù’ÅJ$3f124a65-17b1-46c3-8762-dd4489214eb6
+k	java:S106-"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$04e63535-cc27-45c6-9045-7980e5fbb879
+k	java:S106/"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿJ$20a8997d-a7ac-4db0-b5b6-3ef9e8877f45
+w	java:S1252"<This block of commented-out lines of code should be removed.(ÈÅ•¢J$264e96bb-1450-4d66-b77b-c99a4caf7e8e
+k	java:S1065"+Replace this use of System.out by a logger.(¼™şÿÿÿÿJ$6b1edb36-40d4-4df7-b2a1-db03a513f06f
+w	java:S1259"<This block of commented-out lines of code should be removed.(ñş®ëJ$eedebffc-7c97-432e-91c8-575821ad484f
+k	java:S106<"+Replace this use of System.out by a logger.(âª´úÿÿÿÿJ$c0cf6ac4-cc5a-44a7-81ea-4ad31a051868
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(öó¡ãúÿÿÿÿ8åÎœİó1J$f400ee7b-6ca8-4070-8a5a-274bc524fddc
+f	java:S106N"+Replace this use of System.out by a logger.(ä¿ÄúJ$e677afb2-21a7-4528-9001-0b9bbbbf3fbc
+f	java:S106U"+Replace this use of System.out by a logger.(ä¿ÄúJ$650d145a-5cdd-4566-acb8-79f8dc8201c7
+k	java:S106V"+Replace this use of System.out by a logger.(ôÂØ•şÿÿÿÿJ$2dcc7975-0b04-4976-94a1-3b94784050be

@@ -1,0 +1,84 @@
+
+k
+java:S1604N"(Make this anonymous inner class a lambda(ÖãºÂ8ï®¢Äõ1J$57b79e39-6b2c-44bc-9326-93c29e6ec1b2
+k
+java:S1604s"(Make this anonymous inner class a lambda(Í•¹Ì8ğ®¢Äõ1J$bfd18c77-3c85-48f8-b53e-895a4d44ea60
+k
+java:S1604—"(Make this anonymous inner class a lambda(»à·k8ò®¢Äõ1J$e2e30d32-234a-43e7-bccb-b07dde62e144
+q
+java:S1604Æ"(Make this anonymous inner class a lambda(«ªäóúÿÿÿÿ8ó®¢Äõ1J$25d86034-1f98-4fa4-8fbd-bee3055f9b09
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´û¯¯ùÿÿÿÿ8õ®¢Äõ1J$5e3da864-683a-4b85-86c4-efbd2b31dbff
+
+java:S1450"[Remove the "deleteButton" field and declare it as a local variable in the relevant methods.(‚Ì”Š8ú®¢Äõ1J$1e3d9807-e4a4-4992-a095-064783c39bc2
+£
+java:S1450"[Remove the "logOutButton" field and declare it as a local variable in the relevant methods.(—ºì—üÿÿÿÿ8ú®¢Äõ1J$3cac0fc0-6103-4a9d-af77-3db4d2057545
+¢
+java:S1450"ZRemove the "loginButton" field and declare it as a local variable in the relevant methods.(Å‘½şùÿÿÿÿ8ü®¢Äõ1J$10cc8bc0-0a57-4872-9ed9-9f360d525623
+£
+java:S1450"[Remove the "signUpButton" field and declare it as a local variable in the relevant methods.(¯ˆâÿøÿÿÿÿ8ü®¢Äõ1J$815a1e6c-13cf-4329-9455-8f5a73bcaf25
+y
+java:S2696I"6Make the enclosing method "static" or remove this set.(è´ƒØ8ş®¢Äõ1J$90016ded-e094-40d2-85fd-c3d190f114fb
+y
+java:S2696J"6Make the enclosing method "static" or remove this set.(Ú¶õÍ8ş®¢Äõ1J$010fc487-e7aa-4776-a95d-b681fd127ca1
+y
+java:S2696K"6Make the enclosing method "static" or remove this set.(Ş°°ã8ş®¢Äõ1J$e592541e-22f2-4dd8-b60c-19dc0ce6778a
+~
+java:S2696S"6Make the enclosing method "static" or remove this set.(–ŸåŸıÿÿÿÿ8ÿ®¢Äõ1J$85569c56-ee06-4f06-a4f6-1df80b78191e
+~
+java:S2696T"6Make the enclosing method "static" or remove this set.(ß¯£ùÿÿÿÿ8ÿ®¢Äõ1J$1cb63b75-9737-46ee-bbc9-825ceba36501
+w
+java:S1874T"/Remove this use of "getText"; it is deprecated.(ß¯£ùÿÿÿÿ8ÿ®¢Äõ1J$9b37bf3b-9460-43bf-8a1d-edf05af4a527
+r	java:S106W"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÿ®¢Äõ1J$474de86e-4de4-467d-8ca8-5c395f0603a3
+r	java:S106X"+Replace this use of System.out by a logger.(È“¹çüÿÿÿÿ8ÿ®¢Äõ1J$a6e8a7f7-274c-43ff-8371-af98acf4c877
+r	java:S106Y"+Replace this use of System.out by a logger.(ÇÀ¾ıûÿÿÿÿ8ÿ®¢Äõ1J$94186476-9b80-4da4-ade7-63bf9013e5cf
+y
+java:S2696o"6Make the enclosing method "static" or remove this set.(İºÈê8€¯¢Äõ1J$39209a13-bc1a-4fe4-93ce-55a77e8d250d
+x
+java:S2696p"6Make the enclosing method "static" or remove this set.(’‚y8€¯¢Äõ1J$f8b34e60-848f-42ba-942d-37a69a6b134a
+x
+java:S2696x"6Make the enclosing method "static" or remove this set.(’‚y8€¯¢Äõ1J$c5664f55-1e44-4066-bcb0-9f79beb43e3d
+r	java:S106{"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8€¯¢Äõ1J$7ab1a48e-db8d-45e2-9099-3e9bd222f95e
+m	java:S106|"+Replace this use of System.out by a logger.(µèü8€¯¢Äõ1J$0f39c24f-cf0f-4370-892f-908f3cbc54de
+
+java:S2696"6Make the enclosing method "static" or remove this set.(¸Ğ¢èøÿÿÿÿ8€¯¢Äõ1J$bb1d1718-f378-40a9-b2d6-0fd26a4a491d
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(äşQ8€¯¢Äõ1J$b266bab5-4089-47f9-a1b8-31a405e25a26
+
+java:S2696"6Make the enclosing method "static" or remove this set.( ÉŸ˜úÿÿÿÿ8€¯¢Äõ1J$e0b82178-54f1-4c80-9c29-6df5e8f1bb19
+z
+java:S2696‘"6Make the enclosing method "static" or remove this set.(âü£º8€¯¢Äõ1J$6d2c7cb9-ad1d-4e98-8499-1c1fbc17a5e5
+z
+java:S2696’"6Make the enclosing method "static" or remove this set.(«¸¨˜8€¯¢Äõ1J$5153d002-6775-4ae1-a613-6f220e584e4d
+z
+java:S2696“"6Make the enclosing method "static" or remove this set.(šÒ»ì8€¯¢Äõ1J$0567228c-da7a-41a6-ac82-98d6a51da835
+
+java:S2696”"6Make the enclosing method "static" or remove this set.(„Ã¨şıÿÿÿÿ8€¯¢Äõ1J$723ecee3-2852-4665-b5a4-5a3af4c37ceb
+
+java:S2696"6Make the enclosing method "static" or remove this set.(¤¶–Èÿÿÿÿÿ8¯¢Äõ1J$eeaed7f2-a6df-480c-9dd9-117dac6c550d
+
+java:S2696"6Make the enclosing method "static" or remove this set.(°•Ä»üÿÿÿÿ8¯¢Äõ1J$8a1d04e1-9e02-4620-bad9-d923837c8f86
+x
+java:S1874"/Remove this use of "getText"; it is deprecated.(°•Ä»üÿÿÿÿ8¯¢Äõ1J$5ab22023-f1bd-4e94-b7a5-71baa5484ddb
+
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(áÄ›¥øÿÿÿÿ8¯¢Äõ1J$495f4a7a-77fb-42ce-ba44-9c15bdbb3360
+
+java:S2696 "6Make the enclosing method "static" or remove this set.(‘ñıŞøÿÿÿÿ8¯¢Äõ1J$e80c6dde-223d-41f7-a56c-029c034c310c
+
+java:S2696¡"6Make the enclosing method "static" or remove this set.(äö±™ùÿÿÿÿ8¯¢Äõ1J$18beccab-f3f4-4376-bf9b-31b0ec42560c
+y
+java:S2696¢"6Make the enclosing method "static" or remove this set.(Âû©I8¯¢Äõ1J$a27144f2-d207-4f9b-8be7-3f9176c0973a
+s	java:S106¥"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¯¢Äõ1J$daffc70b-0cb4-4515-b7e8-98f3585296c4
+n	java:S106¦"+Replace this use of System.out by a logger.(ı£«—8¯¢Äõ1J$42dcf9fd-f7e7-497f-8288-72b5e66d3ee5
+n	java:S106§"+Replace this use of System.out by a logger.(‡®ºè8¯¢Äõ1J$931e356f-888b-484c-b204-a0905d3cd320
+s	java:S106¨"+Replace this use of System.out by a logger.(Çûö®ıÿÿÿÿ8¯¢Äõ1J$f9939168-1aa6-467e-9101-96433c5e60bd
+s	java:S106©"+Replace this use of System.out by a logger.(‹ÏÜïûÿÿÿÿ8¯¢Äõ1J$947c562c-7f78-4332-a94e-d11466ac6894
+n	java:S106ª"+Replace this use of System.out by a logger.(ëÕÛ‘8¯¢Äõ1J$e25cfe78-d0df-4ee3-994e-390245b82dd7
+s	java:S106«"+Replace this use of System.out by a logger.(¦°èışÿÿÿÿ8¯¢Äõ1J$d37edbf4-3832-40bb-99eb-3a5b78e75343
+z
+java:S2696Â"6Make the enclosing method "static" or remove this set.(² §8‚¯¢Äõ1J$442028ec-7067-451c-8e0f-5f79dbc1a625
+
+java:S2696Ã"6Make the enclosing method "static" or remove this set.(šñÔşÿÿÿÿ8‚¯¢Äõ1J$1ff6c7db-58a0-4f88-aa2b-efbcc7e9f61f
+
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(šñÔşÿÿÿÿ8‚¯¢Äõ1J$881ac232-bee6-4d53-b5da-9ab9d54b5118
+s	java:S106Î"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‚¯¢Äõ1J$b5200613-2440-47b9-87de-e6ff0f329819
+n	java:S106Ï"+Replace this use of System.out by a logger.(ºæ÷´8‚¯¢Äõ1J$8f55b65a-2bfd-448c-a08b-dd43b8c2c233

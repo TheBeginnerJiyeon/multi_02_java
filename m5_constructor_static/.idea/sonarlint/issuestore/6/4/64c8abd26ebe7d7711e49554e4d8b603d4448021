@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û÷¨·ùÿÿÿÿ8ãŒÀŠñ1
+t
+java:S3599",Use another way to initialize this instance.(Ó¯¸êúÿÿÿÿ8çâ¿Šñ1J$34751811-0a51-4228-9756-fdcb54c0e308
+¡
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Ó¯¸êúÿÿÿÿ8èâ¿Šñ1J$487ef9ea-b3de-470e-9977-8090d999f744
+l	java:S106"+Replace this use of System.out by a logger.(óÎÛG8êâ¿Šñ1J$b28406c5-7181-47b6-a200-fb482e8c049a
+”
+java:S1450!"QRemove the "id" field and declare it as a local variable in the relevant methods.(æ¨ç†8ëâ¿Šñ1J$beb92915-95f8-43cc-87e7-e990a8c17f2c
+œ
+java:S1450#"TRemove the "price" field and declare it as a local variable in the relevant methods.(†ùŠÿúÿÿÿÿ8ëâ¿Šñ1J$21662f68-2396-4256-b152-506e73a15179
+i
+java:S1068!"&Remove this unused "id" private field.(æ¨ç†8ìâ¿Šñ1J$188917b7-9116-4a21-85c3-f412fbc64348
+q
+java:S1068#")Remove this unused "price" private field.(†ùŠÿúÿÿÿÿ8ìâ¿Šñ1J$1df1aaea-9df7-4670-a330-871a99fe3f02

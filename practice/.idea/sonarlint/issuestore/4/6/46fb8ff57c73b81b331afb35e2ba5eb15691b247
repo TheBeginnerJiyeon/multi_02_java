@@ -1,0 +1,7 @@
+
+—
+java:S1598"ÓThis file "Example.java" should be located in "com\multi\practice\interInherit" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\interInherit".(ï ¸8†¹°¼ï1J$436d4541-5ba5-40dd-8ccc-f559d11040a4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï ¸8‡¹°¼ï1J$1e771aba-eec1-4717-97d6-784a70c6cd71
+r	java:S106	"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Š¹°¼ï1J$134cfedd-31c5-49a7-bd8d-79b4e95f621b
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‹¹°¼ï1J$e5263e78-257d-4e46-9724-735fb80620e5
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‹¹°¼ï1J$e65665f1-431c-44ac-a479-6b2297f15bbe

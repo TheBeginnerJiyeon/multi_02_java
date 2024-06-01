@@ -1,0 +1,39 @@
+
+™	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óí€æÿÿÿÿÿ8¹æ¦æö1J$56bec213-14a6-4919-aeb9-399bd71f6a0b
+“	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¡•]8†¬¨æö1J$09e6ebbd-5a83-4582-9af3-daa78736ff41
+™	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÑÖ¹ÿÿÿÿÿ8†Ÿˆæö1J$33684a34-70b2-491e-aefc-3a4991e006a6
+™	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åü§÷úÿÿÿÿ8†Ÿˆæö1J$d7d7e5d2-3755-40cc-8eeb-737d9e7f5821
+p
+java:S1604i"(Make this anonymous inner class a lambda(øë°Áüÿÿÿÿ8†Ÿˆæö1J$0a42a5bd-7cd4-4ba5-8399-3276742defc1
+q
+java:S1604î"(Make this anonymous inner class a lambda(¬ÄÅ×úÿÿÿÿ8†Ÿˆæö1J$1608e44d-0258-4053-9ff0-43e0e6fc2eac
+l
+java:S1604Œ"(Make this anonymous inner class a lambda(×š¨Å8†Ÿˆæö1J$c4681d70-e7c8-455b-8dd6-6917cdc18ee3
+q
+java:S1604©"(Make this anonymous inner class a lambda(ü÷¨¯úÿÿÿÿ8†Ÿˆæö1J$4e56cabd-6152-4b69-902c-57bfb0ed24b7
+k
+java:S1604Á"(Make this anonymous inner class a lambda(¡ÖŠK8†Ÿˆæö1J$f428edbe-7047-4d21-bbf8-fc29d77c309a
+q
+java:S1604Ï"(Make this anonymous inner class a lambda(îûôùÿÿÿÿ8†Ÿˆæö1J$38179e3c-f73c-4a67-b192-4c2648193f63
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†‘™Á8ˆŸˆæö1J$ce52662b-fb67-4845-b5fd-f6b76a685e93
+	java:S116"WRename this field "BoardListBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿­™¬üÿÿÿÿ8•Ÿˆæö1J$b3108afd-cc9b-439e-9302-f02ffb13f99a
+œ	java:S116"ZRename this field "BoardRankingBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È´›8•Ÿˆæö1J$189eec61-ebfc-4acb-bc37-d791ccb7698d
+‘
+java:S32529"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8˜Ÿˆæö1J$01f1f2ee-66df-4104-a98c-98be613f92d1
+r	java:S106p"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8›Ÿˆæö1J$2fc14f52-173e-49b9-9936-3648c40ba0c8
+k
+java:S1125‘"'Remove the unnecessary boolean literal.(ò˜¦ó8¢Ÿˆæö1J$d0b611e8-523e-461a-8345-3904c04d996a
+‚
+java:S1854±"9Remove this useless assignment to local variable "login".(õõ«»øÿÿÿÿ8¤Ÿˆæö1J$c38cd480-5740-4c8e-be6b-1770267194fb
+k
+java:S1125­"'Remove the unnecessary boolean literal.(ò˜¦ó8¤Ÿˆæö1J$ededf97f-bbfc-4bae-8efb-f9281214f130
+s
+java:S1481±"*Remove this unused "login" local variable.(õõ«»øÿÿÿÿ8ÿ·ƒçö1J$c5af301a-98b2-4ab6-98be-faf5a61f0372
+r
+java:S1068&"/Remove this unused "gameListBtn" private field.(°ºşŸ8¦Ÿˆæö1J$ae851797-d378-4488-b1b2-25730e000c1a
+t
+java:S1068'",Remove this unused "writeBtn" private field.(ÎôùÎıÿÿÿÿ8¦Ÿˆæö1J$32457552-b522-492e-b14f-e1c38d61901f
+t
+java:S1068("1Remove this unused "selectByIdBtn" private field.(Ùü–ƒ8¦Ÿˆæö1J$aeda544a-8bad-4b81-9b5e-6bf9d0bc0ff5
+t
+java:S1068)",Remove this unused "edit2Btn" private field.(ìöùçÿÿÿÿÿ8¦Ÿˆæö1J$098606a3-a8cd-4f34-9b95-9880d75eb71e

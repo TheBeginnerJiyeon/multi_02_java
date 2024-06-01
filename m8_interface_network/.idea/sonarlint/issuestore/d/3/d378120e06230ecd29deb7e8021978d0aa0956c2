@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý³Â›þÿÿÿÿ8Ð¹É¹ó1J$066656b6-37e6-4fd3-b600-c467af68fa51
+j
+java:S2189<""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Ë Ì¹ó1J$c5eb17b8-e37c-42b0-8238-c6056546ad6c
+˜
+java:S1450"URemove the "packet" field and declare it as a local variable in the relevant methods.(¥µ‚¼8Ð Ì¹ó1J$34dd9fbf-c399-4ff0-ab53-de57c80afd66
+j
+java:S1948"(Make "socket" transient or serializable.(¨¹Í"8Ð Ì¹ó1J$a348d3b1-f220-4b2b-91b3-30c577fdc97d
+k
+java:S1948"(Make "packet" transient or serializable.(¥µ‚¼8Ð Ì¹ó1J$c733aa40-cb50-4be9-bf2b-6bb101cbd59e
+z
+java:S11353"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8Õ¹É¹ó1J$031a9d51-e359-495d-aa33-2c6f0211fe2f
+z
+java:S1135D"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8Õ¹É¹ó1J$d7bc303c-ebd3-461f-8338-da06976d7863

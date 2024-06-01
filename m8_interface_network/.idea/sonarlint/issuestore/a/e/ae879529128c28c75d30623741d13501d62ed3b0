@@ -1,0 +1,15 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(ÅŸìÀ8ÓÒÄÓñ1J$7b8dbf5a-c7fa-48ae-ac9a-ad2da666cae4
+w
+java:S37401"/Provide the parametrized type for this generic.(ŞÚë×üÿÿÿÿ8ÓÒÄÓñ1J$8b528b65-3520-4a5f-86c0-299a39061c27
+r
+java:S37405"/Provide the parametrized type for this generic.(Í÷ãğ8Ù¦ÕÓñ1J$17cba4db-8f8d-4a78-8990-fc02ef5b699c
+¸
+java:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŞÚë×üÿÿÿÿ8ÔÒÄÓñ1J$8c6612be-b4a0-4d0d-9052-4be0144765d5
+ª
+java:S13195"gThe type of "memList" should be an interface such as "List" rather than the implementation "ArrayList".(Í÷ãğ8Ú¦ÕÓñ1J$a4c20220-535c-4e2d-b5fc-65fd6d261493
+x
+java:S26966"6Make the enclosing method "static" or remove this set.(Ì¨òL8ÚÒÄÓñ1J$4359da7f-27a9-4f1d-a4eb-58bef002f427
+r	java:S106;"+Replace this use of System.out by a logger.(§®İ·ùÿÿÿÿ8ÚÒÄÓñ1J$b775eda4-eab7-4b9c-afac-6e10c96bf9b5
+l	java:S106@"+Replace this use of System.out by a logger.(òƒœ8ÚÒÄÓñ1J$a0bc49b2-0ff2-4b08-9fe2-bdeb568bea70

@@ -1,0 +1,14 @@
+
+˜	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇöïŠúÿÿÿÿ8ô—¤–ñ1J$e45e3c74-4086-488c-a154-d49aef4550f9
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8ú—¤–ñ1J$5d198310-3c93-4e7f-a27b-b246f1fa9a7b
+g
+java:S1659"Declare "y" on a separate line.(±šß¯ùÿÿÿÿ8ü—¤–ñ1J$a10cb508-4c8a-4060-a19f-9b03668d516d
+f
+java:S2119."Save and re-use this "Random".(ÇöïŠúÿÿÿÿ8ş—¤–ñ1J$5830a7e1-629f-424c-8471-d57b407238c5
+¡
+java:S21428"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¾è¥–ñ1J$6c48aa7d-1f4d-499c-b28b-c5a66daf9a15
+
+java:S1854H"7Remove this useless assignment to local variable "car".(‹¹Ûúÿÿÿÿ8€˜¤–ñ1J$afdb3981-65d1-4245-b2b4-031bd1431d1e
+p
+java:S1481H"(Remove this unused "car" local variable.(‹¹Ûúÿÿÿÿ8€˜¤–ñ1J$ad863c97-3607-4de3-b44c-3b5394039f7a

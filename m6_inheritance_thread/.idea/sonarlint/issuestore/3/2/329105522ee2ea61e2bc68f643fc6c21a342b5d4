@@ -1,0 +1,19 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸÛé8ÁÇ»­ñ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÅê¬8ÂÇ»­ñ1
+[
+java:S1659"?Declare "l2" and all following declarations on a separate line.(Œ³ó78ÈÇ»­ñ1
+m
+java:S1450"QRemove the "l1" field and declare it as a local variable in the relevant methods.(Œ³ó78ÈÇ»­ñ1
+m
+java:S1450"QRemove the "l2" field and declare it as a local variable in the relevant methods.(Œ³ó78ÈÇ»­ñ1
+m
+java:S1450"QRemove the "l3" field and declare it as a local variable in the relevant methods.(Œ³ó78ÈÇ»­ñ1
+k
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8ÊÇ»­ñ1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(çı†»8ÊÇ»­ñ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ŠîªÃùÿÿÿÿ8ËÇ»­ñ1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ìÑ¡àûÿÿÿÿ8ËÇ»­ñ1

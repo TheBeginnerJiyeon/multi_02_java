@@ -1,0 +1,18 @@
+
+˜	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¿—şÿÿÿÿ8²êÇñ1J$853f5e98-849c-4afb-847b-bd3b9f1f9c77
+˜	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÏ Ûûÿÿÿÿ8³êÇñ1J$4056ba5e-10e5-4d78-b7a1-d0917a4913d1
+’	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¢Ó"8³êÇñ1J$7d4e43ab-3d07-45b2-8e67-29a63d1291e6
+p
+java:S1604."(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ8³êÇñ1J$2e685789-013f-4d39-97e7-7622e1ad2000
+p
+java:S1604>"(Make this anonymous inner class a lambda(ûæªÕøÿÿÿÿ8³êÇñ1J$252c36e0-6143-44a1-9d29-4e75251dd7ab
+k
+java:S1604Z"(Make this anonymous inner class a lambda(Ñ¯¾—8³êÇñ1J$6b33ec87-9581-4af9-91eb-f8ff54d09e45
+k
+java:S1604v"(Make this anonymous inner class a lambda(óƒ¶ı8³êÇñ1J$33d7a340-7449-467d-abf9-31ef6f634988
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8ÂêÇñ1J$44bacc6e-b5e6-489e-a4c4-7061fef82e2b
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(›ÈÆ¸øÿÿÿÿ8ÅêÇñ1J$ab847a82-bb21-43a7-a9a6-2a00f99adbe0
+ƒ	java:S125_"<This block of commented-out lines of code should be removed.(›ÈÆ¸øÿÿÿÿ8¶ğÇñ1J$51031b77-4658-4088-ac3c-0053ef3cda80
+~	java:S125|"<This block of commented-out lines of code should be removed.(Ç§ıé8¼ª‘Çñ1J$7b603da7-7669-499d-8013-90d4862984ba
+‘	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬å8ÈêÇñ1J$f7d60a04-4a5b-4e7d-a32d-59bf7228edf5

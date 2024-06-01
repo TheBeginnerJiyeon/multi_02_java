@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÅê¬8ÀÀªñ1
+a
+java:S3010"Remove this assignment of "f".(¥¹°’8Êªã©ñ1J$c1d40e63-277e-47ee-84b4-92901cd5a2b6
+f
+java:S3010"Remove this assignment of "l".(Éßéüÿÿÿÿ8¹‡³©ñ1J$15276be2-5707-4f77-93bf-d4dd994e63d4
+j
+java:S3010""Remove this assignment of "latch".(ûÎÕëÿÿÿÿÿ8¯ÕÛ©ñ1J$5c7fde6e-7c92-4deb-8a2e-dbfc26400a66
+x
+java:S2209"5Change this instance-reference to a static reference.(¥¹°’8»‡³©ñ1J$82a4e177-7cd2-4cd9-8c0c-1705512d9c50
+}
+java:S2209"5Change this instance-reference to a static reference.(Éßéüÿÿÿÿ8¯ÕÛ©ñ1J$98767e86-58fc-4af1-adfe-2dcd0b2993ca
+}
+java:S2209"5Change this instance-reference to a static reference.(ûÎÕëÿÿÿÿÿ8Êªã©ñ1J$7ca60ab2-738d-4bfd-8092-5bb5fef081c3
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(¡ÖòÍ8ƒ«©ñ1J$5affbc16-4e56-4dc9-bc3c-4f05018e7ecd
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ƒ«©ñ1J$8f2049ce-9e76-47d1-b454-f0dd1c6eaa57
+m	java:S106"+Replace this use of System.out by a logger.(Ë£øÄ8ƒ«©ñ1J$a90dda0c-2ead-4ca1-91cc-ebe362628dfd
+m	java:S106#"+Replace this use of System.out by a logger.(œÒÕÀ8›åÄ©ñ1J$21535e0a-1057-4024-9478-dcbc01a92d45

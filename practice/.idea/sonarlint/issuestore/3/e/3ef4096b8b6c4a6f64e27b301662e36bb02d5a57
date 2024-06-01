@@ -1,0 +1,10 @@
+
+q
+java:S1104"OMake sno a static final constant or non-public and provide accessors if needed.(œĞ¸Ñşÿÿÿÿ8ˆßğ1
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8‰ßğ1
+ÿ
+java:S1598"áThis file "Student.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8Šßğ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8‹ßğ1
+j
+java:S6201"HReplace this instanceof check and cast with 'instanceof Student student'(›œñ¦øÿÿÿÿ8‘ßğ1

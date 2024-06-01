@@ -1,0 +1,22 @@
+
+	java:S112m"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ό¶£ώτ1J$732e6b53-2285-4d1a-88a3-3800faad9000
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(βΫΉ8½¶£ώτ1J$93c752c4-dab4-4118-beb4-ce1b469cc1db
+’
+java:S1450"PRemove the "j" field and declare it as a local variable in the relevant methods.(ΐϊΪ/8„·£ώτ1J$8b393b42-bec2-49eb-92fc-2d19f6c8445b
+•
+java:S1450"RRemove the "now" field and declare it as a local variable in the relevant methods.(™β‡‚8„·£ώτ1J$e3f2f8d3-ad73-4cb3-b186-799bdcbc6c3c
+›
+java:S1450"XRemove the "spentTime" field and declare it as a local variable in the relevant methods.(Μ‰‹ς8„·£ώτ1J$79c52c00-f761-4e5f-a6e3-1eb7cfd3f041
+—
+java:S1450"TRemove the "start" field and declare it as a local variable in the relevant methods.(η¥ϋ8„·£ώτ1J$73a4c489-66ca-4c26-9508-e09ad0772a09
+
+java:S1450"PRemove the "t" field and declare it as a local variable in the relevant methods.(α‘²„ϊÿÿÿÿ8„·£ώτ1J$52de039d-9c19-4826-9f1b-b4ac2bfdb543
+™
+java:S1450"QRemove the "t2" field and declare it as a local variable in the relevant methods.(ΩΕη†όÿÿÿÿ8…·£ώτ1J$2d71adf0-d4b4-4cbe-a23e-80d195a0ad55
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒΌ–χϊÿÿÿÿ8†·£ώτ1J$3b30c2d2-b480-479f-a3f5-dbcb420e09a7
+΅
+java:S2142W"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8‰·£ώτ1J$b5fe6f01-ff96-4b6e-bc47-a0561006f7a0
+r	java:S106X"+Replace this use of System.out by a logger.(αηΞλϊÿÿÿÿ8‰·£ώτ1J$72146c97-1eee-4623-9caf-a506101181b9
+n
+java:S1874d"+Remove this use of "URL"; it is deprecated.(ΩϋΝ8·£ώτ1J$e71b69f1-560d-4628-a96a-4bebf4649a3f

@@ -1,0 +1,17 @@
+
+e
+java:S3010""Remove this assignment of "total".(Ξΐν8μΏ™όπ1J$0ab15084-8bbd-4968-aa7d-d1b1cb5e61bc
+m	java:S106"+Replace this use of System.out by a logger.(‹¥Φ―8νΏ™όπ1J$59b1e518-99ae-4e35-980a-26c262ff92ba
+l	java:S106""+Replace this use of System.out by a logger.(£ΓΰX8¤­Άόπ1J$0e9c543f-e3fb-40bf-928d-98860b4155f9
+y
+java:S26964"6Make the enclosing method "static" or remove this set.(ΠοΤ8νΏ™όπ1J$6e6f118a-0b2a-4659-8ea6-57af280a8efe
+x
+java:S22094"5Change this instance-reference to a static reference.(ΠοΤ8νΏ™όπ1J$eff8e965-1257-4321-99bd-14e0e21aef85
+y
+java:S2696<"6Make the enclosing method "static" or remove this set.(ΔΏθ±8ξΏ™όπ1J$3a1c3fd6-7f92-4a4a-9f76-78db460bbc49
+x
+java:S2209<"5Change this instance-reference to a static reference.(ΔΏθ±8ξΏ™όπ1J$c73cebb5-bc69-44d3-ad54-99aeeb10bca1
+x
+java:S2209E"5Change this instance-reference to a static reference.(ί›¦¦8ξΏ™όπ1J$23cbcd8b-835a-4772-a7aa-2f767d202bd2
+x
+java:S2209F"5Change this instance-reference to a static reference.(ϋ»ΉΪ8ξΏ™όπ1J$35d6c8c8-2637-45b8-a58f-444478f4d40c

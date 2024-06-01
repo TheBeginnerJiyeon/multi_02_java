@@ -1,0 +1,7 @@
+
+
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(Öâ¦ş8¢¾û¶ó1J$919a97e3-9cec-4d3c-a154-dc0b2862d281
+j
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8£¾û¶ó1J$53398b74-4b7e-405a-b751-d29af2def20c
+m	java:S106"+Replace this use of System.out by a logger.(êâ¦ò8¦¾û¶ó1J$5e37a361-29ad-4976-a0db-48720b79be60
+r	java:S106"+Replace this use of System.out by a logger.(˜¨Ÿßùÿÿÿÿ8¦¾û¶ó1J$056c99ef-6a04-4df6-b2a4-86d752537fba

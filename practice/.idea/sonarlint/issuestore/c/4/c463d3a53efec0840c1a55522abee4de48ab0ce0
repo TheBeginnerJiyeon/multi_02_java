@@ -1,0 +1,9 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûşê¼øÿÿÿÿ8á¼Õğ1J$1cdfc477-a2a7-4441-9e64-791115f043bb
+ª
+java:S1598"æThis file "StackExample.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8á¼Õğ1J$540d44e7-aacf-4b34-8123-82adf74652ec
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8â¼Õğ1J$938029e4-93f3-4c64-818f-2eb69c05ca74
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ûşê¼øÿÿÿÿ8ã¼Õğ1J$d3bb1c5f-e8f7-46db-8222-80839266e996
+r	java:S106"+Replace this use of System.out by a logger.(Ã‰æùşÿÿÿÿ8º´×ğ1J$fb79ad85-21f7-42e7-a136-7959fbb49b40

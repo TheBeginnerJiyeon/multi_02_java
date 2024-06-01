@@ -1,0 +1,13 @@
+
+£
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "avg".(ãšÎÿÿÿÿÿ8¸ÆùÊğ1J$d2e81655-6ccf-4004-98ec-b5808cd9ba9c
+”
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š8¸ÆùÊğ1J$ec4e1a26-a35d-4ac7-9e66-df7da493c8a8
+—
+java:S1104	"OMake sum a static final constant or non-public and provide accessors if needed.(ñÂ±£ıÿÿÿÿ8¸ÆùÊğ1J$8f50636e-5029-46b3-82cf-da0236ced565
+n
+java:S1444"+Make this "public static count" field final(ëª™Š8¸ÆùÊğ1J$2a755061-cce4-406e-ae5f-b99221b93ec5
+q
+java:S1444	")Make this "public static sum" field final(ñÂ±£ıÿÿÿÿ8¸ÆùÊğ1J$8ffc5b35-c3a5-4eb0-88ac-b0ba64bce83d
+c
+java:S3010" Remove this assignment of "sum".(ş¾ç´8»ÆùÊğ1J$c799a389-f28c-4162-ac85-2c30e43d2f51

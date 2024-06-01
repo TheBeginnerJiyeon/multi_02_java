@@ -1,0 +1,6 @@
+
+
+java:S1598"ΙThis file "Interrupt.java" should be located in "com\multi\practice\sleep3" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\sleep3".(Ρ¥άφ8―ΉΧ‰π1J$fcc67c91-f744-497f-8287-24ffe5a5e071
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦΅ϋϋÿÿÿÿ8³ΉΧ‰π1J$92740a47-4aba-43a3-ac7b-31672e8568eb
+p	java:S108")Either remove or fill this block of code.(‚¦΅ϋϋÿÿÿÿ8³ΉΧ‰π1J$d5ff8d3c-83a2-40be-bbfe-7b9fc62c6455

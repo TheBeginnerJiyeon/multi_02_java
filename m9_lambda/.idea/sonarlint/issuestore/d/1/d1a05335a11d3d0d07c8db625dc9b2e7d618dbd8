@@ -1,0 +1,23 @@
+
+p
+java:S1604"(Make this anonymous inner class a lambda(şòĞúıÿÿÿÿ8ÀÀ¿ó1J$e42b4206-9aa3-4edb-a24b-9aaa1b2d678e
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñå’¸8ŸÀÀ¿ó1J$83dfa5d5-8f75-4f68-b589-0956fe0b546e
+„
+java:S1854"<Remove this useless assignment to local variable "consumer".(şòĞúıÿÿÿÿ8¥ÀÀ¿ó1J$5637e811-5031-43e5-b30c-968a35f4d53f
+r	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8¦ÀÀ¿ó1J$32ec8bef-cbdb-4b1e-a3d2-eb2e77f66dd8
+r
+java:S1611"/Remove the parentheses around the "s" parameter(âÜ§å8§ÀÀ¿ó1J$b108fc38-7345-497c-82eb-dc69a912e24a
+ƒ
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(âÜ§å8§ÀÀ¿ó1J$8bd2e0ef-b543-468d-8739-3b96611dbd2e
+m	java:S106"+Replace this use of System.out by a logger.(âÜ§å8§ÀÀ¿ó1J$10dd8fbf-17ad-4065-b431-8222ba7a20c7
+w
+java:S1611!"/Remove the parentheses around the "s" parameter(îü¤‹üÿÿÿÿ8§ÀÀ¿ó1J$c5f98539-9953-49f6-862c-10f8c4a10e8f
+r	java:S106!"+Replace this use of System.out by a logger.(îü¤‹üÿÿÿÿ8§ÀÀ¿ó1J$938174a8-c373-4974-8575-7a1c1f4a4012
+m	java:S106%"+Replace this use of System.out by a logger.(ñÑ‰ 8§ÀÀ¿ó1J$79f58c7d-33e5-4cf7-9910-62ae47131b06
+t
+java:S1602:",Remove useless curly braces around statement(Èò±øÿÿÿÿ8¨ÀÀ¿ó1J$c4486d85-9e50-4397-918a-293895604349
+m	java:S106;"+Replace this use of System.out by a logger.(Ä†úµ8¨ÀÀ¿ó1J$9e0c2223-c6d2-46d3-af8a-b45f61e29c0a
+t
+java:S1611A"1Remove the parentheses around the "val" parameter(ùùçş8¨ÀÀ¿ó1J$a083d550-7726-4d6d-a7e0-82e83b7dcc1d
+r	java:S106B"+Replace this use of System.out by a logger.(†¡ó¿ûÿÿÿÿ8¨ÀÀ¿ó1J$7de2fd2b-097c-47ca-a39a-ad07d9b6ab88
+m	java:S106C"+Replace this use of System.out by a logger.(Âò²ì8¨ÀÀ¿ó1J$72786cef-a046-44ef-b1a7-93d49d1372b6

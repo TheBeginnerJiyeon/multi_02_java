@@ -1,0 +1,21 @@
+
+þ
+java:S1598"ÁThis file "A.java" should be located in "com\multi\practice\exam02" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\exam02".(çÓË“J$86ca47a9-80ad-4d6a-bc69-7e1501ddd09c
+€
+java:S1854
+"8Remove this useless assignment to local variable "var2".(Âñ»Àûÿÿÿÿ8ÒÄ¸Ñï1J$181861d7-4ec3-4da8-882b-9be0eeba0aed
+€
+java:S1854	"8Remove this useless assignment to local variable "var1".(£äÏ¹úÿÿÿÿ8ÓÄ¸Ñï1J$33dd0af9-30b4-4fb8-b7d9-568bf91d512f
+q
+java:S1481	")Remove this unused "var1" local variable.(£äÏ¹úÿÿÿÿ8ÓÄ¸Ñï1J$9ba96cef-2e76-4420-b4da-b52471f7032f
+q
+java:S1481
+")Remove this unused "var2" local variable.(Âñ»Àûÿÿÿÿ8ÓÄ¸Ñï1J$7331531d-81ec-482c-9cd0-56beeccf1e8f
+Z
+java:S1854"8Remove this useless assignment to local variable "var2".(Âñ»Àûÿÿÿÿ8çê¹Ñï1
+K
+java:S1481")Remove this unused "var2" local variable.(Âñ»Àûÿÿÿÿ8çê¹Ñï1
+Š
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ì‘ì–ÿÿÿÿÿ8ã±­Ñï1J$09a0fe63-92b3-470e-bdc1-ce1adbb21b71
+…
+java:S2094"BRemove this empty class, write its code or make it an "interface".(†Õ‡ñ8ä±­Ñï1J$a70d929a-815c-4c99-8e7d-11725193c946

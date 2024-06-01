@@ -1,0 +1,15 @@
+
+˜	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Î¯øÿÿÿÿ8´äíö1J$d29fe95d-61ef-4caa-b2b0-50ae0cedb6db
+¦
+java:S1488N"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÊÈ¦µüÿÿÿÿ8µäíö1J$296d8997-07f7-461e-b34c-4ec6bfbb7bf6
+¦
+java:S1488f"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÙûÃüÿÿÿÿ8¶äíö1J$4f4856b6-4ac0-402c-877c-c652e742a186
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïğüˆûÿÿÿÿ8¶äíö1J$1d6ce6b1-814f-4232-987b-27e86d15c6f5
+p
+java:S1481"-Remove this unused "loginDto" local variable.(ë€Á„8½äíö1J$be3e1c50-229b-4017-ba35-6ca6f0a7a70a
+
+java:S18542"<Remove this useless assignment to local variable "loginDto".(‚šóÕ8½äíö1J$91f5ea48-a256-44e0-82d3-db1e06abdcb6
+d
+java:S1854U"BRemove this useless assignment to local variable "generalUserDto".(ß²³úÿÿÿÿ8«Õôíö1
+k
+java:S1068"(Remove this unused "conn" private field.(ô’¦ª8¿äíö1J$ac47133b-15fe-4612-bba6-f4104cf9a7f9

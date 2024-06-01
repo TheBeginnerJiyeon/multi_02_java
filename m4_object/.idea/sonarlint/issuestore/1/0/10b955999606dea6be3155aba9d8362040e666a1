@@ -1,0 +1,17 @@
+
+˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾—«ûÿÿÿÿ8¿•¨¥ğ1J$f400cd53-1d6f-4021-80ec-889a4a0c97f8
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¦˜Æ8À•¨¥ğ1J$d1ab8cb3-a477-46f2-a9d3-22e949e2a22c
+“	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û½Ñ8À•¨¥ğ1J$30af670d-b3ea-4678-bb0f-a2abccfd72c5
+x
+java:S6353	"<Use concise character class syntax '\\d' instead of '[0-9]'.(Ìµ‰ÚJ$c0bc8141-7779-4f62-ba12-c1ac0f99a284
+f	java:S106"+Replace this use of System.out by a logger.(²«îÜJ$8503c78e-7ed2-48a2-9609-7ed3e4037bed
+f	java:S106"+Replace this use of System.out by a logger.(ƒ Ö×J$64d821a3-7e6e-4666-86f8-7a688780d70e
+f	java:S106"+Replace this use of System.out by a logger.(ÓÊ‘–J$6b9c0399-c265-4def-a38e-89b77cc889bb
+~	java:S125&"<This block of commented-out lines of code should be removed.(çÑô¥8ÏñĞ¦ğ1J$fe423be1-1c8c-4fd6-92b1-0bcdcd9ec21d
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(§›òºùÿÿÿÿ8‚ªÑ¦ğ1J$2f7e538f-81bf-486e-aa47-5282aa91c3ad
+s
+java:S6035*"0Replace this alternation with a character class.(Š¦˜Æ8Ö•¨¥ğ1J$cc938cbf-c800-41e4-957e-89e8dbb0e462
+}	java:S1252"<This block of commented-out lines of code should be removed.(²«µw8–‹Ò¦ğ1J$78846a86-7430-4820-b878-4059cd95e3b9
+r	java:S1067"+Replace this use of System.out by a logger.(–Ùú†şÿÿÿÿ8ë¿¨¥ğ1J$df1dfdf4-e0d3-4c19-b9de-a8c06f9f1330
+r	java:S1068"+Replace this use of System.out by a logger.(ùƒå„øÿÿÿÿ8ë¿¨¥ğ1J$adc9a627-21f1-42e3-bb39-de0773c5bc9b
+r	java:S1069"+Replace this use of System.out by a logger.(„ŒÌÃúÿÿÿÿ8ë¿¨¥ğ1J$7d64a837-c213-4183-b821-ec575b866cc1

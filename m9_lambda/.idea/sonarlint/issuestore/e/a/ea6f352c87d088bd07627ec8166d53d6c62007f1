@@ -1,0 +1,22 @@
+
+k
+java:S1604C"(Make this anonymous inner class a lambda(ÅÀ·þ8õÂ©×ó1J$dc4992dd-7f9a-4e26-8834-ff71f8e8fd8d
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£ßôÔýÿÿÿÿ8õÂ©×ó1J$bfe40e5d-4bee-438b-bc78-5f4367fe88d1
+~
+java:S18540"6Remove this useless assignment to local variable "f1".(â·¾ ýÿÿÿÿ8ùÂ©×ó1J$8a836c19-0543-4a12-978f-f16853acd944
+~	java:S125'"<This block of commented-out lines of code should be removed.(‚Ééù8ùÂ©×ó1J$3c1a9843-2c51-4b86-b19d-3be0eb93b40a
+r	java:S1060"+Replace this use of System.out by a logger.(â·¾ ýÿÿÿÿ8úÂ©×ó1J$b0eee574-90cf-44fc-88e1-8429b5d61790
+l	java:S1064"+Replace this use of System.out by a logger.(Ùñôi8úÂ©×ó1J$407f9de6-2cd8-43ba-b133-55f880f910fd
+l	java:S1065"+Replace this use of System.out by a logger.(Ùñôi8úÂ©×ó1J$b68f8bee-a36f-440e-9edc-457cb6d1ff7f
+~
+java:S1854K"6Remove this useless assignment to local variable "f1".(‡ˆ£Ÿùÿÿÿÿ8úÂ©×ó1J$02dbb624-79ae-4297-b3ac-471c8f13b5ee
+y
+java:S1854C"6Remove this useless assignment to local variable "f1".(ÅÀ·þ8úÂ©×ó1J$c64ce191-f285-43bc-bfac-50d63e40b6a7
+m	java:S106F"+Replace this use of System.out by a logger.(ž½öß8ûÂ©×ó1J$37b3ab44-1838-4c43-b3c2-3366293179bb
+r	java:S106K"+Replace this use of System.out by a logger.(‡ˆ£Ÿùÿÿÿÿ8ûÂ©×ó1J$d48fdf33-fc57-4adc-aa37-20316a50e2a1
+l	java:S106N"+Replace this use of System.out by a logger.(¢ô¯8ûÂ©×ó1J$07f4056c-53cd-45dd-9d6e-2c7c05d9737f
+y
+java:S1854^"6Remove this useless assignment to local variable "f1".(ç‘—Ë8ûÂ©×ó1J$75623896-0a2b-40fa-bfce-6fc37dbfd0c5
+~
+java:S1612a"6Replace this lambda with method reference 'this::sum'.(…ýÝÙøÿÿÿÿ8üÂ©×ó1J$49314634-df32-4812-9ee4-79af82e6c879
+r	java:S106c"+Replace this use of System.out by a logger.(§†Û«úÿÿÿÿ8üÂ©×ó1J$6ea80670-a457-4467-81d9-c90017005e31

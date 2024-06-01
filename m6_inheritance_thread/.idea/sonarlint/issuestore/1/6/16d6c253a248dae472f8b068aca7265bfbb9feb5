@@ -1,0 +1,31 @@
+
+	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χ ώÿÿÿÿ8•²‰όπ1J$470b3618-6473-4bb8-967c-4b6923645a2b
+	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ό®ωάϋÿÿÿÿ8–²‰όπ1J$d6524aa4-ed83-4568-9d8e-404c9deb9746
+
+java:S3008	"VRename this field "total_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ά™ΤΨωÿÿÿÿ8²‰όπ1J$9a65f452-e000-48a0-b6d9-f7b13a052296
+™
+java:S3008
+"VRename this field "total_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Οπ8²‰όπ1J$82c9cf88-4b65-40c7-8161-96c5a57059c9
+Ι
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·¤πΆϊÿÿÿÿ8²‰όπ1J$11a13101-3d60-4c8f-a8be-3ca88d74f9a8
+r	java:S106"+Replace this use of System.out by a logger.(²σα‰ψÿÿÿÿ8 ²‰όπ1J$f7272b00-cf2b-47d8-818b-e1aab537b6a1
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©―Γσωÿÿÿÿ8 ²‰όπ1J$6b67f1ab-a1f0-43cc-9240-558ae45db1fa
+r	java:S106 "+Replace this use of System.out by a logger.(θ¶ϋÿÿÿÿ8΅²‰όπ1J$3e867623-652b-4978-a87e-a2b7420e318b
+m	java:S106!"+Replace this use of System.out by a logger.(©¨Τυ8¬ΘΩόπ1J$721d2f7d-19f4-402d-8a5f-0b2bb1e0090e
+r	java:S106""+Replace this use of System.out by a logger.(ªΣΌαώÿÿÿÿ8ΛΒΪόπ1J$5ed66f21-3870-4dfb-89e6-cbf973c1595c
+y
+java:S2696+"6Make the enclosing method "static" or remove this set.(λίω‚8΅²‰όπ1J$f01d092b-5296-4d8a-a095-3ccf9fe1e996
+x
+java:S2209+"5Change this instance-reference to a static reference.(λίω‚8Ά²‰όπ1J$a80354b7-11b4-4eff-9086-ae23f707be6e
+•	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϋθ³ψÿÿÿÿ8Ά²‰όπ1J$60cc80f3-c76f-4e9d-9c0e-d58905164ac2
+•	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(χ ώÿÿÿÿ8Ά²‰όπ1J$e70af5c1-ad2e-4245-ab67-5efe7b33c9e9
+x
+java:S26963"6Make the enclosing method "static" or remove this set.(ύπϊ8Ά²‰όπ1J$225b7bbd-0db7-4873-9bf6-848914973599
+w
+java:S22093"5Change this instance-reference to a static reference.(ύπϊ8Ά²‰όπ1J$d88f9d1d-ee7b-4b4b-b2ab-d848855ddbb9
+	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μΟι8Ά²‰όπ1J$03f72eb5-5885-4210-8138-b37daced8bc6
+•	java:S100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ό®ωάϋÿÿÿÿ8Ά²‰όπ1J$cf53d0ad-11eb-4e2b-af8d-c734dc419a59
+~
+java:S2696;"6Make the enclosing method "static" or remove this set.(µδ—ώÿÿÿÿ8Ά²‰όπ1J$c05687aa-6c00-40f3-ae97-11223e3d20fd
+}
+java:S2209;"5Change this instance-reference to a static reference.(µδ—ώÿÿÿÿ8Ά²‰όπ1J$bb14dd11-1e66-4863-b0a2-a12e627db6ba

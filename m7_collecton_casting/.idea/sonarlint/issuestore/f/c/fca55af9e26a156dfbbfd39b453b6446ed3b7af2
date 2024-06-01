@@ -1,0 +1,41 @@
+
+	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ü†õ£ñ1J$8b4f9b01-4818-4258-a497-fdb93a404266
+	java:S112L"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8“àš¤ñ1J$57931a4b-7be1-4f4d-a9b7-c8c44bb1298a
+r
+java:S3740"/Provide the parametrized type for this generic.(Óƒ»ñ8Ü†õ£ñ1J$725a9b48-1e92-4f56-be85-3dfd75bda721
+r
+java:S3740"/Provide the parametrized type for this generic.(¸Ä®ƒ8Ü†õ£ñ1J$62e27a7b-6757-4c8a-a606-4af026f48af2
+–
+java:S1450"SRemove the "list" field and declare it as a local variable in the relevant methods.(Óƒ»ñ8˜‡õ£ñ1J$af22e573-f073-4337-a3b6-69c3cb6890ae
+•
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(í‡ø—8˜àš¤ñ1J$196d440a-a359-4001-ba0c-41d06037d949
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(¸Ä®ƒ8š‡õ£ñ1J$43affea1-7dda-42fd-8e31-c0d5073c85fc
+r	java:S106"+Replace this use of System.out by a logger.(•¹°Òúÿÿÿÿ8›‡õ£ñ1J$1679ff37-1eca-4c07-a9ef-2fda4ae0d75e
+r	java:S106"+Replace this use of System.out by a logger.(ßß˜øÿÿÿÿ8›‡õ£ñ1J$674bdd2a-c83c-4c03-bef6-481fbada093e
+m	java:S106"+Replace this use of System.out by a logger.(à¬ÑÑ8›‡õ£ñ1J$0a95de2f-4936-46f4-877d-f7fceef4bd57
+r	java:S106"+Replace this use of System.out by a logger.(¿Éš¨ıÿÿÿÿ8›‡õ£ñ1J$f030fe3b-58d9-41f0-bc73-20edd736ada8
+m	java:S106"+Replace this use of System.out by a logger.(Šø¿8›‡õ£ñ1J$c568929c-3126-4f63-a0ec-b403509fc799
+r	java:S106"+Replace this use of System.out by a logger.(¢½¥íúÿÿÿÿ8›‡õ£ñ1J$0da27afc-de1a-48a3-a8a9-6b1fa7daa0f2
+¡
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8œ‡õ£ñ1J$cebfffcb-40f1-4270-a845-44eb9571a97e
+m	java:S106!"+Replace this use of System.out by a logger.(„£æÿ8œ‡õ£ñ1J$994c5805-2367-421e-9c3c-711a55bfab6b
+¡
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8œ‡õ£ñ1J$8eb8e879-15bf-4c92-892a-019cf8933e5a
+r	java:S106,"+Replace this use of System.out by a logger.(ÏŒàİÿÿÿÿÿ8‡õ£ñ1J$7088b50b-ba45-4187-a867-d4a60fc034e5
+r	java:S1061"+Replace this use of System.out by a logger.(éù÷­øÿÿÿÿ8‡õ£ñ1J$84c7b9d0-83f0-454b-bcf8-80c8c8b61fa8
+l	java:S1064"+Replace this use of System.out by a logger.(õŞ©c8‡õ£ñ1J$f937a3d9-a887-4b50-99f3-f81f1a7641b9
+m	java:S1068"+Replace this use of System.out by a logger.(ø®¡¨8‡õ£ñ1J$42695897-3260-492e-af5b-ba283263e087
+r	java:S1069"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‡õ£ñ1J$7119f93c-8130-4400-9072-a445e3d89c4b
+r	java:S106;"+Replace this use of System.out by a logger.(§”Ë•úÿÿÿÿ8‡õ£ñ1J$34eeb625-a41d-4f16-adee-0c9866211af8
+r	java:S106="+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‡õ£ñ1J$b4b009d9-376f-4178-9da2-262d58e64c93
+¡
+java:S2142D"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¢ıö£ñ1J$1fdb1724-3417-408e-b034-7ea7c79b907b
+r	java:S106E"+Replace this use of System.out by a logger.(£²ã…úÿÿÿÿ8‡õ£ñ1J$325de18b-02ee-4865-b999-f8a0f3ba1e54
+¡
+java:S2142K"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8œàš¤ñ1J$04edb380-d9c6-4587-b6d3-0d87df15c5ae
+l	java:S106R"+Replace this use of System.out by a logger.(…õÂZ8ùÆ÷£ñ1J$c316fa5e-d7fa-4467-acef-48969eaf00c0
+m	java:S106U"+Replace this use of System.out by a logger.(­Ò¿û8¾£‹¤ñ1J$9160de3d-b1e0-4d3b-8a90-344afe61ce15
+r	java:S106Z"+Replace this use of System.out by a logger.(¹¬ Ûøÿÿÿÿ8ôü‹¤ñ1J$6f3a7b24-9919-4db8-9475-7d79c99a8ddf
+r	java:S106^"+Replace this use of System.out by a logger.(öîœúÿÿÿÿ8êò¤ñ1J$b804489f-f7ef-4987-838b-30b43db2980a

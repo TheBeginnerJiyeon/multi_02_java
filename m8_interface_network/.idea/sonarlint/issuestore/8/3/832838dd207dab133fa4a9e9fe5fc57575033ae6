@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş½À¤şÿÿÿÿJ$8e9a067b-193c-4469-b0b8-075b26a31b43
+	java:S116"MRename this field "MP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä™Ï‡8±¿¹ó1J$61d68878-8c77-475f-bcff-1aedc9c162fc
+’	java:S116"PRename this field "OTHMP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒÎ8±¿¹ó1J$cceef220-cace-42dc-af6c-b248d31cd7ae
+z
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¢±¿¹ó1J$95231f59-22e6-450b-a878-715284322c22
+z
+java:S1135 "2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¢±¿¹ó1J$0d84e78d-cec5-4153-b953-3c5ec865cd43
+z
+java:S1135'"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8£±¿¹ó1J$8737efa1-9259-4249-b167-6a36256e3a96
+i
+java:S1068"&Remove this unused "MP" private field.(Ä™Ï‡8¥±¿¹ó1J$63f9e301-6ea6-4896-bd8a-1e9216045b50
+l
+java:S1068")Remove this unused "OTHMP" private field.(ğÒÎ8¥±¿¹ó1J$5138df90-b9b1-440b-b087-9da6abe6ce66

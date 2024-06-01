@@ -1,0 +1,14 @@
+
+¡
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(«²Äÿÿÿÿÿ8İ›„Œğ1J$505e4e47-22a3-4427-957d-78a126f5f9d8
+¬
+java:S1598"èThis file "HashSetExample.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8İ›„Œğ1J$90ca35c8-7c85-4885-9de3-f7dba1798dbc
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8Ş›„Œğ1J$64707666-74ad-453b-9ba8-656e2955f65d
+
+java:S1854 "<Remove this useless assignment to local variable "iterator".(ñœ³Õ8ä›„Œğ1J$760af729-fd56-4c3c-87dc-08ef8798d769
+m	java:S106"+Replace this use of System.out by a logger.(–İÅ8å›„Œğ1J$e5afd8c3-ad90-4c7d-a64b-256660d2b13c
+m	java:S106"+Replace this use of System.out by a logger.(Ó¬³È8æ›„Œğ1J$8f8610a1-b948-40a2-be1e-385dc1c835c3
+m	java:S106"+Replace this use of System.out by a logger.(Öû³œ8æ›„Œğ1J$5bfab489-287b-4b59-ad56-c3b8ffe1bc42
+m	java:S106#"+Replace this use of System.out by a logger.(Ó¬³È8¤Ó…Œğ1J$9940c9ea-bc26-4bc4-a0d7-ac007750c69c
+r	java:S106)"+Replace this use of System.out by a logger.(‹€£÷øÿÿÿÿ8ßô†Œğ1J$10099adb-3ab9-4193-8878-9b42e6ec5847

@@ -1,0 +1,16 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ï¦…¹8–²ğ1J$4b9b56f3-7095-42f2-b9f8-120da4b7986d
+	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(ßŸŞİøÿÿÿÿ8 –²ğ1J$70e08601-bfe3-4bca-a010-7171fe1650a1
+Ÿ
+java:S1488/"\Immediately return this expression instead of assigning it to the temporary variable "list".(õ¢È‹8 –²ğ1J$4486fbc0-d373-4f01-a7e8-973156d4f439
+˜
+java:S1598"ÏThis file "ObjectStreamExample.java" should be located in "com\multi\practice\aa11" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\aa11".(ö¬´Îşÿÿÿÿ8 –²ğ1J$1b684968-ae93-425d-9348-4109e6f2be04
+‘
+java:S2095!"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(µ¾Ø8¤–²ğ1J$154c612e-ad5d-4c74-8a1d-02aa2eb86990
+˜
+java:S2095#"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8¥–²ğ1J$e29d6096-3e4f-4b97-93ec-0278b6ad47d4
+•
+java:S2095-"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Û·ÏÛÿÿÿÿÿ8¥–²ğ1J$6b2c4473-8a4c-474a-9967-c3e2fd5ee0a1
+—
+java:S2095."OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8¤–²ğ1J$979f3ad3-481a-47ae-90cc-d941db6f1ebd
+r	java:S106"+Replace this use of System.out by a logger.(ËÔÔ…ùÿÿÿÿ8Ÿ¶²ğ1J$91f02abc-0113-4f93-9730-851c75a3a911

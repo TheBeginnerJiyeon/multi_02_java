@@ -1,0 +1,16 @@
+
+¡
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ãÂ»üÿÿÿÿ8Šô ğ1J$b4a4572a-c2fd-4737-a95e-c6f49a436b5e
+®
+java:S1598"êThis file "HashTableExample.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8Šô ğ1J$f64a9b5f-5e50-47a4-8fae-561af1af0883
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8‹ô ğ1J$55b14a61-e9b7-4255-a444-61fb8841e63e
+
+java:S1149
+"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(‚ãÂ»üÿÿÿÿ8ô ğ1J$80f416b2-b177-4336-ad36-68c003c7b046
+m	java:S106"+Replace this use of System.out by a logger.(ÌŞÙ£8’ô ğ1J$d65c7796-6163-4fa7-83e2-07d6715a0a0b
+m	java:S106"+Replace this use of System.out by a logger.(á„ÊÌ8’ô ğ1J$20d9abda-620e-4f83-b1b1-188a3dcdd5fb
+r	java:S106"+Replace this use of System.out by a logger.(·ûšÉøÿÿÿÿ8’ô ğ1J$63e6dda7-e83b-4923-b52f-545d58ea2fff
+l	java:S106"+Replace this use of System.out by a logger.(¨ï‘s8ÓÏ¢ğ1J$e2b631cb-6b24-4e0f-af70-d39475bc5ddf
+G	java:S106!"+Replace this use of System.out by a logger.(Àêë8ç“¤ğ1
+L	java:S106$"+Replace this use of System.out by a logger.(ïø•úÿÿÿÿ8ç“¤ğ1

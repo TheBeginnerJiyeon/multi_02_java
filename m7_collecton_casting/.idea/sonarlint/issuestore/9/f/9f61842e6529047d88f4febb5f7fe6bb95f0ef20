@@ -1,0 +1,17 @@
+
+	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¬äûÄñ1J$c68db62e-4aec-4cca-bef9-7e727436d7dc
+
+java:S1192"GDefine a constant instead of duplicating this literal ".blind" 3 times.(˜à¬öÿÿÿÿÿ8Ïü¡Åñ1J$093b56f2-5362-41ea-8a92-99c89ed190eb
+
+java:S1854"9Remove this useless assignment to local variable "list1".(˜à¬öÿÿÿÿÿ8×ü¡Åñ1J$7381d8ee-2efe-4f9f-b024-c76db3b7a4e3
+r
+java:S1481"*Remove this unused "list1" local variable.(˜à¬öÿÿÿÿÿ8Øü¡Åñ1J$5bd6e53b-8a81-4817-8abf-251ba58678ff
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(‘ú”‰úÿÿÿÿ8Øü¡Åñ1J$fffcad5f-e5ca-4ce7-981e-fdb2aa922e53
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(œà’‡øÿÿÿÿ8Øü¡Åñ1J$6d5be2f9-a7b5-44df-8332-b89f77b328d0
+ƒ	java:S125#"<This block of commented-out lines of code should be removed.(›üšüùÿÿÿÿ8Øü¡Åñ1J$30eb2bfb-f413-4f1f-8a21-5f7ae2ceea00
+r	java:S106*"+Replace this use of System.out by a logger.(ÒåØüşÿÿÿÿ8Øü¡Åñ1J$2eaf01ef-8bcf-4b53-9023-5890d2c1a7e6
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(Ù‚ˆ¥ùÿÿÿÿ8Øü¡Åñ1J$d8ab8d7a-f6b3-4df1-8346-3900cbfa0189
+r	java:S106-"+Replace this use of System.out by a logger.(µí’ùÿÿÿÿ8Ùü¡Åñ1J$c5f2de4b-ce22-4158-86af-b7139ec6b8b9
+~	java:S125,"<This block of commented-out lines of code should be removed.(áã¨ê8Ùü¡Åñ1J$8dd6e0a8-c0ed-4c11-917e-53f004322003
+~	java:S1250"<This block of commented-out lines of code should be removed.(ºÄÔ‡8Ùü¡Åñ1J$5c45abdd-5233-4423-a61e-4ac13af5270e
+m	java:S1063"+Replace this use of System.out by a logger.(ü´‘ô8Ùü¡Åñ1J$4766661d-d31c-4f1b-99d5-4ac788d260d0

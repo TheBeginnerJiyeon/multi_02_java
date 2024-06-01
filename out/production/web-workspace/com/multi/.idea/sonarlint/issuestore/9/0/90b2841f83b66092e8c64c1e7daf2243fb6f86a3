@@ -1,0 +1,8 @@
+
+…
+java:S1598"¼This file "Television.java" should be located in "com\multi\practice" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice".(‰®ÔÂÿÿÿÿÿ8åÕÃ’ï1J$bc1d3d04-de45-4050-9ce3-53ed25f34f47
+
+java:S1450"URemove the "volume" field and declare it as a local variable in the relevant methods.(ã›ãÿÿÿÿÿ8èÕÃ’ï1J$506c92cb-bb38-4d3f-8727-a2ab0dff2f2a
+m	java:S106"+Replace this use of System.out by a logger.(Äîªœ8êÕÃ’ï1J$12da9155-1013-4f65-8eda-5e8cd72f40b8
+m	java:S106"+Replace this use of System.out by a logger.(Èá÷ì8êÕÃ’ï1J$df384027-0f59-41bb-b02a-d97b3e6bcae4
+m	java:S106"+Replace this use of System.out by a logger.(ºàæ8ÙÅ’ï1J$8de1f8ba-5817-41ca-a08b-6c089eb5fe19

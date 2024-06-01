@@ -1,0 +1,53 @@
+
+
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "num".(ÛõëŒ8ÒğĞ»õ1J$f9086775-5267-4b26-9773-c990a00ffb4d
+g
+java:S1948"$Make "sc" transient or serializable.(ÄŒä„8èñĞ»õ1J$38f15a63-b7bd-4434-85f8-2226474de83e
+r	java:S106"+Replace this use of System.out by a logger.(Æ¡‚ıÿÿÿÿ8õñĞ»õ1J$74a31557-e994-41cd-98d3-cca1f9165a61
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áí™ìÿÿÿÿÿ8öñĞ»õ1J$d6287737-2bfc-42e2-8da7-3a02ccedcdc4
+z
+java:S18543"7Remove this useless assignment to local variable "soc".(»Âªõ8øñĞ»õ1J$f32603d2-b95a-4773-8041-27ca6e805269
+c	java:S131!""Add a default case to this switch.(ìúÇV8úñĞ»õ1J$24934f09-c367-410d-9a69-7b430a105326
+“	java:S1282"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ8üñĞ»õ1J$b583e5d3-e817-4025-821f-e9c22f746ca9
+c	java:S131,""Add a default case to this switch.(©Ó¸b8üñĞ»õ1J$f53e7026-6a2d-4045-9ef9-260d67b83ec3
+•
+java:S1450>"RRemove the "now" field and declare it as a local variable in the relevant methods.(™â‡‚8‚òĞ»õ1J$36885921-fca8-43be-b289-4bf4814d8fce
+›
+java:S1450?"XRemove the "spentTime" field and declare it as a local variable in the relevant methods.(Ì‰‹ò8‚òĞ»õ1J$1b538a82-f872-4bd7-91a6-faa3412aa48e
+—
+java:S1450="TRemove the "start" field and declare it as a local variable in the relevant methods.(ç¥û8ƒòĞ»õ1J$20eb27a7-68dd-4a54-9820-2a5040aaeeab
+¡
+java:S2142a"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8…òĞ»õ1J$c0acea0a-c1ac-4110-b385-7d0c3476d291
+~
+java:S2696L"6Make the enclosing method "static" or remove this set.(õŸ£úÿÿÿÿ8‡òĞ»õ1J$54da7c06-981b-4f39-ac8a-681ee805967b
+m	java:S106N"+Replace this use of System.out by a logger.(ù§é8‡òĞ»õ1J$f07d162f-30eb-4d69-8c78-2df04771ca01
+r	java:S106Q"+Replace this use of System.out by a logger.(¤á”…ûÿÿÿÿ8ˆòĞ»õ1J$42da1018-8ac5-44e5-b61b-688f8767b130
+m	java:S106U"+Replace this use of System.out by a logger.(÷ş·½8ˆòĞ»õ1J$ed476694-5eca-4cf3-af30-903431f43f61
+m	java:S106X"+Replace this use of System.out by a logger.(Üğ—©8ˆòĞ»õ1J$aaa4d6b8-870b-47f2-890b-adf92523e8a7
+m	java:S106["+Replace this use of System.out by a logger.(â•€†8ˆòĞ»õ1J$32fa20da-b563-4277-b8f2-2d18648ca67c
+r	java:S106b"+Replace this use of System.out by a logger.(áçÎëúÿÿÿÿ8ˆòĞ»õ1J$ee2b1265-5808-464e-b578-771e0a232c01
+m	java:S106d"+Replace this use of System.out by a logger.(«±¿8ˆòĞ»õ1J$2460b958-8642-45e6-b53d-2727e59d8d00
+š
+java:S3776k"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼‹­éşÿÿÿÿ8‹òĞ»õ1J$440e5328-d2f8-4eac-82d4-45c8d2b1bac3
+a
+java:S2119l"Save and re-use this "Random".(¡Å”¦8òĞ»õ1J$923bab85-a545-4970-afd4-b2111206dd43
+d	java:S131w""Add a default case to this switch.(‡È®Î8òĞ»õ1J$0d867bf2-aa38-44fb-8c18-8911058df66f
+m	java:S106|"+Replace this use of System.out by a logger.(…Ÿ¥’8òĞ»õ1J$0ca91fac-55ae-4106-8022-ce75dd165ff4
+n	java:S106"+Replace this use of System.out by a logger.(…Ÿ¥’8òĞ»õ1J$33ff6db3-7b2c-4ec5-a85e-7f3816916b17
+n	java:S106†"+Replace this use of System.out by a logger.(…Ÿ¥’8òĞ»õ1J$eac5b517-173d-4944-80be-511a132dfd88
+n	java:S106“"+Replace this use of System.out by a logger.(…Ÿ¥’8òĞ»õ1J$9f898934-93cf-425b-b996-de107dd6e5c2
+s	java:S106¡"+Replace this use of System.out by a logger.(Æ¡‚ıÿÿÿÿ8òĞ»õ1J$2c74ebaa-3315-4a7e-9635-88737e5e1208
+n	java:S106¤"+Replace this use of System.out by a logger.(…Ÿ¥’8òĞ»õ1J$e33bdfe7-f1b1-4c4e-a75b-b3c27c26da11
+s	java:S106§"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘òĞ»õ1J$94b6215b-9ab4-4ec5-9b4f-bdd8cf16ae66
+m	java:S106ª"+Replace this use of System.out by a logger.(‡Ï…a8‘òĞ»õ1J$12f2a1e0-48cf-4704-8f1c-260d03e2be92
+n	java:S106®"+Replace this use of System.out by a logger.(‹Î…À8‘òĞ»õ1J$fb1fca83-5bce-4a33-a112-63af98242724
+s	java:S106¯"+Replace this use of System.out by a logger.(¶ÇÌ¢ùÿÿÿÿ8‘òĞ»õ1J$b7a43555-a0b0-462f-a690-8b550f10a9ff
+z
+java:S2696±"6Make the enclosing method "static" or remove this set.(üîœ8‘òĞ»õ1J$4cdffa92-c33a-4043-8655-4017fc28c51f
+s	java:S106²"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8‘òĞ»õ1J$82b0b39a-3fba-43b2-9c06-bd04af56837e
+l
+java:S1068")Remove this unused "start" private field.(ç¥û8‘òĞ»õ1J$adb14cb3-2c11-4973-9762-36935afcdaed
+j
+java:S1068"'Remove this unused "now" private field.(™â‡‚8‘òĞ»õ1J$534f9b2b-2d82-429a-b248-85c0fd7f1c06
+p
+java:S1068"-Remove this unused "spentTime" private field.(Ì‰‹ò8‘òĞ»õ1J$285feff3-8885-4ef2-930f-a5559f0357d5

@@ -1,0 +1,18 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(“Â„ùÿÿÿÿ8ıÎäÏñ1J$a6b68980-dcab-4492-94b4-82cf0b003a57
+w
+java:S3740/"/Provide the parametrized type for this generic.(ŞÚë×üÿÿÿÿ8ıÎäÏñ1J$5fe9449a-6d88-4597-b6c0-9a99d9b395ea
+r
+java:S37403"/Provide the parametrized type for this generic.(Í÷ãğ8è¦ÕÓñ1J$6cb73f42-f098-4cf8-a4da-94bfae0be204
+¸
+java:S1319/"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ŞÚë×üÿÿÿÿ8ıÎäÏñ1J$13791f1b-b262-441c-906c-6e7bb60c1576
+ª
+java:S13193"gThe type of "memList" should be an interface such as "List" rather than the implementation "ArrayList".(Í÷ãğ8é¦ÕÓñ1J$2dde8305-0bf7-4dcc-9a81-808804bb72b2
+~
+java:S26964"6Make the enclosing method "static" or remove this set.(ªè Òúÿÿÿÿ8Øä¼Ğñ1J$6f14bfc6-cf9f-4689-b8af-631fa5d5bd3e
+}
+java:S22094"5Change this instance-reference to a static reference.(ªè Òúÿÿÿÿ8Øä¼Ğñ1J$4726ae5b-2723-4cbf-bc14-5d9f929d1ed2
+m	java:S1069"+Replace this use of System.out by a logger.(ıë˜à8ƒÏäÏñ1J$f0112832-1877-4ab4-a739-a317f8e0c4d8
+m	java:S106>"+Replace this use of System.out by a logger.(Ö¿Ã—8ƒÏäÏñ1J$70dbc2e2-6a9d-4d4d-bd26-e7918ae328c1
+r	java:S106C"+Replace this use of System.out by a logger.(ÌìĞ±üÿÿÿÿ8Â©ÌÓñ1J$b6976f42-c4eb-48ca-806c-3cf638661147

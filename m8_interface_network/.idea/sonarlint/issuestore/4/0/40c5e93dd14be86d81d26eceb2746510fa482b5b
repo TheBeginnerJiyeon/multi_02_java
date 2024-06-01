@@ -1,0 +1,27 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(È±ùé8Ã„ÙÓñ1J$70a1125a-6902-4eb8-b6b5-654015895714
+w
+java:S3740"/Provide the parametrized type for this generic.(â×­Êúÿÿÿÿ8Ã„ÙÓñ1J$7aa438b2-ab65-4e75-949e-a7d6bdc9632f
+w
+java:S3740"/Provide the parametrized type for this generic.(‚À‘õùÿÿÿÿ8Ã„ÙÓñ1J$642988fc-e2ec-4468-80e3-f7320e8084ae
+°
+java:S1192$"hDefine a constant instead of duplicating this literal "---------------------------------------" 4 times.(™çšùÿÿÿÿ8Ä„ÙÓñ1J$850e2047-85c8-4448-9fab-e8bc412c8d9d
+¨
+java:S1319"eThe type of "input" should be an interface such as "List" rather than the implementation "ArrayList".(È±ùé8Ä„ÙÓñ1J$e3fe7864-4d6e-4cec-b4e6-825184ca4911
+«
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(×’âìúÿÿÿÿ8î„ÙÓñ1J$3ddb68f6-a84a-42d0-9598-5aef2685d60c
+}
+java:S2209"5Change this instance-reference to a static reference.(â×­Êúÿÿÿÿ8î„ÙÓñ1J$b8be2a95-3b42-46cb-be58-6d0e892b57b2
+«
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(‹Ì’ÿÿÿÿÿ8î„ÙÓñ1J$4268fd76-abe8-4850-a916-435563f9001b
+}
+java:S2209"5Change this instance-reference to a static reference.(‚À‘õùÿÿÿÿ8î„ÙÓñ1J$fc303ba6-7bd1-4c42-a56a-4385227567ea
+r	java:S106""+Replace this use of System.out by a logger.(‰çï·şÿÿÿÿ8î„ÙÓñ1J$78984306-927e-4c1a-a554-f1f514efee8e
+r	java:S106$"+Replace this use of System.out by a logger.(™çšùÿÿÿÿ8ï„ÙÓñ1J$6c4dc8c1-71d2-4de0-a282-23aa9cc88e6b
+m	java:S106&"+Replace this use of System.out by a logger.(ÔŒ±‚8ï„ÙÓñ1J$b71c6622-337d-4c89-8e8f-ddf709ec79a8
+r	java:S106+"+Replace this use of System.out by a logger.(™çšùÿÿÿÿ8ï„ÙÓñ1J$2720d5d0-31d0-4414-ab01-04ce85271b7f
+r	java:S106,"+Replace this use of System.out by a logger.(™çšùÿÿÿÿ8ï„ÙÓñ1J$a85b8591-4f81-4908-a243-d8f8030d1968
+m	java:S106."+Replace this use of System.out by a logger.(³ş³ä8ï„ÙÓñ1J$7b1ee82e-8005-44b6-802a-59107f59e0ca
+r	java:S1060"+Replace this use of System.out by a logger.(™çšùÿÿÿÿ8ï„ÙÓñ1J$94869403-1e6e-44c5-b34a-5e2e4ad5d620
+l	java:S1062"+Replace this use of System.out by a logger.(Î±ä8ï„ÙÓñ1J$1db3bd87-d6c8-4bc4-8f68-62767f2e147b

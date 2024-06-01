@@ -1,0 +1,14 @@
+
+t
+java:S3599",Use another way to initialize this instance.(Ó¯¸êúÿÿÿÿ8çâ¿Šñ1J$302ec382-a5cf-4a7a-9d86-1f257b064d55
+¡
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Ó¯¸êúÿÿÿÿ8èâ¿Šñ1J$cb207ab9-9135-47d0-823e-6f03fd616ffa
+l	java:S106"+Replace this use of System.out by a logger.(óÎÛG8êâ¿Šñ1J$54ad7123-fa57-4e29-9daa-f4bac69591d8
+”
+java:S1450!"QRemove the "id" field and declare it as a local variable in the relevant methods.(æ¨ç†8ëâ¿Šñ1J$2672f24a-6c18-4f8a-92be-95f5075c9934
+œ
+java:S1450#"TRemove the "price" field and declare it as a local variable in the relevant methods.(†ùŠÿúÿÿÿÿ8ëâ¿Šñ1J$8495f504-d25c-4180-a625-71d43a3fe047
+i
+java:S1068!"&Remove this unused "id" private field.(æ¨ç†8ìâ¿Šñ1J$f29f300e-6279-4e95-8661-ab3ca3119074
+q
+java:S1068#")Remove this unused "price" private field.(†ùŠÿúÿÿÿÿ8ìâ¿Šñ1J$44dc94d2-91c0-4ce0-8f9d-fd1940f5f25a

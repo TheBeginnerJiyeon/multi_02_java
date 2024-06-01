@@ -1,0 +1,42 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(˜ÛáÏ8×ÃÍÒñ1J$f191fc71-edca-4c11-bb89-5df83ddaf24e
+r
+java:S3740"/Provide the parametrized type for this generic.(˜ÛáÏ8×ÃÍÒñ1J$4b7432c7-29aa-4cea-ab0c-65dba288d907
+w
+java:S3740
+"/Provide the parametrized type for this generic.(øˆıÀşÿÿÿÿ8×ÃÍÒñ1J$9a47527c-7618-4432-9fd2-3f031045be09
+w
+java:S3740:"/Provide the parametrized type for this generic.(ì¼‹şÿÿÿÿ8×ÃÍÒñ1J$0b1c738e-3d45-414b-a871-07dca8dc944e
+w
+java:S3740:"/Provide the parametrized type for this generic.(ì¼‹şÿÿÿÿ8×ÃÍÒñ1J$c7cd21ed-4f8f-4056-93f3-e9e4af717640
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8×ÃÍÒñ1J$c24507f3-6d8b-4f18-820f-864850e6fdeb
+ 	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ØÃÍÒñ1J$c8292300-c20c-4fd9-93a4-29db6dbf0417
+¸
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(øˆıÀşÿÿÿÿ8ØÃÍÒñ1J$cbf1b194-7b95-4d44-853a-1e25036a83e0
+^
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8ÂÄÍÒñ1J$3fe80d33-809f-469c-980f-2acddfbcb86c
+m	java:S106"+Replace this use of System.out by a logger.(·Úÿ–8ÃÄÍÒñ1J$8d62fd35-9204-4cf1-8fa4-c5225c865fe3
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÃÄÍÒñ1J$e4fd3d5d-49bf-49a8-b2c8-b7268de5b6f0
+r	java:S106"+Replace this use of System.out by a logger.(÷â¡şÿÿÿÿ8ÃÄÍÒñ1J$75227fd2-c3ba-4ed3-8e5e-a518833de7b7
+«
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(—°š‘øÿÿÿÿ8ÄÄÍÒñ1J$988e6aa9-e55d-4059-8dc5-59fb38c0eb4e
+«
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(—°š‘øÿÿÿÿ8ÄÄÍÒñ1J$a8a80195-0f1a-42d1-ac5b-4b02568d20ec
+m	java:S106"+Replace this use of System.out by a logger.(íõ8ÄÄÍÒñ1J$81c8a823-f34a-4e27-861d-616e5490eba9
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄÄÍÒñ1J$3c2d43df-696b-4e0e-9f97-0c95bf60e1e6
+r	java:S106 "+Replace this use of System.out by a logger.(šøÿÿÿÿ8ÄÄÍÒñ1J$fbe7d892-4dea-4f03-83e3-d9e49c1c811a
+r	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄÄÍÒñ1J$5b929d33-b7f2-41dd-a9bf-18df1144c481
+r	java:S106$"+Replace this use of System.out by a logger.(åóÜúÿÿÿÿ8ÄÄÍÒñ1J$002816d5-2d33-48d9-bf36-3eaa44f89dc4
+r	java:S106&"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄÄÍÒñ1J$663be28b-3a45-49fb-affd-22698b8987e2
+m	java:S106*"+Replace this use of System.out by a logger.(‚½Â8ÄÄÍÒñ1J$de28dac1-c90b-4dec-b8c2-b66a5fd395e1
+r	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄÄÍÒñ1J$586c3822-ec99-47b7-83b7-3efae4d0f94e
+r	java:S1061"+Replace this use of System.out by a logger.(¹–İäùÿÿÿÿ8ÄÄÍÒñ1J$b0acf3b3-b4ce-4632-ba81-d2945ebe0c5c
+r	java:S1062"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄÄÍÒñ1J$859198fa-246a-4cbc-ab2c-37b2832bb0bf
+r	java:S1065"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ÄÄÍÒñ1J$fdb802ca-3f1d-410a-a7db-fcf00c1b222c
+m	java:S106@"+Replace this use of System.out by a logger.(¶Æ¥·8ÄÄÍÒñ1J$cd981d92-a737-42f0-a921-f972ea5cbfd4
+r	java:S106C"+Replace this use of System.out by a logger.(™ù–Äÿÿÿÿÿ8ÄÄÍÒñ1J$6f710be4-ca84-43a9-9833-199b14034bb8
+«
+java:S1157E"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ï»€âûÿÿÿÿ8ÄÄÍÒñ1J$51badc76-2d0f-4956-90f2-2e1a2e3071c7
+r	java:S106F"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8åÅıÒñ1J$ebec1dee-45cd-4adc-b642-452866a6c82e

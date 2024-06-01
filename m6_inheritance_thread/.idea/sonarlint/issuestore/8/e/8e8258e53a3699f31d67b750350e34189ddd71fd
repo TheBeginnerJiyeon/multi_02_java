@@ -1,0 +1,7 @@
+
+~
+java:S1854"6Remove this useless assignment to local variable "sc".(ðÛ²¸øÿÿÿÿ8ùÛ’†ñ1J$64895fa4-4de0-42f4-baf8-7ce29f867961
+o
+java:S1481"'Remove this unused "sc" local variable.(ðÛ²¸øÿÿÿÿ8‚Ü’†ñ1J$e53da8e9-b486-4cbd-80a1-8c083d6ee786
+r	java:S106"+Replace this use of System.out by a logger.(Ô«¯Êþÿÿÿÿ8‚Ü’†ñ1J$316abcd7-38b0-4080-b03e-52309740a8c7
+m	java:S106"+Replace this use of System.out by a logger.(¨†µ²8‚Ü’†ñ1J$38f17836-2e73-48cc-b2d8-6d3e2458c4c4

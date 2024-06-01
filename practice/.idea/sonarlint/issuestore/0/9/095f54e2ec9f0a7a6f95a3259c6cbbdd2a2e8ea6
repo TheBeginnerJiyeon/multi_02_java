@@ -1,0 +1,13 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(©Ä‘şÿÿÿÿ8òİÖ¬ğ1J$4b27af15-b62a-46bc-9ad8-b9da01ca7e8c
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Èƒ®½øÿÿÿÿ8òİÖ¬ğ1J$f5fa7b4a-6a41-4b63-aed7-d0319e29e8a5
+
+java:S1488""\Immediately return this expression instead of assigning it to the temporary variable "data".(Ÿ±íK8óİÖ¬ğ1J$39acb8c8-facb-49ee-a23d-be3185c69bc3
+¡
+java:S1598"İThis file "CharacterConvertStreamExample.java" should be located in "com\multi\practice\stream" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\stream".(‰€­ä8óİÖ¬ğ1J$8787c622-c324-4802-b9d4-94b8f3ca40c4
+“
+java:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(¼Ùê‰8öİÖ¬ğ1J$1355bb4f-f9ee-44fc-a67c-798d478d12e5
+‘
+java:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(„ŸğB8öİÖ¬ğ1J$691b2b0b-9ead-4303-8dba-b76757cb9939
+r	java:S106
+"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8Ü„Ù¬ğ1J$881780a5-b3f5-48db-bfd1-baf45fb0e02e

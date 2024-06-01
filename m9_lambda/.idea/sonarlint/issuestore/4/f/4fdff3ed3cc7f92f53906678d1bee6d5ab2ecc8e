@@ -1,0 +1,31 @@
+
+d
+java:S1604"(Make this anonymous inner class a lambda(¾µÏõJ$50a5d337-c9d1-43c8-b7ab-57780e295fed
+ˆ	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼˜»¡J$91737fa5-d52a-40a0-abaa-782924240aef
+…
+java:S2184J"BCast one of the operands of this division operation to a "double".(şúı³8æïÓİó1J$4c81fc7d-ec1e-4ee4-96f4-b3018c392222
+ƒ
+java:S2184J"@Cast one of the operands of this integer division to a "double".(şúı³8çïÓİó1J$87dc42ae-bbb3-4076-aff4-d63cc0c1b7a0
+k	java:S106"+Replace this use of System.out by a logger.(ÖòÔÉùÿÿÿÿJ$dd00b1dd-1528-4a25-a710-71a367d987c4
+“
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(“ó–ÅüÿÿÿÿJ$03cb9236-47f7-4bcc-80eb-f64ceb9f23f1
+t
+java:S1611"3Remove the parentheses around the "value" parameter(“ó–ÅüÿÿÿÿJ$41ecfd81-f0ce-49f3-a2dc-5f7df9d7a4d2
+f	java:S106""+Replace this use of System.out by a logger.(Æ¶·äJ$124c917d-9454-4c56-87b7-39e4da97858c
+o
+java:S1611%"3Remove the parentheses around the "value" parameter(Ó”íßJ$b0dfc1f6-d815-463b-92b1-7b6e63cc1b02
+k	java:S106("+Replace this use of System.out by a logger.(‘·ŠüıÿÿÿÿJ$df7bcf4d-1172-427c-8fb5-963fb0bedf11
+f	java:S106+"+Replace this use of System.out by a logger.(ÊÅ¼ŠJ$2e7b3e08-cf9e-4565-9f08-bd16293e9048
+v
+java:S16110"5Remove the parentheses around the "student" parameter(©öÿÿÿÿÿJ$81a9e964-0ae5-43ac-a490-5aa3dc42f9c7
+”
+java:S16020"SRemove useless curly braces around statement and then remove useless return keyword(©öÿÿÿÿÿJ$0449ccb6-4372-4d5f-a1a3-d52a7ee0a7dd
+f	java:S1064"+Replace this use of System.out by a logger.(®“ùùJ$96510c80-7664-498e-b138-47a525b8a6b9
+k	java:S1065"+Replace this use of System.out by a logger.(÷Ç—ëüÿÿÿÿJ$aa184045-8564-4631-82a8-f80a93c7c298
+k	java:S1066"+Replace this use of System.out by a logger.(ºäÆøÿÿÿÿJ$0d787526-c93e-4cf3-be05-c0b24835fe16
+w
+java:S16119"/Remove the parentheses around the "s" parameter(ıµ¹ğşÿÿÿÿ8îïÓİó1J$56c880e5-3e23-4d70-89b8-13f2eaaa364b
+~	java:S125="<This block of commented-out lines of code should be removed.(§ùß×8ïïÓİó1J$b0eeaf82-832e-4014-bb45-b97d8d4ee89c
+f	java:S106@"+Replace this use of System.out by a logger.(§áØ¼J$2d279390-8c5e-40ab-9315-4d9dea134060
+r	java:S106A"+Replace this use of System.out by a logger.(É›ƒìùÿÿÿÿ8ïïÓİó1J$05b19949-2575-4e51-ad28-70a354746dc5
+r	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ïïÓİó1J$665bf6bf-4e0b-4c3f-865f-dca029ad1b6a

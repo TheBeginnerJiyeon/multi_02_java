@@ -1,0 +1,11 @@
+
+‚
+java:S18543"?Remove this useless assignment to local variable "logOutPanel".(„Š‰8¦Ü¸¼õ1J$ad45183a-dedd-4d29-8216-1615fea93550
+‚
+java:S1854."?Remove this useless assignment to local variable "logOutPanel".(„Š‰8¦Ü¸¼õ1J$af98227f-3811-4f1d-8f1f-2710a8d3f8af
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8§Ü¸¼õ1J$e9050732-cf0a-40ff-8aaa-57d80d1ed250
+s
+java:S1481."0Remove this unused "logOutPanel" local variable.(„Š‰8«Ü¸¼õ1J$061d0325-8a8d-4de6-83f3-e4e2d5ace91b
+s
+java:S14813"0Remove this unused "logOutPanel" local variable.(„Š‰8«Ü¸¼õ1J$b186914b-5d54-4d2d-81ad-4cfa38462d59

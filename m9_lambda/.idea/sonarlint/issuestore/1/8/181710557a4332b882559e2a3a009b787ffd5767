@@ -1,0 +1,11 @@
+
+i
+java:S1604"(Make this anonymous inner class a lambda(º—éóÿÿÿÿÿJ$06b76d4e-3551-45fe-bfb4-c47bc95078b2
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªåýÌJ$ff17a93f-b7d1-42a8-864f-318cd9d13182
+k	java:S106"+Replace this use of System.out by a logger.(Ë°°¼ýÿÿÿÿJ$ffe655c8-af49-4a42-b9f6-eaaf245081cd
+w	java:S125"<This block of commented-out lines of code should be removed.(ÙåðÍJ$c6d3d34e-93a2-4e4d-b534-85f5e29750ec
+k	java:S106#"+Replace this use of System.out by a logger.(°è­‡üÿÿÿÿJ$562cbc59-1fa4-4671-b2f3-70ae64e6f0ab
+|	java:S125,"<This block of commented-out lines of code should be removed.(ƒüêªûÿÿÿÿJ$c85e6f5b-6074-4e9f-99f6-ef713a079343
+k	java:S1062"+Replace this use of System.out by a logger.(ÂÆ¹þÿÿÿÿJ$2e03e26d-3c37-4519-8118-80a5437ec098
+k	java:S1063"+Replace this use of System.out by a logger.(ëüÉÎùÿÿÿÿJ$41df5d76-0a79-4b15-8689-7170cdb86b0a
+k	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿJ$7624a6b3-2b03-45c9-8fb5-dd1e0bfd5d4d

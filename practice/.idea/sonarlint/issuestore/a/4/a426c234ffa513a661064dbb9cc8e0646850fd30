@@ -1,0 +1,8 @@
+
+¡
+java:S1598"ØThis file "DataInputOutputStreamExample.java" should be located in "com\multi\practice\aa11" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\aa11".(ö¬´Îşÿÿÿÿ8§Øÿ°ğ1J$2a2d72a9-a248-48b0-af94-f14815573684
+‘
+java:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ŒÅ½¥8®Øÿ°ğ1J$df8f05d1-1564-43fe-a0de-05f334278336
+
+java:S2095"MUse try-with-resources or close this "DataInputStream" in a "finally" clause.(™¾âë8®Øÿ°ğ1J$f17709d8-ba9e-4ca9-b8ce-ff4f596f8893
+r	java:S106%"+Replace this use of System.out by a logger.(˜‘™£üÿÿÿÿ8°Øÿ°ğ1J$8b745ec9-db70-4c0a-871d-ecc0727f54c1

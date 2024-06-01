@@ -1,0 +1,8 @@
+
+
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ΗΎΏ―8”ήªιο1J$cfc35b5b-a7bb-410c-8f43-9f4762ff5567
+•
+java:S1598"ΜThis file "Calender1212.java" should be located in "com\multi\practice\exam20" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\exam20".(ϊ£ψÿÿÿÿ8–ήªιο1J$57efcd72-9786-4dce-83a4-5c3369b6e874
+r	java:S106"+Replace this use of System.out by a logger.(ώ¦€Γωÿÿÿÿ8Άήªιο1J$20ffc934-dc01-456a-bcb7-f5563329e0b2
+d	java:S131""Add a default case to this switch.(ΗΎΏ―8΅ήªιο1J$0adfca49-a9fa-406a-80ac-80df30eb8e7a
+L	java:S106,"+Replace this use of System.out by a logger.(μΤΪ¨ψÿÿÿÿ8¤–ΐιο1

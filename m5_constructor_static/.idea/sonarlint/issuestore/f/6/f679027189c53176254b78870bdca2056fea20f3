@@ -1,0 +1,24 @@
+
+”
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(ëª™Š8Ïß±Äğ1J$62d82956-c1e7-4af3-9f8b-bb1e099ac58c
+n
+java:S1444"+Make this "public static count" field final(ëª™Š8Ğß±Äğ1J$9753be7a-ebb8-4dc1-9c48-808a11228875
+É
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡€ƒÃÿÿÿÿÿ8Ø‡Åğ1J$4909e82d-3b5d-47a5-b32a-52fbba27fc3a
+Ä
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬õá8Ø‡Åğ1J$2975fd03-3051-48ab-a2ed-bf94353d8e42
+Ã
+java:S1186m"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ôüD8‘Ø‡Åğ1J$edb7b449-9f72-4532-a200-d0f7b5f8bb44
+Ä
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚­¨Î8‘Ø‡Åğ1J$113d535e-4803-46b4-8610-7da5c9d2a23c
+Ä
+java:S1186s"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ƒ˜å8òšŠÅğ1J$5d2d0f84-0344-42a1-a333-55708e6c293f
+~	java:S125"<This block of commented-out lines of code should be removed.(ÄÃ¤·8›ÙÙÄğ1J$f20f8a1d-b4de-4029-8bed-a39ea4b3ca2a
+m	java:S106,"+Replace this use of System.out by a logger.(”Ôï8˜ú´Äğ1J$9837ef92-3ff7-4faf-a6dc-49ba7f69c3c2
+r	java:S106-"+Replace this use of System.out by a logger.(•»ãşÿÿÿÿ8˜ú´Äğ1J$5aa9e228-9ae9-43be-be56-f11eb7df4057
+r	java:S1062"+Replace this use of System.out by a logger.(Ï¦Ëçüÿÿÿÿ8˜ú´Äğ1J$5c149d46-e8bb-4642-935e-bbf57564c11d
+l	java:S1063"+Replace this use of System.out by a logger.(ÇØò^8É¶Äğ1J$d68e5a06-30b5-4c82-b9ec-88eb456a9b61
+ƒ	java:S125]"<This block of commented-out lines of code should be removed.(²‰Áóùÿÿÿÿ8˜Ø‡Åğ1J$7e6af2e3-b545-471a-a8e2-6d366c203a36
+~	java:S125`"<This block of commented-out lines of code should be removed.(óú®Â8˜Ø‡Åğ1J$bf41b7d6-2d5d-43cb-8635-e6de3cfcabf7
+ƒ	java:S125c"<This block of commented-out lines of code should be removed.(È¬âûÿÿÿÿ8½´ˆÅğ1J$253f7ac9-19b9-4308-9fe8-ea9e269663d5
+~	java:S125i"<This block of commented-out lines of code should be removed.(¥Œ«ó8Ô‹‹Åğ1J$a57350ae-583e-46a3-b0d3-d0c7e72d13a6

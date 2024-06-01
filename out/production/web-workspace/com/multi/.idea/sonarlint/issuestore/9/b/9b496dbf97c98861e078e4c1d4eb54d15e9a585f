@@ -1,0 +1,13 @@
+
+Ÿ
+java:S1598"ÖThis file "SmartTelevisionExample.java" should be located in "com\multi\practice\search" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\search".(ÖÀ íûÿÿÿÿ8¤—§“ï1J$b75fcd73-dc61-45b3-9c37-3ebc930835f9
+†
+java:S1854
+">Remove this useless assignment to local variable "searchable".(‘ÖéŒùÿÿÿÿ8¦—§“ï1J$a5064292-7377-46b3-a2fc-ee60bfff31c5
+x
+java:S1854"6Remove this useless assignment to local variable "rc".(Ÿ€Ãw8¦—§“ï1J$a4568a55-7597-4400-937e-a52a19db9a3c
+i
+java:S1481"'Remove this unused "rc" local variable.(Ÿ€Ãw8§—§“ï1J$84afd6f9-c771-432e-8d77-1cf85aa3d922
+w
+java:S1481
+"/Remove this unused "searchable" local variable.(‘ÖéŒùÿÿÿÿ8§—§“ï1J$8cea48f1-107c-46be-9878-cec482b6cd0c

@@ -1,0 +1,10 @@
+
+¡
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8ëÍîŠğ1J$83d30caa-b08d-4e88-9cf8-74f318ec4ae4
+®
+java:S1598"êThis file "ArrayListExample.java" should be located in "com\multi\practice\collectionFramework" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\collectionFramework".(©ô·ˆ8ìÍîŠğ1J$34180da4-9a70-4624-abf4-5658428af664
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©ô·ˆ8ìÍîŠğ1J$dcf1b769-89a8-474e-b2c8-2dfec48ee049
+r	java:S106"+Replace this use of System.out by a logger.(€»ÃÍşÿÿÿÿ8õÍîŠğ1J$34834666-1e46-41a9-a7b9-299d77f20de5
+m	java:S106"+Replace this use of System.out by a logger.(­öéÜ8õÍîŠğ1J$e11506c6-66a1-4b27-846c-27a8308736ad
+r	java:S106"+Replace this use of System.out by a logger.(„ÆÅäúÿÿÿÿ8öÍîŠğ1J$77334261-f6c8-469d-9c17-df72c06d6e24
+r	java:S106&"+Replace this use of System.out by a logger.(„ÆÅäúÿÿÿÿ8ÛÑïŠğ1J$b01efeb2-4993-4ca7-aa66-a86eaf4473fb

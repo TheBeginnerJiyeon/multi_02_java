@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>여러개 마커 표시하기</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gugi&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css_homework/homework.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img src="img/bootstrap-logo.svg" alt="로고" width="50px"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html"><b>Home</b></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                <span id="dropp"><b>눌러보세요!</b></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="page_flower.html">Flower</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="page_food.html">Food</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="page06_hobby.html">Hobby</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="./airline.html">Airline</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="./blue_car.html">Add Reply</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="./dynamic_tag.html">Product</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+                                <li><a class="dropdown-item" href="./map.html">Map</a></li>
+                                <li>
+                                    <hr class="dropdown-divider">
+                                </li>
+
+                            </ul>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <section id="upperpart">
+    <br><br><br><br><br>
+        <h2 style="height: 10vh; text-align: center; font-size: 9vh;color: rgb(23, 185, 185);">오시는 길</h2>
+        <br><br><br>
+
+    </section>
+    <section id="mapdomain">
+
+        <div id="map" style="width:80vw;height:70vh;margin: auto; z-index: -10;"></div>
+
+        <script type="text/javascript"
+            src="//dapi.kakao.com/v2/maps/sdk.js?appkey=f8308f4a5dc5878dfd6e5fc5ecefdc3d"></script>
+        <script>
+            var mapContainer = document.getElementById('map'), // 지도를 표시할 div  
+                mapOption = {
+                    center: new kakao.maps.LatLng(37.367309, 127.107689), // 지도의 중심좌표
+                    level: 3 // 지도의 확대 레벨
+                };
+
+            var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
+
+            // 마커를 표시할 위치와 title 객체 배열입니다 
+            var positions = [
+                {
+                    title: '탐탐카페',
+                    latlng: new kakao.maps.LatLng(37.365291, 127.107743)
+                },
+                {
+                    title: '스타벅스',
+                    latlng: new kakao.maps.LatLng(37.366866, 127.106727)
+                },
+                {
+                    title: '에릭스펍',
+                    latlng: new kakao.maps.LatLng(37.365447, 127.106431)
+                },
+                {
+                    title: '코이라멘지로',
+                    latlng: new kakao.maps.LatLng(37.367763, 127.107594)
+                }
+            ];
+
+            // 마커 이미지의 이미지 주소입니다
+            var imageSrc = "./img/꽃1.jpg";
+
+            for (var i = 0; i < positions.length; i++) {
+
+                // 마커 이미지의 이미지 크기 입니다
+                var imageSize = new kakao.maps.Size(20, 20);
+
+                // 마커 이미지를 생성합니다    
+                var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize);
+
+                // 마커를 생성합니다
+                var marker = new kakao.maps.Marker({
+                    map: map, // 마커를 표시할 지도
+                    position: positions[i].latlng, // 마커를 표시할 위치
+                    title: positions[i].title, // 마커의 타이틀, 마커에 마우스를 올리면 타이틀이 표시됩니다
+                    image: markerImage // 마커 이미지 
+                });
+            }
+        </script>
+        <br><br><br>
+        <section>
+            <a id="top" href="#">Top</a>
+        </section>
+
+        <br>
+
+        <script>
+            $(function () {
+                $("#dropp").click(function () {
+                    if ($("#dropp").text() == "눌러보세요!") {
+                        $("#dropp").text("닫으세요~")
+                    } else if ($("#dropp").text() == "닫으세요~") {
+                        $("#dropp").text("눌러보세요!")
+                    }
+
+                })
+            })
+        </script>
+
+    </section>
+
+</body>
+
+</html>

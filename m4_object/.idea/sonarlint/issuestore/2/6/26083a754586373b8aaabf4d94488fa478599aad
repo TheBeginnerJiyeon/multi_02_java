@@ -1,0 +1,9 @@
+
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ο”Π£π1J$f3d58b0b-936c-4fa1-89ff-ce852aca155c
+…
+java:S1163""=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òιόÿÿÿÿ8π”Π£π1J$16774c91-92f6-44a5-9896-7d469ea73b2c
+|
+java:S1143""4Remove this throw statement from this finally block.(Ò‚Òιόÿÿÿÿ8π”Π£π1J$56d52bc8-5b7c-4711-bc25-d73690226f4e
+r	java:S106"+Replace this use of System.out by a logger.(Ά–νϋÿÿÿÿ8€Β£π1J$aeb7beba-f0c8-4ec3-b4d3-ab555daee74a
+r
+java:S2093"*Change this "try" to a try-with-resources.(΅»Άόωÿÿÿÿ8…½Θ£π1J$45ce092b-f51b-4c0c-883a-7a9c30d0773d

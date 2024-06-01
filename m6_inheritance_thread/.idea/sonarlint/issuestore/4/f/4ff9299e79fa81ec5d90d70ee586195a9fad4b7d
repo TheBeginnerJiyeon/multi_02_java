@@ -1,0 +1,13 @@
+
+e
+java:S3010""Remove this assignment of "total".(ÎÀíœ8‘Õöûğ1J$6ec9eed7-ed49-4ce1-bc8b-c09246856d64
+r	java:S106"+Replace this use of System.out by a logger.(úÕãğûÿÿÿÿ8£“èúğ1J$3b2f1153-b9e8-45ee-9994-424a3abce29e
+m	java:S106""+Replace this use of System.out by a logger.(î¸Ÿ¸8Ùî¡üğ1J$f16ad260-5c2d-41f6-8984-24e9bd1bf859
+y
+java:S26965"6Make the enclosing method "static" or remove this set.(ĞïŒÔ8„¼öûğ1J$1bb408e0-15c5-4e9a-a1c7-abae2edf68d8
+x
+java:S22095"5Change this instance-reference to a static reference.(ĞïŒÔ8„¼öûğ1J$f94aac6b-2c58-4c39-be81-e39c6c7e4786
+y
+java:S2696="6Make the enclosing method "static" or remove this set.(Ä¿è±8œÕöûğ1J$ccae2336-3e5d-4b54-b69a-d38c1b7dfa7a
+x
+java:S2209="5Change this instance-reference to a static reference.(Ä¿è±8Õöûğ1J$07551d25-a405-49a4-90b0-6ce1e8648f8a

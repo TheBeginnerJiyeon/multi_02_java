@@ -1,0 +1,29 @@
+
+‚
+java:S1854":Remove this useless assignment to local variable "space2".(·‡šÆûÿÿÿÿ8Ô›ï1J$3e0dd90b-e8a2-4a78-aae5-483758c338fa
+‚
+java:S1854":Remove this useless assignment to local variable "gender".(‚§¾şÿÿÿÿ8Ô›ï1J$c0804c44-5477-44fc-9da8-c603d308a523
+
+java:S1854"9Remove this useless assignment to local variable "space".(œğÈùÿÿÿÿ8Ô›ï1J$f4735c01-9f21-4cd3-8f49-b10adf6f9e17
+‚
+java:S1854":Remove this useless assignment to local variable "height".(­‹€”ÿÿÿÿÿ8Ô›ï1J$7cd6ed47-7f00-4f0c-8f15-15b4e0ccb977
+m	java:S106
+"+Replace this use of System.out by a logger.(£”8ó‘‘ï1J$4ced7380-9fcc-41a3-b584-7ad779b515e7
+~	java:S125	"<This block of commented-out lines of code should be removed.(çå®¼8ó‘‘ï1J$241012cf-64df-4f83-aea6-af41b2772da2
+m	java:S106"+Replace this use of System.out by a logger.(á´İĞ8©®•ï1J$62a27bc5-0218-4899-b7fb-3b2b2881b271
+r	java:S106"+Replace this use of System.out by a logger.(ÔùÅÿıÿÿÿÿ8©®•ï1J$e7bb1859-2c78-40cf-bcbc-986e2c10f82c
+s
+java:S1481"+Remove this unused "height" local variable.(­‹€”ÿÿÿÿÿ8¢Ô›ï1J$d623ea6a-1f37-45f1-9f04-94f60c9859e0
+r
+java:S1481"*Remove this unused "space" local variable.(œğÈùÿÿÿÿ8¢Ô›ï1J$502c3256-bd23-45eb-8e53-6400343164ec
+s
+java:S1481"+Remove this unused "gender" local variable.(‚§¾şÿÿÿÿ8¢Ô›ï1J$484e4a86-294f-4dd8-87e3-34d150c19f29
+s
+java:S1481"+Remove this unused "space2" local variable.(·‡šÆûÿÿÿÿ8¢Ô›ï1J$b2611196-95ab-4e82-a5c5-61c5924f4e63
+r	java:S106"+Replace this use of System.out by a logger.(Ë²¹şÿÿÿÿ8ƒÀ¥ï1J$614f021a-55b1-47f6-ad72-1f378ba33ce4
+r	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8Äöüï1J$5cde8d6e-62d5-46b9-bf38-feaf9acfe379
+r	java:S106 "+Replace this use of System.out by a logger.(ì–ñ“ûÿÿÿÿ8ÊŞÁŸï1J$e8a6cd5c-5d65-45d6-83a5-4922ff2a7fbb
+m	java:S106!"+Replace this use of System.out by a logger.(‡ƒê8ÊŞÁŸï1J$e7da33b8-6484-4d6a-8ad7-5feeb9f0b61b
+h
+java:S2116!"%Use "Arrays.toString(array)" instead.(‡ƒê8ÏŞÁŸï1J$d6410216-e249-4089-8fa5-f9a58c204f6d
+G	java:S106""+Replace this use of System.out by a logger.(…Ì£Ü8¥ïÄŸï1

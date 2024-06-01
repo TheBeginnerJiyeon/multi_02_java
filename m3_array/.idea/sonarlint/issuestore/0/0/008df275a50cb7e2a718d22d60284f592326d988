@@ -1,0 +1,15 @@
+
+™	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ÿ×ó¥ï1J$ac969811-187a-457d-aa75-39f0d77660af
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8üåÿ¥ï1J$f7e7ee85-8a81-4e71-8406-92a4d8998ce6
+€
+java:S1854C"8Remove this useless assignment to local variable "max1".(Ÿ¥£±ıÿÿÿÿ8Şğ¦ï1J$5d43f34e-a088-4676-b5fa-b73dcae1dcd2
+m	java:S106"+Replace this use of System.out by a logger.(†ŠÃ£8ËØó¥ï1J$0d264ae4-793f-49bc-8af3-a633c300cab6
+m	java:S106"+Replace this use of System.out by a logger.(±Ñâ·8ËØó¥ï1J$35388dd6-8a0b-4043-9872-15e95347dd6d
+r	java:S106("+Replace this use of System.out by a logger.(ƒğ¿Êşÿÿÿÿ8ËØó¥ï1J$0ea1afca-a621-4aea-b3e8-612f940fc12f
+r	java:S106+"+Replace this use of System.out by a logger.(ø…ÒÒıÿÿÿÿ8ËØó¥ï1J$037b9ebf-366f-4141-aa50-f5b24cd08f1c
+l	java:S1066"+Replace this use of System.out by a logger.(‘×€<8ÿåÿ¥ï1J$723c2d35-345f-4cd1-956b-6a293723a4bc
+l	java:S106:"+Replace this use of System.out by a logger.(ÌîØp8ÿåÿ¥ï1J$c87b15b4-ed03-404e-b0ca-9be7cdd88977
+r	java:S106?"+Replace this use of System.out by a logger.(İâ€Ûùÿÿÿÿ8İó‚¦ï1J$cb43451e-54e1-417f-adce-8e2446d6ef0b
+q
+java:S1481C")Remove this unused "max1" local variable.(Ÿ¥£±ıÿÿÿÿ8àğ¦ï1J$09bbf61e-5ba8-42bd-a24c-2b07145ab14d

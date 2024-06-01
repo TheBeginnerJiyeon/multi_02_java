@@ -1,0 +1,7 @@
+
+“
+java:S1598"ÏThis file "AutoSavedThread.java" should be located in "com\multi\practice\daemon" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\daemon".(Áõ¿Ò8¿¤ü‰ð1J$9e4af0b6-fb6f-4c99-b26a-c139a9ff1ba7
+l	java:S106"+Replace this use of System.out by a logger.(É×èJ8Ä¤ü‰ð1J$c87b7c07-c07c-4855-a7ca-cc4d71192db1
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‚¦¡ûûÿÿÿÿ8Å¤ü‰ð1J$bfe757ec-2b2f-4619-b3a6-84175ab4c76e
+p	java:S108")Either remove or fill this block of code.(‚¦¡ûûÿÿÿÿ8Æ¤ü‰ð1J$e0856991-aeb3-4442-8a8b-54787ed744a1

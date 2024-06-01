@@ -1,0 +1,44 @@
+
+r
+java:S3740<"/Provide the parametrized type for this generic.(™áûÑ8¬Ï‚‹ñ1J$fcb5a824-590d-4567-ac2c-62c8beb9d5c9
+r
+java:S3740<"/Provide the parametrized type for this generic.(™áûÑ8¬Ï‚‹ñ1J$ab5b2546-9735-4844-ba94-11237bfc05a2
+ 	java:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8­Ï‚‹ñ1J$8730b7c7-e1ab-4c19-9b03-653ff4e29d87
+“	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ãÉŒ8­Ï‚‹ñ1J$a17338a0-8167-4220-b0f1-be50bc36f4c4
+“	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ãÉŒ8­Ï‚‹ñ1J$5af19e01-f0c4-486b-924a-1a8941d0df64
+›
+java:S1104"SMake pr_list a static final constant or non-public and provide accessors if needed.(ş‡¶şÿÿÿÿ8­Ï‚‹ñ1J$d0fe490a-bce1-4a53-b64c-e5be08e7ab15
+u
+java:S1444"-Make this "public static pr_list" field final(ş‡¶şÿÿÿÿ8­Ï‚‹ñ1J$9aa46757-2edd-4e04-bb1a-35792ac5dfb2
+š
+java:S3008"RRename this field "pr_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‡¶şÿÿÿÿ8ÛÏ‚‹ñ1J$7bf422f1-5548-445a-895e-714423c4499d
+e
+java:S2386"Make this member "protected".(ş‡¶şÿÿÿÿ8ÛÏ‚‹ñ1J$f8eb5e66-c445-4bbe-b2c3-ad2043519c27
+r	java:S106"+Replace this use of System.out by a logger.(…ƒÃâúÿÿÿÿ8ŞÏ‚‹ñ1J$d8cfcd58-46d0-4414-9636-0b1f701123a2
+m	java:S106"+Replace this use of System.out by a logger.(Ÿˆƒ›8ŞÏ‚‹ñ1J$a85dd692-1c66-47e7-9778-94b149aac979
+m	java:S106"+Replace this use of System.out by a logger.(™ëã°8ŞÏ‚‹ñ1J$e8869a7f-d584-4245-b69c-986de2534df1
+m	java:S106"+Replace this use of System.out by a logger.(±µáÑ8ŞÏ‚‹ñ1J$20c2e213-21ae-4571-bdca-6886c0833038
+~
+java:S2696#"6Make the enclosing method "static" or remove this set.(öµá«ûÿÿÿÿ8ŞÏ‚‹ñ1J$6b40212d-51ed-4900-8cfa-a3084a4eab09
+r	java:S106,"+Replace this use of System.out by a logger.(‡®Å‰şÿÿÿÿ8ßÏ‚‹ñ1J$079dfa7b-3f95-46d3-bc77-5ec5ada9a339
+l	java:S106/"+Replace this use of System.out by a logger.(Û¿©d8ßÏ‚‹ñ1J$d16e9b67-84e4-4a11-8794-338aec060125
+r	java:S1062"+Replace this use of System.out by a logger.(ÒŒ…ıÿÿÿÿ8ßÏ‚‹ñ1J$a73666b6-fda8-4c46-bc1a-b4a69f9ec919
+•
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(„¿Ù÷8ßÏ‚‹ñ1J$3caed685-41d3-4cc4-8542-7bf483e3f32c
+^
+java:S3626^"Remove this redundant jump.(ÉŠ©ƒ8ßÏ‚‹ñ1J$41c3c284-f432-4a5e-b777-1d442631a22b
+^
+java:S3626h"Remove this redundant jump.(ÉŠ©ƒ8ßÏ‚‹ñ1J$ce650214-fb35-4ae8-a825-fb1f614042c0
+o
+java:S3599<",Use another way to initialize this instance.(™áûÑ8àÏ‚‹ñ1J$c5e2d072-5d5b-45f4-a332-596417346367
+œ
+java:S1171<"YMove the contents of this initializer to a standard constructor or to field initializers.(™áûÑ8àÏ‚‹ñ1J$ba6a1c52-9d59-4a66-b076-79b86d6d4a3f
+m	java:S106D"+Replace this use of System.out by a logger.(Øƒàí8àÏ‚‹ñ1J$fa7edb9e-783a-46f0-a033-6113837fc5ea
+~
+java:S1117K"6Rename "sc" which hides the field declared at line 10.(ğÛ²¸øÿÿÿÿ8àÏ‚‹ñ1J$c8a79236-f584-42a8-b9fa-7e86a84ba8d8
+m	java:S106L"+Replace this use of System.out by a logger.(¥¡Ù¢8àÏ‚‹ñ1J$294ff659-5076-493e-b8d6-f22eb93a74a2
+m	java:S106P"+Replace this use of System.out by a logger.(ñÓ™8àÏ‚‹ñ1J$0bd792e6-7e66-41ac-8457-c6e7818d1312
+m	java:S106a"+Replace this use of System.out by a logger.(ï”¤´8àÏ‚‹ñ1J$f115cb8f-a439-437d-93d6-613865764849
+r	java:S106b"+Replace this use of System.out by a logger.(Ş´öùÿÿÿÿ8àÏ‚‹ñ1J$5402b0d5-072f-4895-a45e-9a2d94ec3c17
+l	java:S106d"+Replace this use of System.out by a logger.(ûÒşu8âÏ‚‹ñ1J$866e60ae-b3dc-4996-afc7-89b15916bb93
+ƒ	java:S125r"<This block of commented-out lines of code should be removed.(¦ôŸÿûÿÿÿÿ8âÏ‚‹ñ1J$4015ca13-5697-4fad-9b49-eb4a83a53112

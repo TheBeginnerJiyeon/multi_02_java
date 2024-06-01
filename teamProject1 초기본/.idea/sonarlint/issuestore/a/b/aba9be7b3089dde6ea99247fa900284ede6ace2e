@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÔ¢ñùÿÿÿÿ8àƒšËö1J$c3e7462b-a07b-498d-b231-59a041a942fa
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8êƒšËö1J$4adb9be9-31de-425a-bda3-83e839431b59
+q
+java:S1068")Remove this unused "font1" private field.(Ôôƒîûÿÿÿÿ8íƒšËö1J$5ad93325-7515-45d6-879a-e0d4476a87b0

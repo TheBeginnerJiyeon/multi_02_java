@@ -1,0 +1,10 @@
+
+¦
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÎÚÓâøÿÿÿÿ8¦óÊ¡ğ1J$17f8e1fd-b111-4766-93f0-91f00c0200fe
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(Ñç«°ùÿÿÿÿ8¨óÊ¡ğ1J$77aad10d-3c1f-41d9-9285-480b65b0a500
+q
+java:S1905")Remove this unnecessary cast to "double".(ÎÚÓâøÿÿÿÿ8©óÊ¡ğ1J$2a63b954-1284-457d-9e86-5ddc02197690
+~	java:S125"<This block of commented-out lines of code should be removed.(Ã®ªÿ8æ²Ğ¡ğ1J$7f222181-4a99-4262-855c-806f0f41dcc2
+ƒ	java:S125M"<This block of commented-out lines of code should be removed.(òÖöÕıÿÿÿÿ8ªóÊ¡ğ1J$b7054bff-672c-47aa-be9a-25e2fa852b83
+m	java:S106T"+Replace this use of System.out by a logger.(‰„­8ªóÊ¡ğ1J$9778fea9-7dcb-45fc-8e1e-7cb76142a2ff

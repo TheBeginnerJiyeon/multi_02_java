@@ -1,0 +1,27 @@
+
+¤
+java:S1192"cDefine a constant instead of duplicating this literal "á„†á…¡á†°á„‹á…³á†« á„€á…©á„ƒá…µá†¨" 7 times.(Ï˜”úÿÿÿÿJ$15d763b0-f5fe-48ab-9bdc-66ac53b63b8d
+‘	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(——ííüÿÿÿÿJ$5d89e345-aa2c-4341-ab5a-19aff5b6919b
+d
+java:S1604J"(Make this anonymous inner class a lambda(ğÁËîJ$6f7ccd30-9959-47fd-a615-48b7a751c42e
+i
+java:S1604W"(Make this anonymous inner class a lambda(ÎåÖùÿÿÿÿJ$02c0e2b2-5d8b-4b4d-b4ef-a1cc2221504b
+i
+java:S1604d"(Make this anonymous inner class a lambda(úàáùÿÿÿÿJ$9329d753-d981-43ad-8edf-a21c96ad3fb8
+i
+java:S1604n"(Make this anonymous inner class a lambda(½øö—ûÿÿÿÿJ$67d00c57-001d-4883-b88c-9e798dfe87b5
+Š
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿJ$0893443b-f226-41ba-b5c4-ba15e5619547
+r
+java:S2696"6Make the enclosing method "static" or remove this set.(šé÷æJ$a1992e69-38e6-4a5c-b67b-892c857b551d
+w
+java:S2696&"6Make the enclosing method "static" or remove this set.(® ğ£üÿÿÿÿJ$14d1691d-5c48-4e8f-bae3-a837e3b6e945
+r
+java:S2696+"6Make the enclosing method "static" or remove this set.(ÿ›œ‹J$ed06efcb-ce88-4d60-a663-66ab1b7f3ca4
+r
+java:S2696P"6Make the enclosing method "static" or remove this set.(êæµ¼J$fe5bc6e3-03e1-43da-b134-efe3d8772062
+|	java:S125M"<This block of commented-out lines of code should be removed.(õ˜—¡ûÿÿÿÿJ$4fda8cd0-cfc8-40af-944f-d333697c54eb
+j
+java:S2140h")Use "java.util.Random.nextInt()" instead.(‡í¯ÕøÿÿÿÿJ$461759fa-f5c4-4105-8e1f-2e4d583c5115
+j
+java:S2140r")Use "java.util.Random.nextInt()" instead.(‡í¯ÕøÿÿÿÿJ$8e3cd702-677c-476b-86e5-fb478ce16b4e

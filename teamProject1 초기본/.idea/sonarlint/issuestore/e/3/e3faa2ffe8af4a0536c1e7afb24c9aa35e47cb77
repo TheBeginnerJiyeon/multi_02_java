@@ -1,0 +1,71 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÖÛúèö1J$7347eef8-8996-49c0-b48e-a3845dc099fb
+	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÖÛúèö1J$bbe58e43-0999-4703-a79c-a39454bcbc9b
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÖÛúèö1J$31000d9b-b116-441d-a1da-af29a6ebbab4
+	java:S112ã"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÖÛúèö1J$07656e31-8356-4b3e-9919-f9ab1ce17842
+	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÖÛúèö1J$f07dffd2-ac25-44c8-9638-ef124c0a0490
+	java:S112Ø"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8áğûèö1J$a899d094-9bad-4104-b8b2-41513501878f
+¢
+java:S11928"_Define a constant instead of duplicating this literal "sqlë¬¸ ì „ì†¡ ê²°ê³¼ result : " 3 times.(åÒ«—8ÖÛúèö1J$fb8a187d-4367-4969-84a8-8a4b9dc93a4f
+–
+java:S1192="NDefine a constant instead of duplicating this literal "ì»¤ë°‹ ì™„ë£Œ" 3 times.(â©›¨ûÿÿÿÿ8ÖÛúèö1J$ab7cc06f-506e-449e-bacb-8f1fcf097cf4
+œ
+java:S1192E"TDefine a constant instead of duplicating this literal "sql ì—ëŸ¬ ë°œìƒ!!" 4 times.(ö½×Ÿıÿÿÿÿ8ÖÛúèö1J$84c6c8b8-45ae-4d7f-a1d6-90100fd1e551
+˜	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÏ†áúÿÿÿÿ8ØÛúèö1J$0b390d76-0d8f-479b-82f0-199b81b178c7
+“	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì©¥J8ØÛúèö1J$c8f326de-2981-476f-b17d-ca9b1c6fc493
+”	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êâ’ä8ØÛúèö1J$3db039f4-da4e-44d9-9b69-4b82bfb8b9ac
+…
+java:S1163N"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ØÛúèö1J$9b14be80-5643-4c75-8c80-d82b25a7c00c
+…
+java:S1163"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ØÛúèö1J$c6a3c4bd-c60b-4488-b6b5-18f462f7d98b
+†
+java:S1163ã"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ØÛúèö1J$eda05535-0514-4d9f-bac1-3553351ae237
+†
+java:S1163œ"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ØÛúèö1J$0379c196-8e60-4d99-96a1-f1b0386d1bf8
+†
+java:S1163Ø"=Refactor this code to not throw exceptions in finally blocks.(Ò‚Òéüÿÿÿÿ8ãğûèö1J$3972f42a-813e-4079-8875-394f4a5acde6
+|
+java:S1143N"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ÙÛúèö1J$ecd29d71-8c1e-4e09-b047-a90c71dd9ff5
+|
+java:S1143"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ÙÛúèö1J$2c30c6cb-5d55-4afc-aa29-8104342f0aea
+}
+java:S1143ã"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ÙÛúèö1J$29c04d6f-bc62-4315-90c5-71fd3c44134f
+}
+java:S1143œ"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8ÙÛúèö1J$503cb6ac-b729-4e71-9843-17555a33c897
+}
+java:S1143Ø"4Remove this throw statement from this finally block.(Ò‚Òéüÿÿÿÿ8äğûèö1J$7a781829-84f9-40ca-b327-3fc58616caa2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øûôÉùÿÿÿÿ8ÙÛúèö1J$66e53c68-c236-484e-b8e2-8ff91f06678b
+‚
+java:S2259K"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ª8‹˜ûèö1J$f067e850-915f-4713-89a4-539e83198d0b
+ƒ
+java:S2259Õ"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ª8Üúèö1J$4682f3e9-dbb1-4f32-8041-39ebeabd4c0d
+‚
+java:S2259|"@A "NullPointerException" could be thrown; "ps" is nullable here.(ä›ª8 ñûèö1J$2d7d66b0-717c-4bfa-aca0-8d355cea9899
+‹
+java:S2259ß"BA "NullPointerException" could be thrown; "rset" is nullable here.(Ôó‡“úÿÿÿÿ8Üúèö1J$ea4f1fdb-c434-47f2-93d8-5d71857b0688
+‹
+java:S2259˜"BA "NullPointerException" could be thrown; "rset" is nullable here.(Ôó‡“úÿÿÿÿ8‘Üúèö1J$6044b40f-d166-4931-8c27-16cd9da4d372
+
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÀñÜâşÿÿÿÿ8‘Üúèö1J$3920e9c7-d7db-4a1e-a2da-85ab2e60992e
+l	java:S106"+Replace this use of System.out by a logger.(œçŠ8”Üúèö1J$7fd28dbf-b6f0-42a5-a5e7-79025eea7a5f
+m	java:S1068"+Replace this use of System.out by a logger.(åÒ«—8•Üúèö1J$5e2c9fe4-51d8-4b94-8e30-d047fd39917c
+r	java:S106;"+Replace this use of System.out by a logger.(õ¢İÅÿÿÿÿÿ8•Üúèö1J$6b82c9ab-282c-470c-9c67-029945ab987e
+r	java:S106="+Replace this use of System.out by a logger.(â©›¨ûÿÿÿÿ8•Üúèö1J$9a67b9c8-74c9-421f-88d0-ab7d5e5c3410
+r	java:S106@"+Replace this use of System.out by a logger.(õ‰ûÿÿÿÿ8•Üúèö1J$f7d154a6-9064-4a38-9bec-6666c5ecbaec
+r	java:S106E"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8–Üúèö1J$79bebe24-2473-4be8-a330-768358d7a2b3
+m	java:S106j"+Replace this use of System.out by a logger.(åÒ«—8–Üúèö1J$643fafe6-3161-4368-90c8-ca0c44de47ca
+r	java:S106m"+Replace this use of System.out by a logger.(½Ù®üûÿÿÿÿ8–Üúèö1J$600f160d-0c83-4ba3-b78e-fb6391772b26
+r	java:S106o"+Replace this use of System.out by a logger.(â©›¨ûÿÿÿÿ8–Üúèö1J$df069df3-fe50-4f5b-ac9c-50e3f79070b1
+m	java:S106r"+Replace this use of System.out by a logger.(¬°Æè8—Üúèö1J$52f50fca-6576-427e-8d18-18657b14828c
+r	java:S106w"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8—Üúèö1J$0323695a-3e2c-44cf-857d-72a5b1618899
+„	java:S125Š"<This block of commented-out lines of code should be removed.(ªœİ¿üÿÿÿÿ8—Üúèö1J$8adba555-3b8a-4a18-8a33-be1c9844ca17
+n	java:S106Ã"+Replace this use of System.out by a logger.(È’İõ8˜Üúèö1J$ae87f6ea-01b9-48b6-86cc-e5a9899e02b5
+n	java:S106×"+Replace this use of System.out by a logger.( º²á8™Üúèö1J$c778333a-8f7d-405a-915a-4fc6e2ff6022
+s	java:S106Ú"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8™Üúèö1J$14577a34-bfbc-4062-85a2-255679609397
+n	java:S106€"+Replace this use of System.out by a logger.(…É¨™8™Üúèö1J$d587aa15-c1d8-4b2a-84ca-6fd6a5f6f079
+n	java:S106“"+Replace this use of System.out by a logger.(ÿî­«8šÜúèö1J$4ecc8675-5c04-42e3-852f-20d041a0f67a
+n	java:S106Â"+Replace this use of System.out by a logger.(åÒ«—8œÜúèö1J$d94c621a-968f-45a4-8ee0-81d1ed0d4a4c
+n	java:S106Å"+Replace this use of System.out by a logger.(Â —¯8œÜúèö1J$010963b7-0ec8-4772-a027-4afa4054a056
+s	java:S106Ç"+Replace this use of System.out by a logger.(â©›¨ûÿÿÿÿ8œÜúèö1J$63582306-98ab-450b-86ff-0f1f6ad51bc1
+s	java:S106Ê"+Replace this use of System.out by a logger.(òÔüÿÿÿÿ8œÜúèö1J$fc65f353-3b12-4893-a115-be4b208dec4d
+s	java:S106Ï"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8œÜúèö1J$58adb083-1a1e-429c-bd0e-108ce3194941

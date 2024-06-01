@@ -1,0 +1,36 @@
+
+Š
+java:S1659
+"BDeclare "image" and all following declarations on a separate line.(â­öñùÿÿÿÿ8ûÕÊ˜ñ1J$bff192f4-37bf-48bf-9f57-860b30649f37
+p
+java:S1948"(Make "count2" transient or serializable.(¤Ì»„üÿÿÿÿ8ûÕÊ˜ñ1J$fcaf248d-61aa-4fdb-ba9e-687a7b090bc3
+n
+java:S1948"&Make "day2" transient or serializable.(á˜¼“øÿÿÿÿ8üÕÊ˜ñ1J$8de38f49-f3ac-4757-92da-1d32e7cbffaf
+p
+java:S1948"(Make "image2" transient or serializable.(ˆÌıÿÿÿÿ8üÕÊ˜ñ1J$6a9ea96c-96f7-4b3a-ad55-71c87ec798de
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(¬‘…ùÿÿÿÿ8üÕÊ˜ñ1J$4a401d15-38ee-4521-b466-d019122d1f34
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(¬‘…ùÿÿÿÿ8üÕÊ˜ñ1J$88696bec-73dd-4649-a146-a3b80c9b41dd
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(¬‘…ùÿÿÿÿ8üÕÊ˜ñ1J$5af0baa2-da0b-4ed2-aa03-9f9c65c2e874
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8ıÕÊ˜ñ1J$c5f29a8d-4bc8-437f-8825-8dc104e3ceb8
+m	java:S1061"+Replace this use of System.out by a logger.(¥Ä8€ÖÊ˜ñ1J$7644895f-5c40-4011-bd1d-00804cca1335
+¡
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8€ÖÊ˜ñ1J$0679579e-7497-42fb-b5d0-099f45abb93e
+r	java:S1067"+Replace this use of System.out by a logger.(×»Øÿÿÿÿÿ8€ÖÊ˜ñ1J$c1c609f0-13c4-4c5f-bc77-164bf912bddf
+ƒ	java:S125B"<This block of commented-out lines of code should be removed.(”¯ıáşÿÿÿÿ8¥ß›ñ1J$622cc157-7788-4fc8-ab31-312cba939af2
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(å¿òÿÿÿÿÿ8À¬‘›ñ1J$4afbf0b3-d1eb-4c10-aa82-ea80f47711ff
+m	java:S106W"+Replace this use of System.out by a logger.(ñĞİš8ıÇª™ñ1J$00ebcc86-6001-4031-824f-f32bcdab4c33
+¡
+java:S2142["^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÖÊ˜ñ1J$8f55b647-2f33-47e5-bc9c-b744304b0c4d
+r	java:S106]"+Replace this use of System.out by a logger.(¡Ëâûÿÿÿÿ8º®™ñ1J$9d7be2d0-d7d0-4309-a7b5-1453419caca6
+~	java:S125\"<This block of commented-out lines of code should be removed.(ÜŸßå8…Ñ‚›ñ1J$18a26e63-9d29-4520-a9f5-b2257df070dc
+r	java:S106s"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8º®™ñ1J$d1311fee-174e-416b-a22e-707a430dc898
+r	java:S106t"+Replace this use of System.out by a logger.(³İÌÉıÿÿÿÿ8Ô²™ñ1J$c222da74-45d1-4623-8406-dea1a20c68a3
+¡
+java:S2142{"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ƒÖÊ˜ñ1J$c7e0d8af-ec55-4912-81cd-303d456b8875
+m	java:S106}"+Replace this use of System.out by a logger.(Ù¢©Ù8‚Ô²™ñ1J$3cb749a6-0c36-41f7-8f04-e093bb020dcd
+~
+java:S1854Œ"5Remove this useless assignment to local variable "f".(Ù‹¤òùÿÿÿÿ8½¡‚šñ1J$b5cfbbb3-5640-47aa-a63b-56e8606c9de2
+o
+java:S1481Œ"&Remove this unused "f" local variable.(Ù‹¤òùÿÿÿÿ8¾¡‚šñ1J$ceff8bad-d0b6-47b9-bafc-c7c770035795
+	java:S125—"<This block of commented-out lines of code should be removed.(Ø‰Ü8…ÖÊ˜ñ1J$2379e6bd-63b5-4cef-86d7-424bf35baf05

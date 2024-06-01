@@ -1,0 +1,13 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(ŞÛøÎ8áˆã ñ1J$1dcfc782-225e-4604-963b-0a6867425355
+p
+java:S1604 "(Make this anonymous inner class a lambda(à¶²¶ûÿÿÿÿ8áˆã ñ1J$a9aa72b0-a2a4-4535-842a-9b65d5c35012
+k
+java:S1604+"(Make this anonymous inner class a lambda(ÍÆˆà8áˆã ñ1J$cabb9e4f-4fe7-4274-a049-e6852b974218
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ½˜›8áˆã ñ1J$90644681-aca6-43d5-9869-a60f9cac342d
+‘
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8ëˆã ñ1J$64d19785-8236-428f-836c-11707b0a52ed
+m	java:S106G"+Replace this use of System.out by a logger.(Î’ÛÚ8’æ ñ1J$c91e8790-7bc9-4453-805c-d2b8c08c0d07
+r	java:S106I"+Replace this use of System.out by a logger.(ÛÛ§¿úÿÿÿÿ8”øæ ñ1J$e6152af6-8ea0-4048-9128-d235feb11e66
+m	java:S106J"+Replace this use of System.out by a logger.(µˆœÑ8”ûé ñ1J$e8bb3392-a984-4599-844e-297deb3302d4

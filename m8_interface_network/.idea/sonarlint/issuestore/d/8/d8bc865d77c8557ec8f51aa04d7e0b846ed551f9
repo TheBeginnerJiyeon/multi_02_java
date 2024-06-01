@@ -1,0 +1,12 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(·ı‡êüÿÿÿÿ8Æµø¸ó1J$f69ca699-f32b-41e7-a08f-d4b878b32520
+k
+java:S1604-"(Make this anonymous inner class a lambda(ü¡Á«8Çµø¸ó1J$479619a4-3760-4118-8990-77212131f158
+
+java:S20954"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ıå£†8Îµø¸ó1J$fad44a43-7135-4b0e-b045-68cb79b0a685
+j
+java:S2189U""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8æôù¸ó1J$575f4d67-7f44-4cba-8379-f5afdbb171f1
+p
+java:S1948"(Make "socket" transient or serializable.(¥¤‰Äùÿÿÿÿ8Ïµø¸ó1J$e8281d3e-6834-4df9-af33-66cbee6e55f2
+}
+java:S11174":Rename "socket" which hides the field declared at line 15.(ıå£†8Õµø¸ó1J$a78e5042-7df3-40e6-8732-057412d8a4bc

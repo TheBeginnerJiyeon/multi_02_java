@@ -1,0 +1,29 @@
+
+	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(ΌÿΎΉÿÿÿÿÿ8Ϊ®»ύτ1J$2293548c-b027-434f-aafd-9d5f554e2dfe
+	java:S112Ά"FDefine and throw a dedicated exception instead of using a generic one.(ΌÿΎΉÿÿÿÿÿ8Ϊ®»ύτ1J$417bd034-4fec-4fb3-98d5-fc5d779afeb0
+	java:S112Ψ"FDefine and throw a dedicated exception instead of using a generic one.(ΌÿΎΉÿÿÿÿÿ8Ϊ®»ύτ1J$2f3243c7-f382-4a33-ba7b-353277b6621f
+q
+java:S1604†"(Make this anonymous inner class a lambda(μψ¤νψÿÿÿÿ8Ϋ®»ύτ1J$490c5af6-8c96-4d75-a8ea-1e4ad6266f6c
+q
+java:S1604Έ"(Make this anonymous inner class a lambda(ΉϊΙ΅ωÿÿÿÿ8Ϋ®»ύτ1J$058308f6-dbcd-4ace-b370-ceaa7fb3d53a
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Χξ§8ά®»ύτ1J$578c99f1-1ab5-4a37-a295-d8c7d81bfaa1
+k
+java:S2189υ""Add an end condition to this loop.(οÿÿÿÿÿ8η®»ύτ1J$a47a0a2b-326a-42cf-b299-48a29e2543ab
+’
+java:S1450"PRemove the "p" field and declare it as a local variable in the relevant methods.(ª¤<8θ®»ύτ1J$5e62b93b-87d1-40f4-af44-ea131e2c69a7
+™
+java:S1450"QRemove the "p1" field and declare it as a local variable in the relevant methods.(Λ’³Άϊÿÿÿÿ8θ®»ύτ1J$188ad614-926e-422f-a648-b1c56bf13274
+™
+java:S1450"QRemove the "p2" field and declare it as a local variable in the relevant methods.(βάΠ§ωÿÿÿÿ8θ®»ύτ1J$9e6f24e2-9308-43bb-b659-8f4c79cebcda
+™
+java:S1450"QRemove the "p3" field and declare it as a local variable in the relevant methods.(±ίÒ§ύÿÿÿÿ8θ®»ύτ1J$ea370d87-0175-4c18-ba71-0def5c8e67d8
+”
+java:S1450"QRemove the "p4" field and declare it as a local variable in the relevant methods.(»΄“8θ®»ύτ1J$32c0659e-c958-42cd-bf17-b938a0d54c5a
+”
+java:S1450"QRemove the "p5" field and declare it as a local variable in the relevant methods.(μΔ8θ®»ύτ1J$d15d982a-2cbe-4b86-88f6-5ef62e791676
+‘
+java:S32523"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒΌ–χϊÿÿÿÿ8κ®»ύτ1J$4844bc01-c555-4589-aa4b-835d95c5b800
+s	java:S106‘"+Replace this use of System.out by a logger.(Ά¦Ηωÿÿÿÿ8ο®»ύτ1J$2b41d624-8d72-4fc0-baca-6e4682e9c4ff
+m	java:S106Δ"+Replace this use of System.out by a logger.(‚‰18π®»ύτ1J$335d041b-fe9f-4373-a52d-9be70c279826
+s	java:S106€"+Replace this use of System.out by a logger.(ηα¶ύϋÿÿÿÿ8ς®»ύτ1J$48f640eb-ebcd-4d1d-90ee-dac7d8e67a02
+n	java:S106…"+Replace this use of System.out by a logger.(ΑΌγ‰8ς®»ύτ1J$9e6460dc-8d3a-439c-a477-bdcee7735da5

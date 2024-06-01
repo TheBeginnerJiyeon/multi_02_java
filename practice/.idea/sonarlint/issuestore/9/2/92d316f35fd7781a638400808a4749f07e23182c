@@ -1,0 +1,13 @@
+
+‘
+java:S1598"ÏThis file "VarExample1.java" should be located in "com\multi\practice\appendix" directory, not in "C:\Users\dkswl\OneDrive\Documents\code_upload\Auto_window\multi_it\backend\web-workspace\practice\appendix".(˜Ş’ÖıÿÿÿÿJ$f882bb9f-f7d1-424c-82c0-cdef643120fe
+W
+java:S1854"5Remove this useless assignment to local variable "y".(„òƒ¤ÿÿÿÿÿ8ğö³ğ1
+Q
+java:S1854"5Remove this useless assignment to local variable "x".(­ı€L8ğö³ğ1
+B
+java:S1481"&Remove this unused "x" local variable.(­ı€L8‚ğö³ğ1
+H
+java:S1481"&Remove this unused "y" local variable.(„òƒ¤ÿÿÿÿÿ8‚ğö³ğ1
+
+java:S3400"9Remove this method and declare a constant for this value.( óÎÈúÿÿÿÿ8ßêõ³ğ1J$32ecb476-7bca-48d5-a14d-2cbaf9c20d99

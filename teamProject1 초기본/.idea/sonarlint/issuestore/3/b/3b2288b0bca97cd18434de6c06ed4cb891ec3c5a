@@ -1,0 +1,37 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8àÚšÉö1J$0aeb24db-af1d-4063-aeea-8b82feb81796
+¢
+java:S1192@"_Define a constant instead of duplicating this literal "sqlë¬¸ ì „ì†¡ ê²°ê³¼ result : " 3 times.(åÒ«—8áÚšÉö1J$f771d809-80a6-4b20-9515-47911dd1384e
+–
+java:S1192E"NDefine a constant instead of duplicating this literal "ì»¤ë°‹ ì™„ë£Œ" 3 times.(â©›¨ûÿÿÿÿ8áÚšÉö1J$7e9ee417-d8a8-4665-9bef-c5c6b88b4b11
+œ
+java:S1192M"TDefine a constant instead of duplicating this literal "sql ì—ëŸ¬ ë°œìƒ!!" 4 times.(ö½×Ÿıÿÿÿÿ8áÚšÉö1J$c87308ac-c63b-4530-92a2-06b0d5fa0b11
+˜	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÏ†áúÿÿÿÿ8áÚšÉö1J$76f76163-650a-46a4-9291-4d9e03f5a6e3
+“	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì©¥J8áÚšÉö1J$2d6718f8-952e-445e-bd46-d7a6a6b5936c
+™	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‚ÿõøÿÿÿÿ8áÚšÉö1J$30ef9a1b-5ab9-4e61-b980-dc8a4c74ac6d
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±œÄ8âÚšÉö1J$7a06aa04-f2fe-4907-be7b-99e4d60867fa
+
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(†ŸÊüÿÿÿÿ8æÚšÉö1J$6e1cd742-ecd8-4e56-91fd-fda43ad21705
+l	java:S106"+Replace this use of System.out by a logger.(œçŠ8êÚšÉö1J$eaa446c5-d9fb-42fd-abfe-176434faed65
+m	java:S106@"+Replace this use of System.out by a logger.(åÒ«—8ëÚšÉö1J$76ea955f-ea99-429e-9253-b95a93f0d2cb
+r	java:S106C"+Replace this use of System.out by a logger.(õ¢İÅÿÿÿÿÿ8ëÚšÉö1J$2fcc2bae-89ba-42c1-a0b8-8aa804621031
+r	java:S106E"+Replace this use of System.out by a logger.(â©›¨ûÿÿÿÿ8ëÚšÉö1J$00334306-1f6b-4c6d-9fd0-77a74ee2aa57
+r	java:S106H"+Replace this use of System.out by a logger.(õ‰ûÿÿÿÿ8ëÚšÉö1J$8df0f88b-1ab1-4149-96a3-d3cb46c3ac4d
+r	java:S106M"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8ëÚšÉö1J$655db760-03ee-472f-926d-248562bcc4cc
+m	java:S106r"+Replace this use of System.out by a logger.(åÒ«—8ìÚšÉö1J$b69d9b16-19ea-4b14-9643-805ea27cd541
+r	java:S106u"+Replace this use of System.out by a logger.(½Ù®üûÿÿÿÿ8ìÚšÉö1J$6e0488f8-4d2e-47fd-b269-695ed4f5a115
+r	java:S106w"+Replace this use of System.out by a logger.(â©›¨ûÿÿÿÿ8ìÚšÉö1J$39355581-d796-412a-84bc-8f1e20dfa47c
+m	java:S106z"+Replace this use of System.out by a logger.(¬°Æè8ìÚšÉö1J$cb19a087-6523-4560-bdd4-373fb3b9ffca
+r	java:S106"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8ìÚšÉö1J$636018b9-be3b-429a-990f-1748968c93e5
+„	java:S125"<This block of commented-out lines of code should be removed.(ªœİ¿üÿÿÿÿ8íÚšÉö1J$8d9cfad8-3e63-48c2-b0a7-18e858f9c327
+n	java:S106Ì"+Replace this use of System.out by a logger.(È’İõ8íÚšÉö1J$9e039b26-16f9-498e-a905-b7ccab2d2d37
+n	java:S106à"+Replace this use of System.out by a logger.( º²á8îÚšÉö1J$29e74a63-2bbb-4be3-8bc0-d0b649d09338
+s	java:S106ã"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8îÚšÉö1J$13502f72-e82f-44a7-b94f-0e114447aa1a
+–	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‚ÿõøÿÿÿÿ8îÚšÉö1J$13c78a6a-96e2-4d9d-aa2f-f73551f66564
+n	java:S106ˆ"+Replace this use of System.out by a logger.(…É¨™8ïÚšÉö1J$800ebe4b-05d5-4553-9baf-e64873141a93
+n	java:S106š"+Replace this use of System.out by a logger.(ÿî­«8ğÚšÉö1J$df6ac1fe-5958-447c-8c26-012225e1dcdb
+n	java:S106Ë"+Replace this use of System.out by a logger.(åÒ«—8é°­Éö1J$54c412ab-87ad-49cd-b60e-245e3aa2b3e7
+n	java:S106Î"+Replace this use of System.out by a logger.(Â —¯8é°­Éö1J$2b926ccf-6744-4a57-bb82-86a5aa093477
+s	java:S106Ğ"+Replace this use of System.out by a logger.(â©›¨ûÿÿÿÿ8ê°­Éö1J$e214725e-335f-47e3-a33f-7d63b9c036f4
+s	java:S106Ó"+Replace this use of System.out by a logger.(òÔüÿÿÿÿ8ê°­Éö1J$26305808-f16a-4461-b7f5-402aa5b735a0
+s	java:S106Ø"+Replace this use of System.out by a logger.(ö½×Ÿıÿÿÿÿ8ê°­Éö1J$c69282ff-d5a8-4a71-b237-3cda8d705f1a

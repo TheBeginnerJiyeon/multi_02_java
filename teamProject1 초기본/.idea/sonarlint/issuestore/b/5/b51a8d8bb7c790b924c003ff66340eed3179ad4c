@@ -1,0 +1,40 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¸…Äüÿÿÿÿ
+f
+java:S1450	"PRemove the "f" field and declare it as a local variable in the relevant methods.(ŞÍÌ’
+L
+java:S2696$"6Make the enclosing method "static" or remove this set.(ğª¥‘
+d
+java:S3252%"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ
+K
+java:S2696C"6Make the enclosing method "static" or remove this set.(µ•»
+Q
+java:S2696I"6Make the enclosing method "static" or remove this set.(Ò³ ¯ıÿÿÿÿ
+Q
+java:S2696N"6Make the enclosing method "static" or remove this set.(¸–öÔûÿÿÿÿ
+L
+java:S2696R"6Make the enclosing method "static" or remove this set.(Éº›â
+L
+java:S2696^"6Make the enclosing method "static" or remove this set.(ã€áğ
+Q
+java:S2696c"6Make the enclosing method "static" or remove this set.(ù¢Íòùÿÿÿÿ
+Q
+java:S2696o"6Make the enclosing method "static" or remove this set.(€€Îúÿÿÿÿ
+Q
+java:S2696u"6Make the enclosing method "static" or remove this set.(ª ÄÖÿÿÿÿÿ
+Q
+java:S2696z"6Make the enclosing method "static" or remove this set.(ŞòäÁüÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(šçÃüÿÿÿÿ
+R
+java:S2696„"6Make the enclosing method "static" or remove this set.(§ÄÌïüÿÿÿÿ
+R
+java:S2696‰"6Make the enclosing method "static" or remove this set.(ïÔßìıÿÿÿÿ
+R
+java:S2696"6Make the enclosing method "static" or remove this set.(Í±§’ùÿÿÿÿ
+R
+java:S2696”"6Make the enclosing method "static" or remove this set.(¯§ÛÌüÿÿÿÿ
+R
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(Ìì¼ıÿÿÿÿ
+R
+java:S2696¥"6Make the enclosing method "static" or remove this set.(È„ığüÿÿÿÿ

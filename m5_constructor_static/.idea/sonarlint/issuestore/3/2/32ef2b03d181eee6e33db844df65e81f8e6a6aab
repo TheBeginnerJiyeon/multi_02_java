@@ -1,0 +1,10 @@
+
+{
+java:S1854"8Remove this useless assignment to local variable "acc2".(Ï–õÎ8°¸¢Ãğ1J$b6b586ee-4d94-4567-80af-e2d2f50bdaa1
+r	java:S106"+Replace this use of System.out by a logger.(†Ïıúÿÿÿÿ8ĞÿœÃğ1J$3a5b1ee8-f891-45b8-87ba-35aa5fcc3663
+l
+java:S1481")Remove this unused "acc2" local variable.(Ï–õÎ8¤ß¨Ãğ1J$d40db132-9e77-4b1e-9d3c-9000a81c0301
+r	java:S106"+Replace this use of System.out by a logger.(°“»§şÿÿÿÿ8ÑÿœÃğ1J$b10bd3d3-5321-475e-a472-cbba01a12098
+r	java:S106"+Replace this use of System.out by a logger.(¹·‘›ûÿÿÿÿ8»Å£Ãğ1J$d776654d-c5ee-4438-8194-9eb47f33d2ab
+m	java:S106"+Replace this use of System.out by a logger.(Ô©Ôâ8ˆ¦Ãğ1J$88e6b35b-36d8-4741-aca8-230f35634beb
+m	java:S106"+Replace this use of System.out by a logger.(Ô©Ôâ8•°Ãğ1J$01cdbefc-c769-4088-8318-657a29ad240b

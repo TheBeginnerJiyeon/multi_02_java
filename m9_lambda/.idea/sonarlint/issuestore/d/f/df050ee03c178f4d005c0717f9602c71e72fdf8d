@@ -1,0 +1,38 @@
+
+k
+java:S1604"(Make this anonymous inner class a lambda(óöÑ¯8şß×¿ó1J$620a69b3-f75e-4b35-adc8-bdaef483c8eb
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş´±^8ØõÖ¿ó1J$b583a6b1-e7e8-4164-9014-89db580d73eb
+|
+java:S1854*"9Remove this useless assignment to local variable "func2".(¬ò£·8õ¿ó1J$74b1714b-4671-4ddb-8025-df9e06f68db4
+
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(óöÑ¯8Šà×¿ó1J$6c55b807-6a28-4a93-9921-6d87965b54df
+m	java:S106""+Replace this use of System.out by a logger.(¤Û¨·8à×¿ó1J$8d7846ef-238e-46aa-95ca-a8e3854f3afd
+r	java:S106)"+Replace this use of System.out by a logger.(Ñèê­øÿÿÿÿ8à×¿ó1J$2f834d64-048d-4672-83de-05054d727b75
+
+java:S4276-"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(À°†üÿÿÿÿ8à×¿ó1J$4c03b3ae-8e6d-41a8-a9c7-796f146430c1
+{
+java:S1611-"3Remove the parentheses around the "value" parameter(À°†üÿÿÿÿ8à×¿ó1J$a948ffb3-724a-413b-9c05-f4b1a0a2bd82
+m	java:S106/"+Replace this use of System.out by a logger.(ÿş«Ä8‘à×¿ó1J$1584c9ba-4740-4fa9-a490-cfa1c8676f65
+~	java:S1253"<This block of commented-out lines of code should be removed.(•ØÅ–8‘à×¿ó1J$ef70ca5b-e9a3-4f4d-9bd9-b998efeb70f7
+
+java:S16128"=Replace this lambda with method reference 'Student::getName'.(áÙ¯%8¾‘Ü¿ó1J$4622c963-b898-4d72-81f3-4042f059a95d
+r	java:S1069"+Replace this use of System.out by a logger.(Ö­ä–ûÿÿÿÿ8‘à×¿ó1J$6cae2315-f04f-47f2-81f2-3698461480fc
+¤
+java:S4276<"\Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Student>'(ÁË°üøÿÿÿÿ8¾‘Ü¿ó1J$19143d57-4c63-4be2-9eef-a67aa59fd5d5
+„
+java:S1612<"<Replace this lambda with method reference 'Student::getAge'.(ÁË°üøÿÿÿÿ8¾‘Ü¿ó1J$9c16444d-f8be-4767-8475-1bc96a92b25a
+r	java:S106="+Replace this use of System.out by a logger.(¨šä×øÿÿÿÿ8‘à×¿ó1J$d434830b-3586-4bae-8c1d-5269b45008be
+r	java:S106T"+Replace this use of System.out by a logger.(•°®§ÿÿÿÿÿ8‘à×¿ó1J$72839229-a7fb-41fb-8ab8-7d867db8bc84
+q
+java:S1611U"/Remove the parentheses around the "s" parameter(•ÌÔr8‘à×¿ó1J$a61e9827-f685-4e4a-874c-9c28976d8d04
+•
+java:S1602U"SRemove useless curly braces around statement and then remove useless return keyword(•ÌÔr8“à×¿ó1J$ef7f7a29-0d6a-490f-899a-008e08f70f1f
+
+java:S1612U"=Replace this lambda with method reference 'Student::getMath'.(•ÌÔr8¿‘Ü¿ó1J$4d892fd2-d799-40e9-bdf9-ffd9e6611f85
+€
+java:S1612X"=Replace this lambda with method reference 'Student::getMath'.(¨¶øê8¿‘Ü¿ó1J$fdb022fc-54c0-4fe5-85f8-bf2695327028
+r	java:S106Z"+Replace this use of System.out by a logger.(°“›Šıÿÿÿÿ8“à×¿ó1J$359fce9a-eb6d-4a4c-bd81-c6a1ed92cde8
+ˆ
+java:S1612["@Replace this lambda with method reference 'Student::getEnglish'.(°”˜ÿÿÿÿÿ8À‘Ü¿ó1J$0ead3c56-06ec-43fb-a2ed-d59d2c194150
+r	java:S106]"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8“à×¿ó1J$5f5a91a9-7f25-4652-9e63-eeb26583393d
+r	java:S106b"+Replace this use of System.out by a logger.(Ñ¦ÊÜøÿÿÿÿ8“à×¿ó1J$b044d0f8-ab39-404a-9683-54a97473bf2c
